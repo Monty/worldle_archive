@@ -46,6 +46,7 @@ Have fun playing!
 [01 Mar 2022](https://web.archive.org/web/20220301130210/https://worldle.teuteuf.fr/)  
 [02 Mar 2022](https://web.archive.org/web/20220302152622/https://worldle.teuteuf.fr/)  
 [03 Mar 2022](https://web.archive.org/web/20220303063908/https://worldle.teuteuf.fr/)  
+[04 Mar 2022](https://web.archive.org/web/20220304122134/https://worldle.teuteuf.fr/)  
 [05 Mar 2022](https://web.archive.org/web/20220305075806/https://worldle.teuteuf.fr/)  
 
 # Images for all 242 countries
