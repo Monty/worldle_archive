@@ -67,6 +67,7 @@ Have fun playing!
 [22 Mar 2022](https://web.archive.org/web/20220322075325/https://worldle.teuteuf.fr/)  
 [23 Mar 2022](https://web.archive.org/web/20220323140626/https://worldle.teuteuf.fr/)  
 [24 Mar 2022](https://web.archive.org/web/20220324140635/https://worldle.teuteuf.fr/)  
+[25 Mar 2022](https://web.archive.org/web/20220325062725/https://worldle.teuteuf.fr/)  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
