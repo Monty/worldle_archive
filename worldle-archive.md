@@ -100,6 +100,7 @@ Have fun playing!
 [22 Apr 2022](https://web.archive.org/web/20220422145820/https://worldle.teuteuf.fr/)  
 [23 Apr 2022](https://web.archive.org/web/20220423043130/https://worldle.teuteuf.fr/)  
 [24 Apr 2022](https://web.archive.org/web/20220424170508/https://worldle.teuteuf.fr/)  
+[25 Apr 2022](https://web.archive.org/web/20220425163013/https://worldle.teuteuf.fr/)  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
