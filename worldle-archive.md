@@ -9,106 +9,637 @@ Until @teuteuf includes a way to play previous days' puzzles, you can use the
 play older ones. However, it's missing a number of puzzles prior to Feb 6, and
 can be slow or unreliable.
 
+Worldle is a great way to improve your knowledge of the world, one country at a
+time. The answers have a link to a Google map of the country, which includes
+some "Quick facts" and "Photos".
+
+If you're unable to solve a puzzle, or just want to learn more about a country,
+click "Show answer" to reveal the link.
+
 Have fun playing!
 
 ## Jan 2022
 [26 Jan 2022](https://web.archive.org/web/20220126132630/https://worldle.teuteuf.fr/)  
-[28 Jan 2022](https://web.archive.org/web/20220128035411/https://worldle.teuteuf.fr/)
+![](images/013.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Australia (Google)](https://www.google.com/maps?q=Australia+AU&hl=en)  
+[Australia (amCharts)](https://www.amcharts.com/svg-maps/?map=australia)</details>
+
+[28 Jan 2022](https://web.archive.org/web/20220128035411/https://worldle.teuteuf.fr/)  
+![](images/128.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Sri Lanka (Google)](https://www.google.com/maps?q=Sri+Lanka+LK&hl=en)  
+[Sri Lanka (amCharts)](https://www.amcharts.com/svg-maps/?map=sriLanka)</details>
 
 ## Feb 2022
 [03 Feb 2022](https://web.archive.org/web/20220203081015/https://worldle.teuteuf.fr/)  
+![](images/181.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Paraguay (Google)](https://www.google.com/maps?q=Paraguay+PY&hl=en)  
+[Paraguay (amCharts)](https://www.amcharts.com/svg-maps/?map=paraguay)</details>
+
 [04 Feb 2022](https://web.archive.org/web/20220204042914/https://worldle.teuteuf.fr/)  
+![](images/154.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Malaysia (Google)](https://www.google.com/maps?q=Malaysia+MY&hl=en)  
+[Malaysia (amCharts)](https://www.amcharts.com/svg-maps/?map=malaysia)</details>
+
 [06 Feb 2022](https://web.archive.org/web/20220206193615/https://worldle.teuteuf.fr/)  
+![](images/001.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Andorra (Google)](https://www.google.com/maps?q=Andorra+AD&hl=en)  
+[Andorra (amCharts)](https://www.amcharts.com/svg-maps/?map=andorra)</details>
+
 [07 Feb 2022](https://web.archive.org/web/20220207135159/https://worldle.teuteuf.fr/)  
+![](images/216.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Timor-Leste (Google)](https://www.google.com/maps?q=Timor-Leste+TL&hl=en)  
+[Timor-Leste (amCharts)](https://www.amcharts.com/svg-maps/?map=eastTimor)</details>
+
 [08 Feb 2022](https://web.archive.org/web/20220208131124/https://worldle.teuteuf.fr/)  
+![](images/094.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Hong Kong (Google)](https://www.google.com/maps?q=Hong+Kong+HK&hl=en)  
+[Hong Kong (amCharts)](https://www.amcharts.com/svg-maps/?map=hongKong)</details>
+
 [09 Feb 2022](https://web.archive.org/web/20220209171030/https://worldle.teuteuf.fr/)  
+![](images/067.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Eritrea (Google)](https://www.google.com/maps?q=Eritrea+ER&hl=en)  
+[Eritrea (amCharts)](https://www.amcharts.com/svg-maps/?map=eritrea)</details>
+
 [10 Feb 2022](https://web.archive.org/web/20220210053612/https://worldle.teuteuf.fr/)  
+![](images/052.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Cape Verde (Google)](https://www.google.com/maps?q=Cabo+Verde+CV&hl=en)  
+[Cape Verde (amCharts)](https://www.amcharts.com/svg-maps/?map=capeVerde)</details>
+
 [11 Feb 2022](https://web.archive.org/web/20220211134828/https://worldle.teuteuf.fr/)  
+![](images/090.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Guatemala (Google)](https://www.google.com/maps?q=Guatemala+GT&hl=en)  
+[Guatemala (amCharts)](https://www.amcharts.com/svg-maps/?map=guatemala)</details>
+
 [12 Feb 2022](https://web.archive.org/web/20220212175633/https://worldle.teuteuf.fr/)  
+![](images/126.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Saint Lucia (Google)](https://www.google.com/maps?q=Saint+Lucia+LC&hl=en)  
+[Saint Lucia (amCharts)](https://www.amcharts.com/svg-maps/?map=stLucia)</details>
+
 [13 Feb 2022](https://web.archive.org/web/20220213142421/https://worldle.teuteuf.fr/)  
+![](images/164.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Nepal (Google)](https://www.google.com/maps?q=Nepal+NP&hl=en)  
+[Nepal (amCharts)](https://www.amcharts.com/svg-maps/?map=nepal)</details>
+
 [14 Feb 2022](https://web.archive.org/web/20220214140137/https://worldle.teuteuf.fr/)  
+![](images/056.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Czechia (Google)](https://www.google.com/maps?q=Czechia+CZ&hl=en)  
+[Czechia (amCharts)](https://www.amcharts.com/svg-maps/?map=czechRepublic)</details>
+
 [15 Feb 2022](https://web.archive.org/web/20220215162534/https://worldle.teuteuf.fr/)  
+![](images/093.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Guyana (Google)](https://www.google.com/maps?q=Guyana+GY&hl=en)  
+[Guyana (amCharts)](https://www.amcharts.com/svg-maps/?map=guyana)</details>
+
 [16 Feb 2022](https://web.archive.org/web/20220216145643/https://worldle.teuteuf.fr/)  
+![](images/129.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Liberia (Google)](https://www.google.com/maps?q=Liberia+LR&hl=en)  
+[Liberia (amCharts)](https://www.amcharts.com/svg-maps/?map=liberia)</details>
+
 [17 Feb 2022](https://web.archive.org/web/20220217163932/https://worldle.teuteuf.fr/)  
+![](images/167.svg)
+<details><summary><b>Show answer</b></summary>
+
+[New Zealand (Google)](https://www.google.com/maps?q=New+Zealand+NZ&hl=en)  
+[New Zealand (amCharts)](https://www.amcharts.com/svg-maps/?map=newZealand)</details>
+
 [18 Feb 2022](https://web.archive.org/web/20220218171349/https://worldle.teuteuf.fr/)  
+![](images/202.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Suriname (Google)](https://www.google.com/maps?q=Suriname+SR&hl=en)  
+[Suriname (amCharts)](https://www.amcharts.com/svg-maps/?map=suriname)</details>
+
 [19 Feb 2022](https://web.archive.org/web/20220219140503/https://worldle.teuteuf.fr/)  
+![](images/241.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Zambia (Google)](https://www.google.com/maps?q=Zambia+ZM&hl=en)  
+[Zambia (amCharts)](https://www.amcharts.com/svg-maps/?map=zambia)</details>
+
 [20 Feb 2022](https://web.archive.org/web/20220220155207/https://worldle.teuteuf.fr/)  
+![](images/078.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Georgia (Google)](https://www.google.com/maps?q=Georgia+GE&hl=en)  
+[Georgia (amCharts)](https://www.amcharts.com/svg-maps/?map=georgia)</details>
+
 [21 Feb 2022](https://web.archive.org/web/20220221170959/https://worldle.teuteuf.fr/)  
+![](images/192.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Sweden (Google)](https://www.google.com/maps?q=Sweden+SE&hl=en)  
+[Sweden (amCharts)](https://www.amcharts.com/svg-maps/?map=sweden)</details>
+
 [22 Feb 2022](https://web.archive.org/web/20220222143802/https://worldle.teuteuf.fr/)  
+![](images/070.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Finland (Google)](https://www.google.com/maps?q=Finland+FI&hl=en)  
+[Finland (amCharts)](https://www.amcharts.com/svg-maps/?map=finland)</details>
+
 [23 Feb 2022](https://web.archive.org/web/20220223155759/https://worldle.teuteuf.fr/)  
+![](images/185.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Serbia (Google)](https://www.google.com/maps?q=Serbia+RS&hl=en)  
+[Serbia (amCharts)](https://www.amcharts.com/svg-maps/?map=serbia)</details>
+
 [24 Feb 2022](https://web.archive.org/web/20220224171345/https://worldle.teuteuf.fr/)  
+![](images/115.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Cambodia (Google)](https://www.google.com/maps?q=Cambodia+KH&hl=en)  
+[Cambodia (amCharts)](https://www.amcharts.com/svg-maps/?map=cambodia)</details>
+
 [25 Feb 2022](https://web.archive.org/web/20220225153629/https://worldle.teuteuf.fr/)  
+![](images/231.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Venezuela (Google)](https://www.google.com/maps?q=Venezuela+VE&hl=en)  
+[Venezuela (amCharts)](https://www.amcharts.com/svg-maps/?map=venezuela)</details>
+
 [26 Feb 2022](https://web.archive.org/web/20220226145207/https://worldle.teuteuf.fr/)  
+![](images/108.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Iceland (Google)](https://www.google.com/maps?q=Iceland+IS&hl=en)  
+[Iceland (amCharts)](https://www.amcharts.com/svg-maps/?map=iceland)</details>
+
 [27 Feb 2022](https://web.archive.org/web/20220227171953/https://worldle.teuteuf.fr/)  
-[28 Feb 2022](https://web.archive.org/web/20220228140034/https://worldle.teuteuf.fr/)
+![](images/224.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Ukraine (Google)](https://www.google.com/maps?q=Ukraine+UA&hl=en)  
+[Ukraine (amCharts)](https://www.amcharts.com/svg-maps/?map=ukraine)</details>
+
+[28 Feb 2022](https://web.archive.org/web/20220228140034/https://worldle.teuteuf.fr/)  
+![](images/100.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Indonesia (Google)](https://www.google.com/maps?q=Indonesia+ID&hl=en)  
+[Indonesia (amCharts)](https://www.amcharts.com/svg-maps/?map=indonesia)</details>
 
 ## Mar 2022
 [01 Mar 2022](https://web.archive.org/web/20220301130210/https://worldle.teuteuf.fr/)  
+![](images/050.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Costa Rica (Google)](https://www.google.com/maps?q=Costa+Rica+CR&hl=en)  
+[Costa Rica](https://www.amcharts.com/svg-maps/?map=costaRica)</details>
+
 [02 Mar 2022](https://web.archive.org/web/20220302152622/https://worldle.teuteuf.fr/)  
+![](images/227.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Uruguay (Google)](https://www.google.com/maps?q=Uruguay+UY&hl=en)  
+[Uruguay (amCharts)](https://www.amcharts.com/svg-maps/?map=uruguay)</details>
+
 [03 Mar 2022](https://web.archive.org/web/20220303063908/https://worldle.teuteuf.fr/)  
+![](images/169.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Panama (Google)](https://www.google.com/maps?q=Panama+PA&hl=en)  
+[Panama (amCharts)](https://www.amcharts.com/svg-maps/?map=panama)</details>
+
 [04 Mar 2022](https://web.archive.org/web/20220304122134/https://worldle.teuteuf.fr/)  
+![](images/105.svg)
+<details><summary><b>Show answer</b></summary>
+
+[British Indian Ocean Territory (Diego Garcia)](https://www.google.com/maps?q=Diego+Garcia+IO&hl=en)</details>
+
 [05 Mar 2022](https://web.archive.org/web/20220305075806/https://worldle.teuteuf.fr/)  
+![](images/047.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Cameroon (Google)](https://www.google.com/maps?q=Cameroon+CM&hl=en)  
+[Cameroon (amCharts)](https://www.amcharts.com/svg-maps/?map=cameroon)</details>
+
 [06 Mar 2022](https://web.archive.org/web/20220306153012/https://worldle.teuteuf.fr/)  
+![](images/223.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Tanzania (Google)](https://www.google.com/maps?q=Tanzania+TZ&hl=en)  
+[Tanzania (amCharts)](https://www.amcharts.com/svg-maps/?map=tanzania)</details>
+
 [07 Mar 2022](https://web.archive.org/web/20220307044528/https://worldle.teuteuf.fr/)  
+![](images/165.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Nauru (Google)](https://www.google.com/maps?q=Nauru+NR&hl=en)  
+[Nauru (amCharts)](https://www.amcharts.com/svg-maps/?map=nauru)</details>
+
 [08 Mar 2022](https://web.archive.org/web/20220308142840/https://worldle.teuteuf.fr/)  
+![](images/102.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Israel (Google)](https://www.google.com/maps?q=Israel+IL&hl=en)  
+[Israel (amCharts)](https://www.amcharts.com/svg-maps/?map=israel)</details>
+
 [09 Mar 2022](https://web.archive.org/web/20220309074954/https://worldle.teuteuf.fr/)  
+![](images/044.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Côte d'Ivoire (Google)](https://www.google.com/maps?q=Côte+d'Ivoire+CI&hl=en)  
+[Côte d'Ivoire (amCharts)](https://www.amcharts.com/svg-maps/?map=ivoryCoast)</details>
+
 [10 Mar 2022](https://web.archive.org/web/20220310180630/https://worldle.teuteuf.fr/)  
+![](images/088.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Greece (Google)](https://www.google.com/maps?q=Greece+GR&hl=en)  
+[Greece (amCharts)](https://www.amcharts.com/svg-maps/?map=greece)</details>
+
 [11 Mar 2022](https://web.archive.org/web/20220311164109/https://worldle.teuteuf.fr/)  
+![](images/080.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Guernsey (Google)](https://www.google.com/maps?q=Guernsey+GG&hl=en)  
+[Guernsey (amCharts)](https://www.amcharts.com/svg-maps/?map=channelIslands)</details>
+
 [12 Mar 2022](https://web.archive.org/web/20220312000318/https://worldle.teuteuf.fr/)  
+![](images/034.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Bouvet Island](https://www.google.com/maps?q=Bouvet+Island+BV&hl=en)</details>
+
 [13 Mar 2022](https://web.archive.org/web/20220313050247/https://worldle.teuteuf.fr/)  
+![](images/031.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Brazil (Google)](https://www.google.com/maps?q=Brazil+BR&hl=en)  
+[Brazil (amCharts)](https://www.amcharts.com/svg-maps/?map=brazil)</details>
+
 [14 Mar 2022](https://web.archive.org/web/20220314010453/https://worldle.teuteuf.fr/)  
+![](images/021.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Burkina Faso (Google)](https://www.google.com/maps?q=Burkina+Faso+BF&hl=en)  
+[Burkina Faso (amCharts)](https://www.amcharts.com/svg-maps/?map=burkinaFaso)</details>
+
 [15 Mar 2022](https://web.archive.org/web/20220315135641/https://worldle.teuteuf.fr/)  
+![](images/214.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Tajikistan (Google)](https://www.google.com/maps?q=Tajikistan+TJ&hl=en)  
+[Tajikistan (amCharts)](https://www.amcharts.com/svg-maps/?map=tajikistan)</details>
+
 [16 Mar 2022](https://web.archive.org/web/20220316135859/https://worldle.teuteuf.fr/)  
+![](images/205.svg)
+<details><summary><b>Show answer</b></summary>
+
+[El Salvador (Google)](https://www.google.com/maps?q=El+Salvador+SV&hl=en)  
+[El Salvador (amCharts)](https://www.amcharts.com/svg-maps/?map=elSalvador)</details>
+
 [17 Mar 2022](https://web.archive.org/web/20220317050236/https://worldle.teuteuf.fr/)  
+![](images/196.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Svalbard and Jan Mayen (Google)](https://www.google.com/maps?q=Svalbard+and+Jan+Mayen+SJ&hl=en)  
+[Svalbard and Jan Mayen (amCharts)](https://www.amcharts.com/svg-maps/?map=svalbardJanMayen)</details>
+
 [18 Mar 2022](https://web.archive.org/web/20220318041447/https://worldle.teuteuf.fr/)  
+![](images/189.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Solomon Islands (Google)](https://www.google.com/maps?q=Solomon+Islands+SB&hl=en)  
+[Solomon Islands (amCharts)](https://www.amcharts.com/svg-maps/?map=solomonIslands)</details>
+
 [19 Mar 2022](https://web.archive.org/web/20220319035716/https://worldle.teuteuf.fr/)  
+![](images/140.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Madagascar (Google)](https://www.google.com/maps?q=Madagascar+MG&hl=en)  
+[Madagascar (amCharts)](https://www.amcharts.com/svg-maps/?map=madagascar)</details>
+
 [20 Mar 2022](https://web.archive.org/web/20220320125643/https://worldle.teuteuf.fr/)  
+![](images/054.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Christmas Island](https://www.google.com/maps?q=Christmas+Island+CX&hl=en)</details>
+
 [21 Mar 2022](https://web.archive.org/web/20220321213926/https://worldle.teuteuf.fr/)  
+![](images/095.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Heard Island and McDonald Islands](https://www.google.com/maps?q=Heard+Island+and+McDonald+Islands+HM&hl=en)</details>
+
 [22 Mar 2022](https://web.archive.org/web/20220322075325/https://worldle.teuteuf.fr/)  
+![](images/136.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Monaco (Google)](https://www.google.com/maps?q=Monaco+MC&hl=en)  
+[Monaco (amCharts)](https://www.amcharts.com/svg-maps/?map=monaco)</details>
+
 [23 Mar 2022](https://web.archive.org/web/20220323140626/https://worldle.teuteuf.fr/)  
+![](images/178.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Puerto Rico (Google)](https://www.google.com/maps?q=Puerto+Rico+PR&hl=en)  
+[Puerto Rico (amCharts)](https://www.amcharts.com/svg-maps/?map=puertoRico)</details>
+
 [24 Mar 2022](https://web.archive.org/web/20220324140635/https://worldle.teuteuf.fr/)  
+![](images/153.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Mexico (Google)](https://www.google.com/maps?q=Mexico+MX&hl=en)  
+[Mexico (amCharts)](https://www.amcharts.com/svg-maps/?map=mexico)</details>
+
 [25 Mar 2022](https://web.archive.org/web/20220325062725/https://worldle.teuteuf.fr/)  
+![](images/192.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Sweden (Google)](https://www.google.com/maps?q=Sweden+SE&hl=en)  
+[Sweden (amCharts)](https://www.amcharts.com/svg-maps/?map=sweden)</details>
+
 [26 Mar 2022](https://web.archive.org/web/20220326164735/https://worldle.teuteuf.fr/)  
+![](images/235.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Vanuatu (Google)](https://www.google.com/maps?q=Vanuatu+VU&hl=en)  
+[Vanuatu (amCharts)](https://www.amcharts.com/svg-maps/?map=vanuatu)</details>
+
 [27 Mar 2022](https://web.archive.org/web/20220327035811/https://worldle.teuteuf.fr/)  
+![](images/211.svg)
+<details><summary><b>Show answer</b></summary>
+
+[French Southern Territories - Kerguelen Islands](https://www.google.com/maps?q=Kerguelen+Islands+TF&hl=en)</details>
+
 [28 Mar 2022](https://web.archive.org/web/20220328153455/https://worldle.teuteuf.fr/)  
+![](images/013.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Australia (Google)](https://www.google.com/maps?q=Australia+AU&hl=en)  
+[Australia (amCharts)](https://www.amcharts.com/svg-maps/?map=australia)</details>
+
 [29 Mar 2022](https://web.archive.org/web/20220329084747/https://worldle.teuteuf.fr/)  
+![](images/057.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Germany (Google)](https://www.google.com/maps?q=Germany+DE&hl=en)  
+[Germany (amCharts)](https://www.amcharts.com/svg-maps/?map=germany)</details>
+
 [30 Mar 2022](https://web.archive.org/web/20220330135339/https://worldle.teuteuf.fr/)  
+![](images/075.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Gabon (Google)](https://www.google.com/maps?q=Gabon+GA&hl=en)  
+[Gabon (amCharts)](https://www.amcharts.com/svg-maps/?map=gabon)</details>
+
 [31 Mar 2022](https://web.archive.org/web/20220331212631/https://worldle.teuteuf.fr/)  
+![](images/005.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Anguilla (Google)](https://www.google.com/maps?q=Anguilla+AI&hl=en)  
+[Anguilla (amCharts)](https://www.amcharts.com/svg-maps/?map=anguilla)</details>
 
 ## Apr 2022
 [01 Apr 2022](https://web.archive.org/web/20220401042524/https://worldle.teuteuf.fr/)  
+![](images/158.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Niger (Google)](https://www.google.com/maps?q=Niger+NE&hl=en)  
+[Niger (amCharts)](https://www.amcharts.com/svg-maps/?map=niger)</details>
+
 [02 Apr 2022](https://web.archive.org/web/20220402034701/https://worldle.teuteuf.fr/)  
+![](images/069.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Ethiopia (Google)](https://www.google.com/maps?q=Ethiopia+ET&hl=en)  
+[Ethiopia (amCharts)](https://www.amcharts.com/svg-maps/?map=ethiopia)</details>  
+
 [03 Apr 2022](https://web.archive.org/web/20220403115108/https://worldle.teuteuf.fr/)  
+![](images/223.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Tanzania (Google)](https://www.google.com/maps?q=Tanzania+TZ&hl=en)  
+[Tanzania (amCharts)](https://www.amcharts.com/svg-maps/?map=tanzania)</details>  
+
 [04 Apr 2022](https://web.archive.org/web/20220404051257/https://worldle.teuteuf.fr/)  
+![](images/133.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Latvia (Google)](https://www.google.com/maps?q=Latvia+LV&hl=en)  
+[Latvia (amCharts)](https://www.amcharts.com/svg-maps/?map=latvia)</details>  
+
 [05 Apr 2022](https://web.archive.org/web/20220405054825/https://worldle.teuteuf.fr/)  
+![](images/048.svg)
+<details><summary><b>Show answer</b></summary>
+
+[China (Google)](https://www.google.com/maps?q=China+CN&hl=en)  
+[China (amCharts)](https://www.amcharts.com/svg-maps/?map=china)</details>  
+
 [06 Apr 2022](https://web.archive.org/web/20220406204214/https://worldle.teuteuf.fr/)  
+![](images/201.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Somalia (Google)](https://www.google.com/maps?q=Somalia+SO&hl=en)  
+[Somalia (amCharts)](https://www.amcharts.com/svg-maps/?map=somalia)</details>  
+
 [07 Apr 2022](https://web.archive.org/web/20220407174646/https://worldle.teuteuf.fr/)  
+![](images/112.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Japan (Google)](https://www.google.com/maps?q=Japan+JP&hl=en)  
+[Japan (amCharts)](https://www.amcharts.com/svg-maps/?map=japan)</details>  
+
 [08 Apr 2022](https://web.archive.org/web/20220408161334/https://worldle.teuteuf.fr/)  
+![](images/025.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Benin (Google)](https://www.google.com/maps?q=Benin+BJ&hl=en)  
+[Benin (amCharts)](https://www.amcharts.com/svg-maps/?map=benin)</details>  
+
 [09 Apr 2022](https://web.archive.org/web/20220409173317/https://worldle.teuteuf.fr/)  
+![](images/180.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Palau (Google)](https://www.google.com/maps?q=Palau+PW&hl=en)  
+[Palau (amCharts)](https://www.amcharts.com/svg-maps/?map=palau)</details>  
+
 [10 Apr 2022](https://web.archive.org/web/20220410182432/https://worldle.teuteuf.fr/)  
+![](images/222.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Taiwan map (Google)](https://www.google.com/maps?q=Taiwan+TW&hl=en)  
+[Taiwan map (amCharts)](https://www.amcharts.com/svg-maps/?map=taiwan)</details>  
+
 [11 Apr 2022](https://web.archive.org/web/20220411170636/https://worldle.teuteuf.fr/)  
+![](images/032.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bahamas map (Google)](https://www.google.com/maps?q=Bahamas+BS&hl=en)  
+[Bahamas map (amCharts)](https://www.amcharts.com/svg-maps/?map=bahamas)</details>  
+
 [12 Apr 2022](https://web.archive.org/web/20220412132722/https://worldle.teuteuf.fr/)  
+![](images/075.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Gabon map (Google)](https://www.google.com/maps?q=Gabon+GA&hl=en)  
+[Gabon map (amCharts)](https://www.amcharts.com/svg-maps/?map=gabon)</details>  
+
 [13 Apr 2022](https://web.archive.org/web/20220413045214/https://worldle.teuteuf.fr/)  
+![](images/123.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Kazakhstan map (Google)](https://www.google.com/maps?q=Kazakhstan+KZ&hl=en)  
+[Kazakhstan map (amCharts)](https://www.amcharts.com/svg-maps/?map=kazakhstan)</details>  
+
 [14 Apr 2022](https://web.archive.org/web/20220414113708/https://worldle.teuteuf.fr/)  
+![](images/173.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Philippines map (Google)](https://www.google.com/maps?q=Philippines+PH&hl=en)  
+[Philippines map (amCharts)](https://www.amcharts.com/svg-maps/?map=philippines)</details>  
+
 [15 Apr 2022](https://web.archive.org/web/20220415213359/https://worldle.teuteuf.fr/)  
+![](images/147.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mauritania map (Google)](https://www.google.com/maps?q=Mauritania+MR&hl=en)  
+[Mauritania map (amCharts)](https://www.amcharts.com/svg-maps/?map=mauritania)</details>  
+
 [16 Apr 2022](https://web.archive.org/web/20220416165133/https://worldle.teuteuf.fr/)  
+![](images/195.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Slovenia map (Google)](https://www.google.com/maps?q=Slovenia+SI&hl=en)  
+[Slovenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=slovenia)</details>  
+
 [17 Apr 2022](https://web.archive.org/web/20220417064649/https://worldle.teuteuf.fr/)  
+![](images/002.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates+AE&hl=en)  
+[United Arab Emirates map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedArabEmirates)</details>  
+
 [18 Apr 2022](https://web.archive.org/web/20220418101347/https://worldle.teuteuf.fr/)  
+![](images/131.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Lithuania map (Google)](https://www.google.com/maps?q=Lithuania+LT&hl=en)  
+[Lithuania map (amCharts)](https://www.amcharts.com/svg-maps/?map=lithuania)</details>  
+
 [19 Apr 2022](https://web.archive.org/web/20220419074028/https://worldle.teuteuf.fr/)  
+![](images/179.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Portugal map (Google)](https://www.google.com/maps?q=Portugal+PT&hl=en)  
+[Portugal map (amCharts)](https://www.amcharts.com/svg-maps/?map=portugal)</details>  
+
 [20 Apr 2022](https://web.archive.org/web/20220420060926/https://worldle.teuteuf.fr/)  
+![](images/124.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Laos map (Google)](https://www.google.com/maps?q=Laos+LA&hl=en)  
+[Laos map (amCharts)](https://www.amcharts.com/svg-maps/?map=laos)</details>  
+
 [21 Apr 2022](https://web.archive.org/web/20220421135635/https://worldle.teuteuf.fr/)  
+![](images/220.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Turkey map (Google)](https://www.google.com/maps?q=Turkey+TR&hl=en)  
+[Turkey map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkey)</details>  
+
 [22 Apr 2022](https://web.archive.org/web/20220422145820/https://worldle.teuteuf.fr/)  
+![](images/041.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Central African Republic map (Google)](https://www.google.com/maps?q=Central+African+Republic+CF&hl=en)  
+[Central African Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=centralAfricanRepublic)</details>  
+
 [23 Apr 2022](https://web.archive.org/web/20220423043130/https://worldle.teuteuf.fr/)  
+![](images/136.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Monaco map (Google)](https://www.google.com/maps?q=Monaco+MC&hl=en)  
+[Monaco map (amCharts)](https://www.amcharts.com/svg-maps/?map=monaco)</details>  
+
 [24 Apr 2022](https://web.archive.org/web/20220424170508/https://worldle.teuteuf.fr/)  
+![](images/227.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Uruguay map (Google)](https://www.google.com/maps?q=Uruguay+UY&hl=en)  
+[Uruguay map (amCharts)](https://www.amcharts.com/svg-maps/?map=uruguay)</details>  
+
 [25 Apr 2022](https://web.archive.org/web/20220425163013/https://worldle.teuteuf.fr/)  
+![](images/050.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Costa Rica map (Google)](https://www.google.com/maps?q=Costa+Rica+CR&hl=en)  
+[Costa Rica map (amCharts)](https://www.amcharts.com/svg-maps/?map=costaRica)</details>  
+
 [26 Apr 2022](https://web.archive.org/web/20220426140237/https://worldle.teuteuf.fr/)  
+![](images/143.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Myanmar map (Google)](https://www.google.com/maps?q=Myanmar+MM&hl=en)  
+[Myanmar map (amCharts)](https://www.amcharts.com/svg-maps/?map=myanmar)</details>  
+
 [27 Apr 2022](https://web.archive.org/web/20220427170943/https://worldle.teuteuf.fr/)  
+![](images/242.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Zimbabwe map (Google)](https://www.google.com/maps?q=Zimbabwe+ZW&hl=en)  
+[Zimbabwe map (amCharts)](https://www.amcharts.com/svg-maps/?map=zimbabwe)</details>  
+
 [28 Apr 2022](https://web.archive.org/web/20220428182029/https://worldle.teuteuf.fr/)  
+![](images/097.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Croatia map (Google)](https://www.google.com/maps?q=Croatia+HR&hl=en)  
+[Croatia map (amCharts)](https://www.amcharts.com/svg-maps/?map=croatia)</details>  
+
 [29 Apr 2022](https://web.archive.org/web/20220429164718/https://worldle.teuteuf.fr/)  
+![](images/157.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[New Caledonia map (Google)](https://www.google.com/maps?q=New+Caledonia&hl=en)  
+[New Caledonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=newCaledonia)</details>  
+
 [30 Apr 2022](https://web.archive.org/web/20220430171837/https://worldle.teuteuf.fr/)  
+![](images/049.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Colombia map (Google)](https://www.google.com/maps?q=Colombia+CO&hl=en)  
+[Colombia map (amCharts)](https://www.amcharts.com/svg-maps/?map=colombia)</details>  
 
 ## May 2022
 [01 May 2022](https://web.archive.org/web/20220501155030/https://worldle.teuteuf.fr/)  
+![](images/051.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Cuba map (Google)](https://www.google.com/maps?q=Cuba+CU&hl=en)  
+[Cuba map (amCharts)](https://www.amcharts.com/svg-maps/?map=cuba)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
