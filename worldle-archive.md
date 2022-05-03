@@ -641,6 +641,13 @@ Have fun playing!
 [Cuba map (Google)](https://www.google.com/maps?q=Cuba+CU&hl=en)  
 [Cuba map (amCharts)](https://www.amcharts.com/svg-maps/?map=cuba)</details>  
 
+[02 May 2022](https://web.archive.org/web/20220502135908/https://worldle.teuteuf.fr/)  
+![](images/068.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Spain map (Google)](https://www.google.com/maps?q=Spain+ES&hl=en)  
+[Spain map (amCharts)](https://www.amcharts.com/svg-maps/?map=spain)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
