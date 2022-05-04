@@ -648,6 +648,13 @@ Have fun playing!
 [Spain map (Google)](https://www.google.com/maps?q=Spain+ES&hl=en)  
 [Spain map (amCharts)](https://www.amcharts.com/svg-maps/?map=spain)</details>  
 
+[03 May 2022](https://web.archive.org/web/20220503020210/https://worldle.teuteuf.fr/)  
+![](images/217.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Turkmenistan map (Google)](https://www.google.com/maps?q=Turkmenistan+TM&hl=en)  
+[Turkmenistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkmenistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
