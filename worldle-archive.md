@@ -655,6 +655,13 @@ Have fun playing!
 [Turkmenistan map (Google)](https://www.google.com/maps?q=Turkmenistan+TM&hl=en)  
 [Turkmenistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkmenistan)</details>  
 
+[04 May 2022](https://web.archive.org/web/20220504051205/https://worldle.teuteuf.fr/)  
+![](images/127.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Liechtenstein map (Google)](https://www.google.com/maps?q=Liechtenstein+LI&hl=en)  
+[Liechtenstein map (amCharts)](https://www.amcharts.com/svg-maps/?map=liechtenstein)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
