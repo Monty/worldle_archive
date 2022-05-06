@@ -662,6 +662,13 @@ Have fun playing!
 [Liechtenstein map (Google)](https://www.google.com/maps?q=Liechtenstein+LI&hl=en)  
 [Liechtenstein map (amCharts)](https://www.amcharts.com/svg-maps/?map=liechtenstein)</details>  
 
+[05 May 2022](https://web.archive.org/web/20220505162913/https://worldle.teuteuf.fr/)  
+![](images/141.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[North Macedonia map (Google)](https://www.google.com/maps?q=North+Macedonia+MK&hl=en)  
+[North Macedonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=macedonia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
