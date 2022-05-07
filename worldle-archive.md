@@ -669,6 +669,13 @@ Have fun playing!
 [North Macedonia map (Google)](https://www.google.com/maps?q=North+Macedonia+MK&hl=en)  
 [North Macedonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=macedonia)</details>  
 
+[06 May 2022](https://web.archive.org/web/20220506005318/https://worldle.teuteuf.fr/)  
+![](images/055.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Cyprus map (Google)](https://www.google.com/maps?q=Cyprus+CY&hl=en)  
+[Cyprus map (amCharts)](https://www.amcharts.com/svg-maps/?map=cyprus)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
