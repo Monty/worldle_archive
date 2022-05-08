@@ -676,6 +676,13 @@ Have fun playing!
 [Cyprus map (Google)](https://www.google.com/maps?q=Cyprus+CY&hl=en)  
 [Cyprus map (amCharts)](https://www.amcharts.com/svg-maps/?map=cyprus)</details>  
 
+[07 May 2022](https://web.archive.org/web/20220507035017/https://worldle.teuteuf.fr/)  
+![](images/202.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Suriname map (Google)](https://www.google.com/maps?q=Suriname+SR&hl=en)  
+[Suriname map (amCharts)](https://www.amcharts.com/svg-maps/?map=suriname)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
