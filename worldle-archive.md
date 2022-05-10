@@ -690,6 +690,13 @@ Have fun playing!
 [Jamaica map (Google)](https://www.google.com/maps?q=Jamaica+JM&hl=en)  
 [Jamaica map (amCharts)](https://www.amcharts.com/svg-maps/?map=jamaica)</details>  
 
+[09 May 2022](Not available)  
+![](images/129.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Liberia map (Google)](https://www.google.com/maps?q=Liberia+LR&hl=en)  
+[Liberia map (amCharts)](https://www.amcharts.com/svg-maps/?map=liberia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
