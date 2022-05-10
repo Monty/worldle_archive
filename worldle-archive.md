@@ -683,6 +683,13 @@ Have fun playing!
 [Suriname map (Google)](https://www.google.com/maps?q=Suriname+SR&hl=en)  
 [Suriname map (amCharts)](https://www.amcharts.com/svg-maps/?map=suriname)</details>  
 
+[08 May 2022](https://web.archive.org/web/20220508174123/https://worldle.teuteuf.fr/)  
+![](images/110.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Jamaica map (Google)](https://www.google.com/maps?q=Jamaica+JM&hl=en)  
+[Jamaica map (amCharts)](https://www.amcharts.com/svg-maps/?map=jamaica)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
