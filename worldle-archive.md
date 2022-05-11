@@ -697,6 +697,13 @@ Have fun playing!
 [Liberia map (Google)](https://www.google.com/maps?q=Liberia+LR&hl=en)  
 [Liberia map (amCharts)](https://www.amcharts.com/svg-maps/?map=liberia)</details>  
 
+[10 May 2022](https://web.archive.org/web/20220510135434/https://worldle.teuteuf.fr/)  
+![](images/155.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mozambique map (Google)](https://www.google.com/maps?q=Mozambique+MZ&hl=en)  
+[Mozambique map (amCharts)](https://www.amcharts.com/svg-maps/?map=mozambique)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
