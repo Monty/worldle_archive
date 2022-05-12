@@ -690,7 +690,7 @@ Have fun playing!
 [Jamaica map (Google)](https://www.google.com/maps?q=Jamaica+JM&hl=en)  
 [Jamaica map (amCharts)](https://www.amcharts.com/svg-maps/?map=jamaica)</details>  
 
-[09 May 2022](Not available)  
+[09 May 2022](https://web.archive.org/web/20220509204551/https://worldle.teuteuf.fr/)  
 ![](images/129.svg)  
 <details><summary><b>Show answer</b></summary>
 
@@ -703,6 +703,13 @@ Have fun playing!
 
 [Mozambique map (Google)](https://www.google.com/maps?q=Mozambique+MZ&hl=en)  
 [Mozambique map (amCharts)](https://www.amcharts.com/svg-maps/?map=mozambique)</details>  
+
+[11 May 2022](https://web.archive.org/web/20220511120637/https://worldle.teuteuf.fr/)  
+![](images/006.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Albania map (Google)](https://www.google.com/maps?q=Albania+AL&hl=en)  
+[Albania map (amCharts)](https://www.amcharts.com/svg-maps/?map=albania)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
