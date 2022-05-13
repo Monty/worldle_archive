@@ -711,6 +711,13 @@ Have fun playing!
 [Albania map (Google)](https://www.google.com/maps?q=Albania+AL&hl=en)  
 [Albania map (amCharts)](https://www.amcharts.com/svg-maps/?map=albania)</details>  
 
+[12 May 2022](https://web.archive.org/web/20220512151228/https://worldle.teuteuf.fr/)  
+![](images/224.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ukraine map (Google)](https://www.google.com/maps?q=Ukraine+UA&hl=en)  
+[Ukraine map (amCharts)](https://www.amcharts.com/svg-maps/?map=ukraine)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
