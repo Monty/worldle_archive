@@ -725,6 +725,13 @@ Have fun playing!
 [Sierra Leone map (Google)](https://www.google.com/maps?q=Sierra+Leone+SL&hl=en)  
 [Sierra Leone map (amCharts)](https://www.amcharts.com/svg-maps/?map=sierraLeone)</details>  
 
+[14 May 2022](https://web.archive.org/web/20220514122539/https://worldle.teuteuf.fr/)  
+![](images/052.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Cape Verde map (Google)](https://www.google.com/maps?q=Cabo+Verde+CV&hl=en)  
+[Cape Verde map (amCharts)](https://www.amcharts.com/svg-maps/?map=capeVerde)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
