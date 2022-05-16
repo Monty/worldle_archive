@@ -732,6 +732,13 @@ Have fun playing!
 [Cape Verde map (Google)](https://www.google.com/maps?q=Cabo+Verde+CV&hl=en)  
 [Cape Verde map (amCharts)](https://www.amcharts.com/svg-maps/?map=capeVerde)</details>  
 
+[15 May 2022](https://web.archive.org/web/20220515181157/https://worldle.teuteuf.fr/)  
+![](images/029.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bolivia map (Google)](https://www.google.com/maps?q=Bolivia+BO&hl=en)  
+[Bolivia map (amCharts)](https://www.amcharts.com/svg-maps/?map=bolivia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
