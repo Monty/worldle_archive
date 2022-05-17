@@ -739,6 +739,13 @@ Have fun playing!
 [Bolivia map (Google)](https://www.google.com/maps?q=Bolivia+BO&hl=en)  
 [Bolivia map (amCharts)](https://www.amcharts.com/svg-maps/?map=bolivia)</details>  
 
+[16 May 2022](https://web.archive.org/web/20220516154017/https://worldle.teuteuf.fr/)  
+![](images/003.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Afghanistan map (Google)](https://www.google.com/maps?q=Afghanistan+AF&hl=en)  
+[Afghanistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=afghanistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
