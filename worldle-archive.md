@@ -746,6 +746,20 @@ Have fun playing!
 [Afghanistan map (Google)](https://www.google.com/maps?q=Afghanistan+AF&hl=en)  
 [Afghanistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=afghanistan)</details>  
 
+[17 May 2022](https://web.archive.org/web/20220517094211/https://worldle.teuteuf.fr/)  
+![](images/221.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Trinidad and Tobago map (Google)](https://www.google.com/maps?q=Trinidad+and+Tobago+TT&hl=en)  
+[Trinidad and Tobago map (amCharts)](https://www.amcharts.com/svg-maps/?map=trinidadAndTobago)</details>  
+
+[18 May 2022](https://web.archive.org/web/20220518172445/https://worldle.teuteuf.fr/)  
+![](images/070.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Finland map (Google)](https://www.google.com/maps?q=Finland+FI&hl=en)  
+[Finland map (amCharts)](https://www.amcharts.com/svg-maps/?map=finland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
