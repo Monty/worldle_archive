@@ -760,6 +760,13 @@ Have fun playing!
 [Finland map (Google)](https://www.google.com/maps?q=Finland+FI&hl=en)  
 [Finland map (amCharts)](https://www.amcharts.com/svg-maps/?map=finland)</details>  
 
+[19 May 2022](https://web.archive.org/web/20220519141711/https://worldle.teuteuf.fr/)  
+![](images/056.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Czechia map (Google)](https://www.google.com/maps?q=Czechia+CZ&hl=en)  
+[Czechia map (amCharts)](https://www.amcharts.com/svg-maps/?map=czechRepublic)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
