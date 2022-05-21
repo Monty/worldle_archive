@@ -767,6 +767,13 @@ Have fun playing!
 [Czechia map (Google)](https://www.google.com/maps?q=Czechia+CZ&hl=en)  
 [Czechia map (amCharts)](https://www.amcharts.com/svg-maps/?map=czechRepublic)</details>  
 
+[20 May 2022](https://web.archive.org/web/20220520160245/https://worldle.teuteuf.fr/)  
+![](images/164.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Nepal map (Google)](https://www.google.com/maps?q=Nepal+NP&hl=en)  
+[Nepal map (amCharts)](https://www.amcharts.com/svg-maps/?map=nepal)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
