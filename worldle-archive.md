@@ -781,6 +781,13 @@ Have fun playing!
 [Eswatini map (Google)](https://www.google.com/maps?q=Eswatini+SZ&hl=en)  
 [Eswatini map (amCharts)](https://www.amcharts.com/svg-maps/?map=eSwatini)</details>  
 
+[22 May 2022](https://web.archive.org/web/20220522174436/https://worldle.teuteuf.fr/)  
+![](images/010.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Argentina map (Google)](https://www.google.com/maps?q=Argentina+AR&hl=en)  
+[Argentina map (amCharts)](https://www.amcharts.com/svg-maps/?map=argentina)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
