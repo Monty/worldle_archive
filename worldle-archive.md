@@ -795,6 +795,13 @@ Have fun playing!
 [Poland map (Google)](https://www.google.com/maps?q=Poland+PL&hl=en)  
 [Poland map (amCharts)](https://www.amcharts.com/svg-maps/?map=poland)</details>  
 
+[24 May 2022](https://web.archive.org/web/20220524162801/https://worldle.teuteuf.fr/)  
+![](images/219.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Tonga map (Google)](https://www.google.com/maps?q=Tonga&hl=en)  
+[Tonga map (amCharts)](https://www.amcharts.com/svg-maps/?map=tonga)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
