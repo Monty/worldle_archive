@@ -802,6 +802,13 @@ Have fun playing!
 [Tonga map (Google)](https://www.google.com/maps?q=Tonga&hl=en)  
 [Tonga map (amCharts)](https://www.amcharts.com/svg-maps/?map=tonga)</details>  
 
+[25 May 2022](https://web.archive.org/web/20220525200904/https://worldle.teuteuf.fr/)  
+![](images/021.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Burkina Faso map (Google)](https://www.google.com/maps?q=Burkina+Faso+BF&hl=en)  
+[Burkina Faso map (amCharts)](https://www.amcharts.com/svg-maps/?map=burkinaFaso)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
