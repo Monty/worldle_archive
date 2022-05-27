@@ -809,6 +809,13 @@ Have fun playing!
 [Burkina Faso map (Google)](https://www.google.com/maps?q=Burkina+Faso+BF&hl=en)  
 [Burkina Faso map (amCharts)](https://www.amcharts.com/svg-maps/?map=burkinaFaso)</details>  
 
+[26 May 2022](https://web.archive.org/web/20220526064438/https://worldle.teuteuf.fr/)  
+![](images/064.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Estonia map (Google)](https://www.google.com/maps?q=Estonia&hl=en)  
+[Estonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=estonia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
