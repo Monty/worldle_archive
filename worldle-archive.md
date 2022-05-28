@@ -816,6 +816,13 @@ Have fun playing!
 [Estonia map (Google)](https://www.google.com/maps?q=Estonia&hl=en)  
 [Estonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=estonia)</details>  
 
+[27 May 2022](https://web.archive.org/web/20220527063528/https://worldle.teuteuf.fr/)  
+![](images/225.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Uganda map (Google)](https://www.google.com/maps?q=Uganda+UG&hl=en)  
+[Uganda map (amCharts)](https://www.amcharts.com/svg-maps/?map=uganda)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
