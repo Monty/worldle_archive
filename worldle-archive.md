@@ -823,6 +823,13 @@ Have fun playing!
 [Uganda map (Google)](https://www.google.com/maps?q=Uganda+UG&hl=en)  
 [Uganda map (amCharts)](https://www.amcharts.com/svg-maps/?map=uganda)</details>  
 
+[28 May 2022](https://web.archive.org/web/20220528065540/https://worldle.teuteuf.fr/)  
+![](images/033.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bhutan map (Google)](https://www.google.com/maps?q=Bhutan+BT&hl=en)  
+[Bhutan map (amCharts)](https://www.amcharts.com/svg-maps/?map=bhutan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
