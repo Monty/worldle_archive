@@ -830,6 +830,13 @@ Have fun playing!
 [Bhutan map (Google)](https://www.google.com/maps?q=Bhutan+BT&hl=en)  
 [Bhutan map (amCharts)](https://www.amcharts.com/svg-maps/?map=bhutan)</details>  
 
+[29 May 2022](https://web.archive.org/web/20220529055925/https://worldle.teuteuf.fr/)  
+![](images/071.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Fiji map (Google)](https://www.google.com/maps?q=Fiji+FJ&hl=en)  
+[Fiji map (amCharts)](https://www.amcharts.com/svg-maps/?map=fijiWest)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
