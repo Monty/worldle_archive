@@ -837,6 +837,13 @@ Have fun playing!
 [Fiji map (Google)](https://www.google.com/maps?q=Fiji+FJ&hl=en)  
 [Fiji map (amCharts)](https://www.amcharts.com/svg-maps/?map=fijiWest)</details>  
 
+[30 May 2022](https://web.archive.org/web/20220530060503/https://worldle.teuteuf.fr/)  
+![](images/067.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Eritrea map (Google)](https://www.google.com/maps?q=Eritrea+ER&hl=en)  
+[Eritrea map (amCharts)](https://www.amcharts.com/svg-maps/?map=eritrea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
