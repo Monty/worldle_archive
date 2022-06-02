@@ -851,6 +851,14 @@ Have fun playing!
 [Paraguay map (Google)](https://www.google.com/maps?q=Paraguay+PY&hl=en)  
 [Paraguay map (amCharts)](https://www.amcharts.com/svg-maps/?map=paraguay)</details>  
 
+## Jun 2022
+[01 Jun 2022](https://web.archive.org/web/20220601190343/https://worldle.teuteuf.fr/)  
+![](images/194.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Saint Helena map (Google)](https://www.google.com/maps?q=Saint+Helena,+STHL+1ZZ&hl=en)  
+[Saint Helena map (amCharts)](https://www.amcharts.com/svg-maps/?map=stHelena)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
