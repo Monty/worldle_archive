@@ -844,6 +844,13 @@ Have fun playing!
 [Eritrea map (Google)](https://www.google.com/maps?q=Eritrea+ER&hl=en)  
 [Eritrea map (amCharts)](https://www.amcharts.com/svg-maps/?map=eritrea)</details>  
 
+[31 May 2022](https://web.archive.org/web/20220531061755/https://worldle.teuteuf.fr/)  
+![](images/181.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Paraguay map (Google)](https://www.google.com/maps?q=Paraguay+PY&hl=en)  
+[Paraguay map (amCharts)](https://www.amcharts.com/svg-maps/?map=paraguay)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
