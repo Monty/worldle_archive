@@ -859,6 +859,13 @@ Have fun playing!
 [Saint Helena map (Google)](https://www.google.com/maps?q=Saint+Helena,+STHL+1ZZ&hl=en)  
 [Saint Helena map (amCharts)](https://www.amcharts.com/svg-maps/?map=stHelena)</details>  
 
+[02 Jun 2022](https://web.archive.org/web/20220602065400/https://worldle.teuteuf.fr/)  
+![](images/226.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[United States map (Google)](https://www.google.com/maps?q=United+States+US&hl=en)  
+[United States map (amCharts)](https://www.amcharts.com/svg-maps/?map=usaMercator)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
