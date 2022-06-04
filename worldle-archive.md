@@ -866,6 +866,13 @@ Have fun playing!
 [United States map (Google)](https://www.google.com/maps?q=United+States+US&hl=en)  
 [United States map (amCharts)](https://www.amcharts.com/svg-maps/?map=usaMercator)</details>  
 
+[03 Jun 2022](https://web.archive.org/web/20220603061725/https://worldle.teuteuf.fr/)  
+![](images/022.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bulgaria map (Google)](https://www.google.com/maps?q=Bulgaria+BG&hl=en)  
+[Bulgaria map (amCharts)](https://www.amcharts.com/svg-maps/?map=bulgaria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
