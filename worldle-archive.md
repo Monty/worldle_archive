@@ -873,6 +873,13 @@ Have fun playing!
 [Bulgaria map (Google)](https://www.google.com/maps?q=Bulgaria+BG&hl=en)  
 [Bulgaria map (amCharts)](https://www.amcharts.com/svg-maps/?map=bulgaria)</details>  
 
+[04 Jun 2022](https://web.archive.org/web/20220604055730/https://worldle.teuteuf.fr/)  
+![](images/058.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Djibouti map (Google)](https://www.google.com/maps?q=Djibouti+DJ&hl=en)  
+[Djibouti map (amCharts)](https://www.amcharts.com/svg-maps/?map=djibouti)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
