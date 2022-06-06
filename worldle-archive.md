@@ -880,6 +880,13 @@ Have fun playing!
 [Djibouti map (Google)](https://www.google.com/maps?q=Djibouti+DJ&hl=en)  
 [Djibouti map (amCharts)](https://www.amcharts.com/svg-maps/?map=djibouti)</details>  
 
+[05 Jun 2022](https://web.archive.org/web/20220605074720/https://worldle.teuteuf.fr/)  
+![](images/084.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Gambia map (Google)](https://www.google.com/maps?q=Gambia+GM&hl=en)  
+[Gambia map (amCharts)](https://www.amcharts.com/svg-maps/?map=gambia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
