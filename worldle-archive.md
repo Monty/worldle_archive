@@ -894,6 +894,13 @@ Have fun playing!
 [Cambodia map (Google)](https://www.google.com/maps?q=Cambodia+KH&hl=en)  
 [Cambodia map (amCharts)](https://www.amcharts.com/svg-maps/?map=cambodia)</details>  
 
+[07 Jun 2022](https://web.archive.org/web/20220607065311/https://worldle.teuteuf.fr/)  
+![](images/156.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Namibia map (Google)](https://www.google.com/maps?q=Namibia+NA&hl=en)  
+[Namibia map (amCharts)](https://www.amcharts.com/svg-maps/?map=namibia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
