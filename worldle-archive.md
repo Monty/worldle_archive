@@ -901,6 +901,13 @@ Have fun playing!
 [Namibia map (Google)](https://www.google.com/maps?q=Namibia+NA&hl=en)  
 [Namibia map (amCharts)](https://www.amcharts.com/svg-maps/?map=namibia)</details>  
 
+[08 Jun 2022](https://web.archive.org/web/20220608103507/https://worldle.teuteuf.fr/)  
+![](images/228.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Uzbekistan map (Google)](https://www.google.com/maps?q=Uzbekistan+UZ&hl=en)  
+[Uzbekistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=uzbekistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
