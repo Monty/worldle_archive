@@ -908,6 +908,13 @@ Have fun playing!
 [Uzbekistan map (Google)](https://www.google.com/maps?q=Uzbekistan+UZ&hl=en)  
 [Uzbekistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=uzbekistan)</details>  
 
+[09 Jun 2022](https://web.archive.org/web/20220609055842/https://worldle.teuteuf.fr/)  
+![](images/023.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bahrain map (Google)](https://www.google.com/maps?q=Bahrain+BH&hl=en)  
+[Bahrain map (amCharts)](https://www.amcharts.com/svg-maps/?map=bahrain)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
