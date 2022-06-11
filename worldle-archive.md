@@ -915,6 +915,13 @@ Have fun playing!
 [Bahrain map (Google)](https://www.google.com/maps?q=Bahrain+BH&hl=en)  
 [Bahrain map (amCharts)](https://www.amcharts.com/svg-maps/?map=bahrain)</details>  
 
+[10 Jun 2022](https://web.archive.org/web/20220610055941/https://worldle.teuteuf.fr/)  
+![](images/042.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Congo map (Google)](https://www.google.com/maps?q=Congo+CG&hl=en)  
+[Congo map (amCharts)](https://www.amcharts.com/svg-maps/?map=congo)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
