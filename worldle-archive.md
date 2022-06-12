@@ -922,6 +922,13 @@ Have fun playing!
 [Congo map (Google)](https://www.google.com/maps?q=Congo+CG&hl=en)  
 [Congo map (amCharts)](https://www.amcharts.com/svg-maps/?map=congo)</details>  
 
+[11 Jun 2022](https://web.archive.org/web/20220611060351/https://worldle.teuteuf.fr/)  
+![](images/167.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[New Zealand map (Google)](https://www.google.com/maps?q=New+Zealand+NZ&hl=en)  
+[New Zealand map (amCharts)](https://www.amcharts.com/svg-maps/?map=newZealand)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
