@@ -929,6 +929,13 @@ Have fun playing!
 [New Zealand map (Google)](https://www.google.com/maps?q=New+Zealand+NZ&hl=en)  
 [New Zealand map (amCharts)](https://www.amcharts.com/svg-maps/?map=newZealand)</details>  
 
+[12 Jun 2022](https://web.archive.org/web/20220612062926/https://worldle.teuteuf.fr/)  
+![](images/059.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Denmark map (Google)](https://www.google.com/maps?q=Denmark+DK&hl=en)  
+[Denmark map (amCharts)](https://www.amcharts.com/svg-maps/?map=denmark)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
