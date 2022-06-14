@@ -936,6 +936,13 @@ Have fun playing!
 [Denmark map (Google)](https://www.google.com/maps?q=Denmark+DK&hl=en)  
 [Denmark map (amCharts)](https://www.amcharts.com/svg-maps/?map=denmark)</details>  
 
+[13 Jun 2022](https://web.archive.org/web/20220613155445/https://worldle.teuteuf.fr/)  
+![](images/019.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bangladesh map (Google)](https://www.google.com/maps?q=Bangladesh+BD&hl=en)  
+[Bangladesh map (amCharts)](https://www.amcharts.com/svg-maps/?map=bangladesh)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
