@@ -943,6 +943,27 @@ Have fun playing!
 [Bangladesh map (Google)](https://www.google.com/maps?q=Bangladesh+BD&hl=en)  
 [Bangladesh map (amCharts)](https://www.amcharts.com/svg-maps/?map=bangladesh)</details>  
 
+[14 Jun 2022](https://web.archive.org/web/20220614214416/https://worldle.teuteuf.fr/)  
+![](images/142.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mali map (Google)](https://www.google.com/maps?q=Mali+ML&hl=en)  
+[Mali map (amCharts)](https://www.amcharts.com/svg-maps/?map=mali)</details>  
+
+[15 Jun 2022](https://web.archive.org/web/20220615233545/https://worldle.teuteuf.fr/)  
+![](images/035.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Botswana map (Google)](https://www.google.com/maps?q=Botswana+BW&hl=en)  
+[Botswana map (amCharts)](https://www.amcharts.com/svg-maps/?map=botswana)</details>  
+
+[16 Jun 2022](https://web.archive.org/web/20220616062631/https://worldle.teuteuf.fr/)  
+![](images/160.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Nigeria map (Google)](https://www.google.com/maps?q=Nigeria+NG&hl=en)  
+[Nigeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=nigeria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
