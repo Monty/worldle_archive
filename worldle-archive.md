@@ -964,6 +964,13 @@ Have fun playing!
 [Nigeria map (Google)](https://www.google.com/maps?q=Nigeria+NG&hl=en)  
 [Nigeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=nigeria)</details>  
 
+[17 Jun 2022](https://web.archive.org/web/20220617055329/https://worldle.teuteuf.fr/)  
+![](images/122.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Cayman Islands map (Google)](https://www.google.com/maps?q=Cayman+Islands+KY&hl=en)  
+[Cayman Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=caymanIslands)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
