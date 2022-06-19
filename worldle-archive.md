@@ -971,6 +971,13 @@ Have fun playing!
 [Cayman Islands map (Google)](https://www.google.com/maps?q=Cayman+Islands+KY&hl=en)  
 [Cayman Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=caymanIslands)</details>  
 
+[18 Jun 2022](https://web.archive.org/web/20220618053008/https://worldle.teuteuf.fr/)  
+![](images/008.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Angola map (Google)](https://www.google.com/maps?q=Angola+AO&hl=en)  
+[Angola map (amCharts)](https://www.amcharts.com/svg-maps/?map=angola)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
