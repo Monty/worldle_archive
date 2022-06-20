@@ -978,6 +978,13 @@ Have fun playing!
 [Angola map (Google)](https://www.google.com/maps?q=Angola+AO&hl=en)  
 [Angola map (amCharts)](https://www.amcharts.com/svg-maps/?map=angola)</details>  
 
+[19 Jun 2022](https://web.archive.org/web/20220619060415/https://worldle.teuteuf.fr/)  
+![](images/135.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Morocco map (Google)](https://www.google.com/maps?q=Morocco+MA&hl=en)  
+[Morocco map (amCharts)](https://www.amcharts.com/svg-maps/?map=morocco)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
