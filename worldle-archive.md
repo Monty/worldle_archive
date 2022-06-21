@@ -985,6 +985,13 @@ Have fun playing!
 [Morocco map (Google)](https://www.google.com/maps?q=Morocco+MA&hl=en)  
 [Morocco map (amCharts)](https://www.amcharts.com/svg-maps/?map=morocco)</details>  
 
+[20 Jun 2022](https://web.archive.org/web/20220620145730/https://worldle.teuteuf.fr/)  
+![](images/113.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Kenya map (Google)](https://www.google.com/maps?q=Kenya+KE&hl=en)  
+[Kenya map (amCharts)](https://www.amcharts.com/svg-maps/?map=kenya)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
