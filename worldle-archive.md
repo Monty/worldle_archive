@@ -992,6 +992,13 @@ Have fun playing!
 [Kenya map (Google)](https://www.google.com/maps?q=Kenya+KE&hl=en)  
 [Kenya map (amCharts)](https://www.amcharts.com/svg-maps/?map=kenya)</details>  
 
+[21 Jun 2022](https://web.archive.org/web/20220621093115/https://worldle.teuteuf.fr/)  
+![](images/144.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mongolia map (Google)](https://www.google.com/maps?q=Mongolia+MN&hl=en)  
+[Mongolia map (amCharts)](https://www.amcharts.com/svg-maps/?map=mongolia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
