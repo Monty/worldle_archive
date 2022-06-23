@@ -999,6 +999,13 @@ Have fun playing!
 [Mongolia map (Google)](https://www.google.com/maps?q=Mongolia+MN&hl=en)  
 [Mongolia map (amCharts)](https://www.amcharts.com/svg-maps/?map=mongolia)</details>  
 
+[22 Jun 2022](https://web.archive.org/web/20220622152002/https://worldle.teuteuf.fr/)  
+![](images/172.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Papua New Guinea map (Google)](https://www.google.com/maps?q=Papua+New+Guinea+PG&hl=en)  
+[Papua New Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=papuaNewGuinea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
