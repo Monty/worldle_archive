@@ -1013,6 +1013,13 @@ Have fun playing!
 [Senegal map (Google)](https://www.google.com/maps?q=Senegal+SN&hl=en)  
 [Senegal map (amCharts)](https://www.amcharts.com/svg-maps/?map=senegal)</details>  
 
+[24 Jun 2022](https://web.archive.org/web/20220624061957/https://worldle.teuteuf.fr/)  
+![](images/009.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Antarctica map](https://upload.wikimedia.org/wikipedia/commons/c/c0/Antarctica.svg)  
+[Antarctica (Wikipedia)](https://www.wikiwand.com/en/Antarctica)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
