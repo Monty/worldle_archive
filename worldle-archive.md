@@ -1006,6 +1006,13 @@ Have fun playing!
 [Papua New Guinea map (Google)](https://www.google.com/maps?q=Papua+New+Guinea+PG&hl=en)  
 [Papua New Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=papuaNewGuinea)</details>  
 
+[23 Jun 2022](https://web.archive.org/web/20220623062034/https://worldle.teuteuf.fr/)  
+![](images/200.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Senegal map (Google)](https://www.google.com/maps?q=Senegal+SN&hl=en)  
+[Senegal map (amCharts)](https://www.amcharts.com/svg-maps/?map=senegal)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
