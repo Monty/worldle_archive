@@ -1020,6 +1020,13 @@ Have fun playing!
 [Antarctica map](https://upload.wikimedia.org/wikipedia/commons/c/c0/Antarctica.svg)  
 [Antarctica (Wikipedia)](https://www.wikiwand.com/en/Antarctica)</details>  
 
+[25 Jun 2022](https://web.archive.org/web/20220625062825/https://worldle.teuteuf.fr/)  
+![](images/081.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ghana map (Google)](https://www.google.com/maps?q=Ghana+GH&hl=en)  
+[Ghana map (amCharts)](https://www.amcharts.com/svg-maps/?map=ghana)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
