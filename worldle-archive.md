@@ -1027,6 +1027,13 @@ Have fun playing!
 [Ghana map (Google)](https://www.google.com/maps?q=Ghana+GH&hl=en)  
 [Ghana map (amCharts)](https://www.amcharts.com/svg-maps/?map=ghana)</details>  
 
+[26 Jun 2022](https://web.archive.org/web/20220626060521/https://worldle.teuteuf.fr/)  
+![](images/108.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Iceland map (Google)](https://www.google.com/maps?q=Iceland+IS&hl=en)  
+[Iceland map (amCharts)](https://www.amcharts.com/svg-maps/?map=iceland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
