@@ -1034,6 +1034,13 @@ Have fun playing!
 [Iceland map (Google)](https://www.google.com/maps?q=Iceland+IS&hl=en)  
 [Iceland map (amCharts)](https://www.amcharts.com/svg-maps/?map=iceland)</details>  
 
+[27 Jun 2022](https://web.archive.org/web/20220627014838/https://worldle.teuteuf.fr/)  
+![](images/137.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Moldova map (Google)](https://www.google.com/maps?q=Moldova+MD&hl=en)  
+[Moldova map (amCharts)](https://www.amcharts.com/svg-maps/?map=moldova)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
