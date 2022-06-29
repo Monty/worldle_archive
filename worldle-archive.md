@@ -1041,6 +1041,13 @@ Have fun playing!
 [Moldova map (Google)](https://www.google.com/maps?q=Moldova+MD&hl=en)  
 [Moldova map (amCharts)](https://www.amcharts.com/svg-maps/?map=moldova)</details>  
 
+[28 Jun 2022](https://web.archive.org/web/20220628055726/https://worldle.teuteuf.fr/)  
+![](images/163.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Norway map (Google)](https://www.google.com/maps?q=Norway+NO&hl=en)  
+[Norway map (amCharts)](https://www.amcharts.com/svg-maps/?map=norway)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
