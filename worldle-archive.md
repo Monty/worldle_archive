@@ -1048,6 +1048,13 @@ Have fun playing!
 [Norway map (Google)](https://www.google.com/maps?q=Norway+NO&hl=en)  
 [Norway map (amCharts)](https://www.amcharts.com/svg-maps/?map=norway)</details>  
 
+[29 Jun 2022](https://web.archive.org/web/20220629131302/https://worldle.teuteuf.fr/)  
+![](images/190.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Seychelles map (Google)](https://www.google.com/maps?q=Seychelles+SC&hl=en)  
+[Seychelles map (amCharts)](https://www.amcharts.com/svg-maps/?map=seychelles)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
