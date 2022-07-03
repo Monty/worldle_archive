@@ -1070,6 +1070,13 @@ Have fun playing!
 [Venezuela map (Google)](https://www.google.com/maps?q=Venezuela+VE&hl=en)  
 [Venezuela map (amCharts)](https://www.amcharts.com/svg-maps/?map=venezuela)</details>  
 
+[02 Jul 2022](https://web.archive.org/web/20220702065017/https://worldle.teuteuf.fr/)  
+![](images/138.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Montenegro map (Google)](https://www.google.com/maps?q=Montenegro+ME&hl=en)  
+[Montenegro map (amCharts)](https://www.amcharts.com/svg-maps/?map=montenegro)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
