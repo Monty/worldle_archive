@@ -1084,6 +1084,13 @@ Have fun playing!
 [Lesotho map (Google)](https://www.google.com/maps?q=Lesotho+LS&hl=en)  
 [Lesotho map (amCharts)](https://www.amcharts.com/svg-maps/?map=lesotho)</details>  
 
+[04 Jul 2022](https://web.archive.org/web/20220704160601/https://worldle.teuteuf.fr/)  
+![](images/125.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Lebanon map (Google)](https://www.google.com/maps?q=Lebanon+LB&hl=en)  
+[Lebanon map (amCharts)](https://www.amcharts.com/svg-maps/?map=lebanon)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
