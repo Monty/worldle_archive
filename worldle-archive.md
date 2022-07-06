@@ -1091,6 +1091,13 @@ Have fun playing!
 [Lebanon map (Google)](https://www.google.com/maps?q=Lebanon+LB&hl=en)  
 [Lebanon map (amCharts)](https://www.amcharts.com/svg-maps/?map=lebanon)</details>  
 
+[05 Jul 2022](https://web.archive.org/web/20220705065949/https://worldle.teuteuf.fr/)  
+![](images/121.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Kuwait map (Google)](https://www.google.com/maps?q=Kuwait+KW&hl=en)  
+[Kuwait map (amCharts)](https://www.amcharts.com/svg-maps/?map=kuwait)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
