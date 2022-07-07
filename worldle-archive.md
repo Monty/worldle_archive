@@ -1098,6 +1098,13 @@ Have fun playing!
 [Kuwait map (Google)](https://www.google.com/maps?q=Kuwait+KW&hl=en)  
 [Kuwait map (amCharts)](https://www.amcharts.com/svg-maps/?map=kuwait)</details>  
 
+[06 Jul 2022](https://web.archive.org/web/20220706165301/https://worldle.teuteuf.fr/)  
+![](images/036.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Belarus map (Google)](https://www.google.com/maps?q=Belarus+BY&hl=en)  
+[Belarus map (amCharts)](https://www.amcharts.com/svg-maps/?map=belarus)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
