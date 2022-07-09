@@ -1112,6 +1112,13 @@ Have fun playing!
 [Brazil map (Google)](https://www.google.com/maps?q=Brazil+BR&hl=en)  
 [Brazil map (amCharts)](https://www.amcharts.com/svg-maps/?map=brazil)</details>  
 
+[08 Jul 2022](https://web.archive.org/web/20220708060820/https://worldle.teuteuf.fr/)  
+![](images/024.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Burundi map (Google)](https://www.google.com/maps?q=Burundi+BI&hl=en)  
+[Burundi map (amCharts)](https://www.amcharts.com/svg-maps/?map=burundi)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
