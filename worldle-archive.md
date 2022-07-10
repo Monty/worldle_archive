@@ -1119,6 +1119,13 @@ Have fun playing!
 [Burundi map (Google)](https://www.google.com/maps?q=Burundi+BI&hl=en)  
 [Burundi map (amCharts)](https://www.amcharts.com/svg-maps/?map=burundi)</details>  
 
+[09 Jul 2022](https://web.archive.org/web/20220709063014/https://worldle.teuteuf.fr/)  
+![](images/174.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Pakistan map (Google)](https://www.google.com/maps?q=Pakistan+PK&hl=en)  
+[Pakistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=pakistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
