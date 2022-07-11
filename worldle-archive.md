@@ -1126,6 +1126,13 @@ Have fun playing!
 [Pakistan map (Google)](https://www.google.com/maps?q=Pakistan+PK&hl=en)  
 [Pakistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=pakistan)</details>  
 
+[10 Jul 2022](https://web.archive.org/web/20220710063420/https://worldle.teuteuf.fr/)  
+![](images/199.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[San Marino map (Google)](https://www.google.com/maps?q=San+Marino+SM&hl=en)  
+[San Marino map (amCharts)](https://www.amcharts.com/svg-maps/?map=sanMarino)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
