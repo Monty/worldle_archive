@@ -1133,6 +1133,13 @@ Have fun playing!
 [San Marino map (Google)](https://www.google.com/maps?q=San+Marino+SM&hl=en)  
 [San Marino map (amCharts)](https://www.amcharts.com/svg-maps/?map=sanMarino)</details>  
 
+[11 Jul 2022](https://web.archive.org/web/20220711162307/https://worldle.teuteuf.fr/)  
+![](images/234.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Vietnam map (Google)](https://www.google.com/maps?q=Vietnam+VN&hl=en)  
+[Vietnam map (amCharts)](https://www.amcharts.com/svg-maps/?map=vietnam)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
