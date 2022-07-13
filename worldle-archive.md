@@ -1140,6 +1140,13 @@ Have fun playing!
 [Vietnam map (Google)](https://www.google.com/maps?q=Vietnam+VN&hl=en)  
 [Vietnam map (amCharts)](https://www.amcharts.com/svg-maps/?map=vietnam)</details>  
 
+[12 Jul 2022](https://web.archive.org/web/20220712042024/https://worldle.teuteuf.fr/)  
+![](images/182.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Qatar map (Google)](https://www.google.com/maps?q=Qatar+QA&hl=en)  
+[Qatar map (amCharts)](https://www.amcharts.com/svg-maps/?map=qatar)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
