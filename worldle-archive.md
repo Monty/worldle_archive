@@ -1147,6 +1147,13 @@ Have fun playing!
 [Qatar map (Google)](https://www.google.com/maps?q=Qatar+QA&hl=en)  
 [Qatar map (amCharts)](https://www.amcharts.com/svg-maps/?map=qatar)</details>  
 
+[13 Jul 2022](https://web.archive.org/web/20220713062649/https://worldle.teuteuf.fr/)  
+![](images/128.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Sri Lanka map (Google)](https://www.google.com/maps?q=Sri+Lanka+LK&hl=en)  
+[Sri Lanka map (amCharts)](https://www.amcharts.com/svg-maps/?map=sriLanka)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
