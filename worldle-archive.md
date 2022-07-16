@@ -1161,6 +1161,13 @@ Have fun playing!
 [United Kingdom map (Google)](https://www.google.com/maps?q=United+Kingdom+GB&hl=en)  
 [United Kingdom map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedKingdom)</details>  
 
+[15 Jul 2022](https://web.archive.org/web/20220715160415/https://worldle.teuteuf.fr/)  
+![](images/106.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Iraq map (Google)](https://www.google.com/maps?q=Iraq+IQ&hl=en)  
+[Iraq map (amCharts)](https://www.amcharts.com/svg-maps/?map=iraq)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
