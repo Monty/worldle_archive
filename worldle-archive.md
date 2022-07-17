@@ -1168,6 +1168,13 @@ Have fun playing!
 [Iraq map (Google)](https://www.google.com/maps?q=Iraq+IQ&hl=en)  
 [Iraq map (amCharts)](https://www.amcharts.com/svg-maps/?map=iraq)</details>  
 
+[16 Jul 2022](https://web.archive.org/web/20220716185359/https://worldle.teuteuf.fr/)  
+![](images/061.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Dominican Republic map (Google)](https://www.google.com/maps?q=Dominican+Republic&hl=en)  
+[Dominican Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=dominicanRepublic)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
