@@ -1175,6 +1175,13 @@ Have fun playing!
 [Dominican Republic map (Google)](https://www.google.com/maps?q=Dominican+Republic&hl=en)  
 [Dominican Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=dominicanRepublic)</details>  
 
+[17 Jul 2022](https://web.archive.org/web/20220717064353/https://worldle.teuteuf.fr/)  
+![](images/007.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Armenia map (Google)](https://www.google.com/maps?q=Armenia+AM&hl=en)  
+[Armenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=armenia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
