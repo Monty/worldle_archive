@@ -1182,6 +1182,13 @@ Have fun playing!
 [Armenia map (Google)](https://www.google.com/maps?q=Armenia+AM&hl=en)  
 [Armenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=armenia)</details>  
 
+[18 Jul 2022](https://web.archive.org/web/20220718065005/https://worldle.teuteuf.fr/)  
+![](images/196.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Svalbard and Jan Mayen map (Google)](https://www.google.com/maps?q=Svalbard+and+Jan+Mayen+SJ&hl=en)  
+[Svalbard and Jan Mayen (amCharts)](https://www.amcharts.com/svg-maps/?map=svalbardJanMayen)</details>
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
