@@ -1189,6 +1189,13 @@ Have fun playing!
 [Svalbard and Jan Mayen map (Google)](https://www.google.com/maps?q=Svalbard+and+Jan+Mayen+SJ&hl=en)  
 [Svalbard and Jan Mayen (amCharts)](https://www.amcharts.com/svg-maps/?map=svalbardJanMayen)</details>
 
+[19 Jul 2022](https://web.archive.org/web/20220719012111/https://worldle.teuteuf.fr/)  
+![](images/229.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Vatican City map (Google)](https://www.google.com/maps?q=Vatican+City+VA&hl=en)  
+[Vatican City map (amCharts)](https://www.amcharts.com/svg-maps/?map=vaticanCity)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
