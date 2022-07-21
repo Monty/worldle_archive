@@ -1196,6 +1196,13 @@ Have fun playing!
 [Vatican City map (Google)](https://www.google.com/maps?q=Vatican+City+VA&hl=en)  
 [Vatican City map (amCharts)](https://www.amcharts.com/svg-maps/?map=vaticanCity)</details>  
 
+[20 Jul 2022](https://web.archive.org/web/20220720062851/https://worldle.teuteuf.fr/)  
+![](images/069.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ethiopia map (Google)](https://www.google.com/maps?q=Ethiopia+ET&hl=en)  
+[Ethiopia map (amCharts)](https://www.amcharts.com/svg-maps/?map=ethiopia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
