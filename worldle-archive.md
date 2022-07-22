@@ -1203,6 +1203,13 @@ Have fun playing!
 [Ethiopia map (Google)](https://www.google.com/maps?q=Ethiopia+ET&hl=en)  
 [Ethiopia map (amCharts)](https://www.amcharts.com/svg-maps/?map=ethiopia)</details>  
 
+[21 Jul 2022](https://web.archive.org/web/20220721060608/https://worldle.teuteuf.fr/)  
+![](images/062.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Algeria map (Google)](https://www.google.com/maps?q=Algeria+DZ&hl=en)  
+[Algeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=algeria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
