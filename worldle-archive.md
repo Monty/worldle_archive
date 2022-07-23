@@ -1210,6 +1210,13 @@ Have fun playing!
 [Algeria map (Google)](https://www.google.com/maps?q=Algeria+DZ&hl=en)  
 [Algeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=algeria)</details>  
 
+[22 Jul 2022](https://web.archive.org/web/20220722061925/https://worldle.teuteuf.fr/)  
+![](images/090.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Guatemala map (Google)](https://www.google.com/maps?q=Guatemala+GT&hl=en)  
+[Guatemala map (amCharts)](https://www.amcharts.com/svg-maps/?map=guatemala)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
