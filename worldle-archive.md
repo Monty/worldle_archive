@@ -1217,6 +1217,13 @@ Have fun playing!
 [Guatemala map (Google)](https://www.google.com/maps?q=Guatemala+GT&hl=en)  
 [Guatemala map (amCharts)](https://www.amcharts.com/svg-maps/?map=guatemala)</details>  
 
+[23 Jul 2022](https://web.archive.org/web/20220723150309/https://worldle.teuteuf.fr/)  
+![](images/078.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Georgia map (Google)](https://www.google.com/maps?q=Georgia+GE&hl=en)  
+[Georgia map (amCharts)](https://www.amcharts.com/svg-maps/?map=georgia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
