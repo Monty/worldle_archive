@@ -1224,6 +1224,13 @@ Have fun playing!
 [Georgia map (Google)](https://www.google.com/maps?q=Georgia+GE&hl=en)  
 [Georgia map (amCharts)](https://www.amcharts.com/svg-maps/?map=georgia)</details>  
 
+[24 Jul 2022](https://web.archive.org/web/20220724153949/https://worldle.teuteuf.fr/)  
+![](images/111.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Jordan map (Google)](https://www.google.com/maps?q=Jordan+JO&hl=en)  
+[Jordan map (amCharts)](https://www.amcharts.com/svg-maps/?map=jordan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
