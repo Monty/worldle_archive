@@ -1231,6 +1231,13 @@ Have fun playing!
 [Jordan map (Google)](https://www.google.com/maps?q=Jordan+JO&hl=en)  
 [Jordan map (amCharts)](https://www.amcharts.com/svg-maps/?map=jordan)</details>  
 
+[25 Jul 2022](https://web.archive.org/web/20220725164245/https://worldle.teuteuf.fr/)  
+![](images/100.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Indonesia map (Google)](https://www.google.com/maps?q=Indonesia+ID&hl=en)  
+[Indonesia map (amCharts)](https://www.amcharts.com/svg-maps/?map=indonesia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
