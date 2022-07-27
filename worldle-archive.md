@@ -1238,6 +1238,13 @@ Have fun playing!
 [Indonesia map (Google)](https://www.google.com/maps?q=Indonesia+ID&hl=en)  
 [Indonesia map (amCharts)](https://www.amcharts.com/svg-maps/?map=indonesia)</details>  
 
+[26 Jul 2022](https://web.archive.org/web/20220726161020/https://worldle.teuteuf.fr/)  
+![](images/133.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Latvia map (Google)](https://www.google.com/maps?q=Latvia+LV&hl=en)  
+[Latvia map (amCharts)](https://www.amcharts.com/svg-maps/?map=latvia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
