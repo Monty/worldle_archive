@@ -1245,6 +1245,13 @@ Have fun playing!
 [Latvia map (Google)](https://www.google.com/maps?q=Latvia+LV&hl=en)  
 [Latvia map (amCharts)](https://www.amcharts.com/svg-maps/?map=latvia)</details>  
 
+[27 Jul 2022](https://web.archive.org/web/20220727151747/https://worldle.teuteuf.fr/)  
+![](images/169.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Panama map (Google)](https://www.google.com/maps?q=Panama+PA&hl=en)  
+[Panama map (amCharts)](https://www.amcharts.com/svg-maps/?map=panama)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
