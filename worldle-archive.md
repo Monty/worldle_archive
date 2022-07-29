@@ -1252,6 +1252,13 @@ Have fun playing!
 [Panama map (Google)](https://www.google.com/maps?q=Panama+PA&hl=en)  
 [Panama map (amCharts)](https://www.amcharts.com/svg-maps/?map=panama)</details>  
 
+[28 Jul 2022](https://web.archive.org/web/20220728161609/https://worldle.teuteuf.fr/)  
+![](images/158.svg)
+<details><summary><b>Show answer</b></summary>
+
+[Niger (Google)](https://www.google.com/maps?q=Niger+NE&hl=en)  
+[Niger (amCharts)](https://www.amcharts.com/svg-maps/?map=niger)</details>
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
