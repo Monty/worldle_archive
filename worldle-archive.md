@@ -1259,6 +1259,13 @@ Have fun playing!
 [Niger (Google)](https://www.google.com/maps?q=Niger+NE&hl=en)  
 [Niger (amCharts)](https://www.amcharts.com/svg-maps/?map=niger)</details>
 
+[29 Jul 2022](https://web.archive.org/web/20220729185125/https://worldle.teuteuf.fr/)  
+![](images/189.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Solomon Islands map (Google)](https://www.google.com/maps?q=Solomon+Islands+SB&hl=en)  
+[Solomon Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=solomonIslands)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
