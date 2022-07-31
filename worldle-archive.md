@@ -1266,6 +1266,13 @@ Have fun playing!
 [Solomon Islands map (Google)](https://www.google.com/maps?q=Solomon+Islands+SB&hl=en)  
 [Solomon Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=solomonIslands)</details>  
 
+[30 Jul 2022](https://web.archive.org/web/20220730012908/https://worldle.teuteuf.fr/)  
+![](images/146.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Martinique map (Google)](https://www.google.com/maps?q=Martinique+MQ&hl=en)  
+[Martinique map (amCharts)](https://www.amcharts.com/svg-maps/?map=martinique)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
