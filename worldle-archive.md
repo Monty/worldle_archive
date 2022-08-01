@@ -1273,6 +1273,13 @@ Have fun playing!
 [Martinique map (Google)](https://www.google.com/maps?q=Martinique+MQ&hl=en)  
 [Martinique map (amCharts)](https://www.amcharts.com/svg-maps/?map=martinique)</details>  
 
+[31 Jul 2022](https://web.archive.org/web/20220731163828/https://worldle.teuteuf.fr/)  
+![](images/087.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Equatorial Guinea map (Google)](https://www.google.com/maps?q=Equatorial+Guinea+GQ&hl=en)  
+[Equatorial Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=equatorialGuinea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
