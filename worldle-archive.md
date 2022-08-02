@@ -1280,6 +1280,14 @@ Have fun playing!
 [Equatorial Guinea map (Google)](https://www.google.com/maps?q=Equatorial+Guinea+GQ&hl=en)  
 [Equatorial Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=equatorialGuinea)</details>  
 
+## Aug 2022
+[01 Aug 2022](https://web.archive.org/web/20220801061357/https://worldle.teuteuf.fr/)  
+![](images/037.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Belize map (Google)](https://www.google.com/maps?q=Belize&hl=en)  
+[Belize map (amCharts)](https://www.amcharts.com/svg-maps/?map=belize)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
