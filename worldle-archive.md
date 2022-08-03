@@ -1288,6 +1288,13 @@ Have fun playing!
 [Belize map (Google)](https://www.google.com/maps?q=Belize&hl=en)  
 [Belize map (amCharts)](https://www.amcharts.com/svg-maps/?map=belize)</details>  
 
+[02 Aug 2022](https://web.archive.org/web/20220802060035/https://worldle.teuteuf.fr/)  
+![](images/057.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Germany map (Google)](https://www.google.com/maps?q=Germany+DE&hl=en)  
+[Germany map (amCharts)](https://www.amcharts.com/svg-maps/?map=germany)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
