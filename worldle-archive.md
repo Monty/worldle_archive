@@ -1295,6 +1295,13 @@ Have fun playing!
 [Germany map (Google)](https://www.google.com/maps?q=Germany+DE&hl=en)  
 [Germany map (amCharts)](https://www.amcharts.com/svg-maps/?map=germany)</details>  
 
+[03 Aug 2022](https://web.archive.org/web/20220803063400/https://worldle.teuteuf.fr/)  
+![](images/063.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ecuador map (Google)](https://www.google.com/maps?q=Ecuador+EC&hl=en)  
+[Ecuador map (amCharts)](https://www.amcharts.com/svg-maps/?map=ecuador)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
