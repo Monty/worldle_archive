@@ -1302,6 +1302,13 @@ Have fun playing!
 [Ecuador map (Google)](https://www.google.com/maps?q=Ecuador+EC&hl=en)  
 [Ecuador map (amCharts)](https://www.amcharts.com/svg-maps/?map=ecuador)</details>  
 
+[04 Aug 2022](https://web.archive.org/web/20220804060217/https://worldle.teuteuf.fr/)  
+![](images/074.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[France map (Google)](https://www.google.com/maps?q=France+FR&hl=en)  
+[France map (amCharts)](https://www.amcharts.com/svg-maps/?map=france)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
