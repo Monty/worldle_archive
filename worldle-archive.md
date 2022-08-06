@@ -1309,6 +1309,13 @@ Have fun playing!
 [France map (Google)](https://www.google.com/maps?q=France+FR&hl=en)  
 [France map (amCharts)](https://www.amcharts.com/svg-maps/?map=france)</details>  
 
+[05 Aug 2022](https://web.archive.org/web/20220805055026/https://worldle.teuteuf.fr/)  
+![](images/099.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Hungary map (Google)](https://www.google.com/maps?q=Hungary+HU&hl=en)  
+[Hungary map (amCharts)](https://www.amcharts.com/svg-maps/?map=hungary)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
