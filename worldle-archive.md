@@ -469,7 +469,7 @@ Have fun playing!
 ![](images/112.svg)  
 <details><summary><b>Show answer</b></summary>
 
-[Japan (Google)](https://www.google.com/maps?q=Japan+JP&hl=en)  
+[Japan (Google)](https://www.google.com/maps?q=Japan&hl=en)  
 [Japan (amCharts)](https://www.amcharts.com/svg-maps/?map=japan)</details>  
 
 [08 Apr 2022](https://web.archive.org/web/20220408161334/https://worldle.teuteuf.fr/)  
@@ -1315,6 +1315,13 @@ Have fun playing!
 
 [Hungary map (Google)](https://www.google.com/maps?q=Hungary+HU&hl=en)  
 [Hungary map (amCharts)](https://www.amcharts.com/svg-maps/?map=hungary)</details>  
+
+[06 Aug 2022](https://web.archive.org/web/20220806064737/https://worldle.teuteuf.fr/)  
+![](images/112.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Japan map (Google)](https://www.google.com/maps?q=Japan&hl=en)  
+[Japan map (amCharts)](https://www.amcharts.com/svg-maps/?map=japan)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
