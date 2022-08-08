@@ -1323,6 +1323,13 @@ Have fun playing!
 [Japan map (Google)](https://www.google.com/maps?q=Japan&hl=en)  
 [Japan map (amCharts)](https://www.amcharts.com/svg-maps/?map=japan)</details>  
 
+[07 Aug 2022](https://web.archive.org/web/20220807151542/https://worldle.teuteuf.fr/)  
+![](images/131.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Lithuania map (Google)](https://www.google.com/maps?q=Lithuania+LT&hl=en)  
+[Lithuania map (amCharts)](https://www.amcharts.com/svg-maps/?map=lithuania)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
