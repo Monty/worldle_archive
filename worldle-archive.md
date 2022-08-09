@@ -1330,6 +1330,13 @@ Have fun playing!
 [Lithuania map (Google)](https://www.google.com/maps?q=Lithuania+LT&hl=en)  
 [Lithuania map (amCharts)](https://www.amcharts.com/svg-maps/?map=lithuania)</details>  
 
+[08 Aug 2022](https://web.archive.org/web/20220808003746/https://worldle.teuteuf.fr/)  
+![](images/145.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Macau map (Google)](https://www.google.com/maps?q=Macau+MO&hl=en)  
+[Macau map (amCharts)](https://www.amcharts.com/svg-maps/?map=macao)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
