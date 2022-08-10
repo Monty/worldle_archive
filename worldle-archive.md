@@ -1337,6 +1337,13 @@ Have fun playing!
 [Macau map (Google)](https://www.google.com/maps?q=Macau+MO&hl=en)  
 [Macau map (amCharts)](https://www.amcharts.com/svg-maps/?map=macao)</details>  
 
+[09 Aug 2022](https://web.archive.org/web/20220809054905/https://worldle.teuteuf.fr/)  
+![](images/161.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Nicaragua map (Google)](https://www.google.com/maps?q=Nicaragua+NI&hl=en)  
+[Nicaragua map (amCharts)](https://www.amcharts.com/svg-maps/?map=nicaragua)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
