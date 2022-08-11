@@ -1344,6 +1344,13 @@ Have fun playing!
 [Nicaragua map (Google)](https://www.google.com/maps?q=Nicaragua+NI&hl=en)  
 [Nicaragua map (amCharts)](https://www.amcharts.com/svg-maps/?map=nicaragua)</details>  
 
+[10 Aug 2022](https://web.archive.org/web/20220810061426/https://worldle.teuteuf.fr/)  
+![](images/168.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Oman map (Google)](https://www.google.com/maps?q=Oman+OM&hl=en)  
+[Oman map (amCharts)](https://www.amcharts.com/svg-maps/?map=oman)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
