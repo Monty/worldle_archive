@@ -1351,6 +1351,13 @@ Have fun playing!
 [Oman map (Google)](https://www.google.com/maps?q=Oman+OM&hl=en)  
 [Oman map (amCharts)](https://www.amcharts.com/svg-maps/?map=oman)</details>  
 
+[11 Aug 2022](https://web.archive.org/web/20220811131514/https://worldle.teuteuf.fr/)  
+![](images/201.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Somalia map (Google)](https://www.google.com/maps?q=Somalia+SO&hl=en)  
+[Somalia map (amCharts)](https://www.amcharts.com/svg-maps/?map=somalia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
