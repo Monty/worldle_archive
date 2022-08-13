@@ -1358,6 +1358,13 @@ Have fun playing!
 [Somalia map (Google)](https://www.google.com/maps?q=Somalia+SO&hl=en)  
 [Somalia map (amCharts)](https://www.amcharts.com/svg-maps/?map=somalia)</details>  
 
+[12 Aug 2022](https://web.archive.org/web/20220812062342/https://worldle.teuteuf.fr/)  
+![](images/185.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Serbia map (Google)](https://www.google.com/maps?q=Serbia+RS&hl=en)  
+[Serbia map (amCharts)](https://www.amcharts.com/svg-maps/?map=serbia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
