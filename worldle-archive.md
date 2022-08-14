@@ -1365,6 +1365,13 @@ Have fun playing!
 [Serbia map (Google)](https://www.google.com/maps?q=Serbia+RS&hl=en)  
 [Serbia map (amCharts)](https://www.amcharts.com/svg-maps/?map=serbia)</details>  
 
+[13 Aug 2022](https://web.archive.org/web/20220813063445/https://worldle.teuteuf.fr/)  
+![](images/217.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Turkmenistan map (Google)](https://www.google.com/maps?q=Turkmenistan+TM&hl=en)  
+[Turkmenistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkmenistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
