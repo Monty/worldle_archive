@@ -1379,6 +1379,13 @@ Have fun playing!
 [Austria map (Google)](https://www.google.com/maps?q=Austria+AT&hl=en)  
 [Austria map (amCharts)](https://www.amcharts.com/svg-maps/?map=austria)</details>  
 
+[15 Aug 2022](https://web.archive.org/web/20220815204921/https://worldle.teuteuf.fr/)  
+![](images/046.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Chile map (Google)](https://www.google.com/maps?q=Chile+CL&hl=en)  
+[Chile map (amCharts)](https://www.amcharts.com/svg-maps/?map=chile)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
