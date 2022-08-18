@@ -1393,6 +1393,13 @@ Have fun playing!
 [Guernsey map (Google)](https://www.google.com/maps?q=Guernsey+GG&hl=en)  
 [Guernsey map (amCharts)](https://www.amcharts.com/svg-maps/?map=channelIslands)</details>  
 
+[17 Aug 2022](https://web.archive.org/web/20220817060017/https://worldle.teuteuf.fr/)  
+![](images/109.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Italy map (Google)](https://www.google.com/maps?q=Italy+IT&hl=en)  
+[Italy map (amCharts)](https://www.amcharts.com/svg-maps/?map=italy)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
