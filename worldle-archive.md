@@ -1400,6 +1400,13 @@ Have fun playing!
 [Italy map (Google)](https://www.google.com/maps?q=Italy+IT&hl=en)  
 [Italy map (amCharts)](https://www.amcharts.com/svg-maps/?map=italy)</details>  
 
+[18 Aug 2022](https://web.archive.org/web/20220818062127/https://worldle.teuteuf.fr/)  
+![](images/143.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Myanmar map (Google)](https://www.google.com/maps?q=Myanmar+MM&hl=en)  
+[Myanmar map (amCharts)](https://www.amcharts.com/svg-maps/?map=myanmar)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
