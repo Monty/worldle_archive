@@ -1407,6 +1407,13 @@ Have fun playing!
 [Myanmar map (Google)](https://www.google.com/maps?q=Myanmar+MM&hl=en)  
 [Myanmar map (amCharts)](https://www.amcharts.com/svg-maps/?map=myanmar)</details>  
 
+[19 Aug 2022](https://web.archive.org/web/20220819182053/https://worldle.teuteuf.fr/)  
+![](images/129.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Liberia map (Google)](https://www.google.com/maps?q=Liberia+LR&hl=en)  
+[Liberia map (amCharts)](https://www.amcharts.com/svg-maps/?map=liberia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
