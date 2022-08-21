@@ -1414,6 +1414,13 @@ Have fun playing!
 [Liberia map (Google)](https://www.google.com/maps?q=Liberia+LR&hl=en)  
 [Liberia map (amCharts)](https://www.amcharts.com/svg-maps/?map=liberia)</details>  
 
+[20 Aug 2022](https://web.archive.org/web/20220820061231/https://worldle.teuteuf.fr/)  
+![](images/238.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Yemen map (Google)](https://www.google.com/maps?q=Yemen+YE&hl=en)  
+[Yemen map (amCharts)](https://www.amcharts.com/svg-maps/?map=yemen)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
