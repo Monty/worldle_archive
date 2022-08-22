@@ -1421,6 +1421,13 @@ Have fun playing!
 [Yemen map (Google)](https://www.google.com/maps?q=Yemen+YE&hl=en)  
 [Yemen map (amCharts)](https://www.amcharts.com/svg-maps/?map=yemen)</details>  
 
+[21 Aug 2022](https://web.archive.org/web/20220821012813/https://worldle.teuteuf.fr/)  
+![](images/212.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Togo map (Google)](https://www.google.com/maps?q=Togo+TG&hl=en)  
+[Togo map (amCharts)](https://www.amcharts.com/svg-maps/?map=togo)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
