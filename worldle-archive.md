@@ -1428,6 +1428,13 @@ Have fun playing!
 [Togo map (Google)](https://www.google.com/maps?q=Togo+TG&hl=en)  
 [Togo map (amCharts)](https://www.amcharts.com/svg-maps/?map=togo)</details>  
 
+[22 Aug 2022](https://web.archive.org/web/20220822104755/https://worldle.teuteuf.fr/)  
+![](images/186.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Russia map (Google)](https://www.google.com/maps?q=Russia+RU&hl=en)  
+[Russia map (amCharts)](https://www.amcharts.com/svg-maps/?map=russia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
