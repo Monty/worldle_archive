@@ -1435,6 +1435,13 @@ Have fun playing!
 [Russia map (Google)](https://www.google.com/maps?q=Russia+RU&hl=en)  
 [Russia map (amCharts)](https://www.amcharts.com/svg-maps/?map=russia)</details>  
 
+[23 Aug 2022](https://web.archive.org/web/20220823165336/https://worldle.teuteuf.fr/)  
+![](images/072.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Falkland Islands (Malvinas) map (Google)](https://www.google.com/maps?q=Falkland+Islands+(Malvinas)+FK&hl=en)  
+[Falkland Islands (Malvinas) map (amCharts)](https://www.amcharts.com/svg-maps/?map=falklandIslands)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
