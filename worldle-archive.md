@@ -1442,6 +1442,13 @@ Have fun playing!
 [Falkland Islands (Malvinas) map (Google)](https://www.google.com/maps?q=Falkland+Islands+(Malvinas)+FK&hl=en)  
 [Falkland Islands (Malvinas) map (amCharts)](https://www.amcharts.com/svg-maps/?map=falklandIslands)</details>  
 
+[24 Aug 2022](https://web.archive.org/web/20220824040325/https://worldle.teuteuf.fr/)  
+![](images/048.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[China map (Google)](https://www.google.com/maps?q=China+CN&hl=en)  
+[China map (amCharts)](https://www.amcharts.com/svg-maps/?map=china)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
