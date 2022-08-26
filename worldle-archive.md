@@ -1449,6 +1449,13 @@ Have fun playing!
 [China map (Google)](https://www.google.com/maps?q=China+CN&hl=en)  
 [China map (amCharts)](https://www.amcharts.com/svg-maps/?map=china)</details>  
 
+[25 Aug 2022](https://web.archive.org/web/20220825165738/https://worldle.teuteuf.fr/)  
+![](images/025.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Benin map (Google)](https://www.google.com/maps?q=Benin+BJ&hl=en)  
+[Benin map (amCharts)](https://www.amcharts.com/svg-maps/?map=benin)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
