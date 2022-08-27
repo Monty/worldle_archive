@@ -1456,6 +1456,13 @@ Have fun playing!
 [Benin map (Google)](https://www.google.com/maps?q=Benin+BJ&hl=en)  
 [Benin map (amCharts)](https://www.amcharts.com/svg-maps/?map=benin)</details>  
 
+[26 Aug 2022](https://web.archive.org/web/20220826160736/https://worldle.teuteuf.fr/)  
+![](images/237.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Samoa map (Google)](https://www.google.com/maps?q=Samoa+WS&hl=en)  
+[Samoa map (amCharts)](https://www.amcharts.com/svg-maps/?map=samoa)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
