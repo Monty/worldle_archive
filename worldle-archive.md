@@ -1463,6 +1463,12 @@ Have fun playing!
 [Samoa map (Google)](https://www.google.com/maps?q=Samoa+WS&hl=en)  
 [Samoa map (amCharts)](https://www.amcharts.com/svg-maps/?map=samoa)</details>  
 
+[27 Aug 2022](https://web.archive.org/web/20220827052903/https://worldle.teuteuf.fr/)  
+![](images/211.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[French Southern Territories - Kerguelen Islands](https://www.google.com/maps?q=Kerguelen+Islands+TF&hl=en)</details>
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
