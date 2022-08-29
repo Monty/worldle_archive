@@ -1469,6 +1469,13 @@ Have fun playing!
 
 [French Southern Territories - Kerguelen Islands](https://www.google.com/maps?q=Kerguelen+Islands+TF&hl=en)</details>
 
+[28 Aug 2022](https://web.archive.org/web/20220828174932/https://worldle.teuteuf.fr/)  
+![](images/187.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Rwanda map (Google)](https://www.google.com/maps?q=Rwanda+RW&hl=en)  
+[Rwanda map (amCharts)](https://www.amcharts.com/svg-maps/?map=rwanda)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
