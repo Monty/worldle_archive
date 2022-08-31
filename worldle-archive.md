@@ -1484,6 +1484,13 @@ Have fun playing!
 [ map (amCharts)](https://www.amcharts.com/svg-maps/?map=netherlands
 )</details>  
 
+[30 Aug 2022](https://web.archive.org/web/20220830142043/https://worldle.teuteuf.fr/)  
+![](images/170.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Peru map (Google)](https://www.google.com/maps?q=Peru+PE&hl=en)  
+[Peru map (amCharts)](https://www.amcharts.com/svg-maps/?map=peru)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
