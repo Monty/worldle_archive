@@ -1491,6 +1491,13 @@ Have fun playing!
 [Peru map (Google)](https://www.google.com/maps?q=Peru+PE&hl=en)  
 [Peru map (amCharts)](https://www.amcharts.com/svg-maps/?map=peru)</details>  
 
+[31 Aug 2022](https://web.archive.org/web/20220831044519/https://worldle.teuteuf.fr/)  
+![](images/038.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Canada map (Google)](https://www.google.com/maps?q=Canada+CA&hl=en)  
+[Canada map (amCharts)](https://www.amcharts.com/svg-maps/?map=canada)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
