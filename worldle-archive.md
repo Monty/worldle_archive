@@ -1505,6 +1505,13 @@ Have fun playing!
 [Jamaica map (Google)](https://www.google.com/maps?q=Jamaica+JM&hl=en)  
 [Jamaica map (amCharts)](https://www.amcharts.com/svg-maps/?map=jamaica)</details>  
 
+[02 Sep 2022](https://web.archive.org/web/20220902122651/https://worldle.teuteuf.fr/)  
+![](images/065.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Egypt map (Google)](https://www.google.com/maps?q=Egypt+EG&hl=en)  
+[Egypt map (amCharts)](https://www.amcharts.com/svg-maps/?map=egypt)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
