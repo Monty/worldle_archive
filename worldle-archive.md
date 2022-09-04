@@ -1512,6 +1512,13 @@ Have fun playing!
 [Egypt map (Google)](https://www.google.com/maps?q=Egypt+EG&hl=en)  
 [Egypt map (amCharts)](https://www.amcharts.com/svg-maps/?map=egypt)</details>  
 
+[03 Sep 2022](https://web.archive.org/web/20220903183839/https://worldle.teuteuf.fr/)  
+![](images/016.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Azerbaijan map (Google)](https://www.google.com/maps?q=Azerbaijan+AZ&hl=en)  
+[Azerbaijan map (amCharts)](https://www.amcharts.com/svg-maps/?map=azerbaijan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
