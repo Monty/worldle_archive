@@ -1519,6 +1519,13 @@ Have fun playing!
 [Azerbaijan map (Google)](https://www.google.com/maps?q=Azerbaijan+AZ&hl=en)  
 [Azerbaijan map (amCharts)](https://www.amcharts.com/svg-maps/?map=azerbaijan)</details>  
 
+[04 Sep 2022](https://web.archive.org/web/20220904061950/https://worldle.teuteuf.fr/)  
+![](images/213.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Thailand map (Google)](https://www.google.com/maps?q=Thailand+TH&hl=en)  
+[Thailand map (amCharts)](https://www.amcharts.com/svg-maps/?map=thailand)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
