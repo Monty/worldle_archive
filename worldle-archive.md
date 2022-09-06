@@ -1498,6 +1498,7 @@ Have fun playing!
 [Canada map (Google)](https://www.google.com/maps?q=Canada+CA&hl=en)  
 [Canada map (amCharts)](https://www.amcharts.com/svg-maps/?map=canada)</details>  
 
+## Sep 2022
 [01 Sep 2022](https://web.archive.org/web/20220901060132/https://worldle.teuteuf.fr/)  
 ![](images/110.svg)  
 <details><summary><b>Show answer</b></summary>
@@ -1525,6 +1526,13 @@ Have fun playing!
 
 [Thailand map (Google)](https://www.google.com/maps?q=Thailand+TH&hl=en)  
 [Thailand map (amCharts)](https://www.amcharts.com/svg-maps/?map=thailand)</details>  
+
+[05 Sep 2022](https://web.archive.org/web/20220905063410/https://worldle.teuteuf.fr/)  
+![](images/164.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Nepal map (Google)](https://www.google.com/maps?q=Nepal+NP&hl=en)  
+[Nepal map (amCharts)](https://www.amcharts.com/svg-maps/?map=nepal)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
