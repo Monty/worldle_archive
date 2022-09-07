@@ -1534,6 +1534,13 @@ Have fun playing!
 [Nepal map (Google)](https://www.google.com/maps?q=Nepal+NP&hl=en)  
 [Nepal map (amCharts)](https://www.amcharts.com/svg-maps/?map=nepal)</details>  
 
+[06 Sep 2022](https://web.archive.org/web/20220906021816/https://worldle.teuteuf.fr/)  
+![](images/117.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Comoros map (Google)](https://www.google.com/maps?q=Comoros&hl=en)  
+[Comoros map (amCharts)](https://www.amcharts.com/svg-maps/?map=comoros)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
