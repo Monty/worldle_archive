@@ -1548,6 +1548,13 @@ Have fun playing!
 [Bhutan map (Google)](https://www.google.com/maps?q=Bhutan+BT&hl=en)  
 [Bhutan map (amCharts)](https://www.amcharts.com/svg-maps/?map=bhutan)</details>  
 
+[08 Sep 2022](https://web.archive.org/web/20220908053905/https://worldle.teuteuf.fr/)  
+![](images/223.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Tanzania map (Google)](https://www.google.com/maps?q=Tanzania+TZ&hl=en)  
+[Tanzania map (amCharts)](https://www.amcharts.com/svg-maps/?map=tanzania)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
