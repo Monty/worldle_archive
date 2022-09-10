@@ -1555,6 +1555,13 @@ Have fun playing!
 [Tanzania map (Google)](https://www.google.com/maps?q=Tanzania+TZ&hl=en)  
 [Tanzania map (amCharts)](https://www.amcharts.com/svg-maps/?map=tanzania)</details>  
 
+[09 Sep 2022](https://web.archive.org/web/20220909162815/https://worldle.teuteuf.fr/)  
+![](images/179.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Portugal map (Google)](https://www.google.com/maps?q=Portugal+PT&hl=en)  
+[Portugal map (amCharts)](https://www.amcharts.com/svg-maps/?map=portugal)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
