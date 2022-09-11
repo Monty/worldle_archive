@@ -1562,6 +1562,13 @@ Have fun playing!
 [Portugal map (Google)](https://www.google.com/maps?q=Portugal+PT&hl=en)  
 [Portugal map (amCharts)](https://www.amcharts.com/svg-maps/?map=portugal)</details>  
 
+[10 Sep 2022](https://web.archive.org/web/20220910045941/https://worldle.teuteuf.fr/)  
+![](images/140.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Madagascar map (Google)](https://www.google.com/maps?q=Madagascar+MG&hl=en)  
+[Madagascar map (amCharts)](https://www.amcharts.com/svg-maps/?map=madagascar)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
