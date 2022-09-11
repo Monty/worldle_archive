@@ -1569,6 +1569,13 @@ Have fun playing!
 [Madagascar map (Google)](https://www.google.com/maps?q=Madagascar+MG&hl=en)  
 [Madagascar map (amCharts)](https://www.amcharts.com/svg-maps/?map=madagascar)</details>  
 
+[11 Sep 2022](https://web.archive.org/web/20220911063032/https://worldle.teuteuf.fr/)  
+![](images/216.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Timor-Leste map (Google)](https://www.google.com/maps?q=Timor-Leste+TL&hl=en)  
+[Timor-Leste (amCharts)](https://www.amcharts.com/svg-maps/?map=eastTimor)</details>
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
