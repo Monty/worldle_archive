@@ -1576,6 +1576,13 @@ Have fun playing!
 [Timor-Leste map (Google)](https://www.google.com/maps?q=Timor-Leste+TL&hl=en)  
 [Timor-Leste (amCharts)](https://www.amcharts.com/svg-maps/?map=eastTimor)</details>
 
+[13 Sep 2022](https://web.archive.org/web/20220913064025/https://worldle.teuteuf.fr/)  
+![](images/141.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[North Macedonia map (Google)](https://www.google.com/maps?q=North+Macedonia+MK&hl=en)  
+[North Macedonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=macedonia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
