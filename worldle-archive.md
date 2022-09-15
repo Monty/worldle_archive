@@ -1583,6 +1583,13 @@ Have fun playing!
 [North Macedonia map (Google)](https://www.google.com/maps?q=North+Macedonia+MK&hl=en)  
 [North Macedonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=macedonia)</details>  
 
+[14 Sep 2022](https://web.archive.org/web/20220914162052/https://worldle.teuteuf.fr/)  
+![](images/224.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ukraine map (Google)](https://www.google.com/maps?q=Ukraine+UA&hl=en)  
+[Ukraine map (amCharts)](https://www.amcharts.com/svg-maps/?map=ukraine)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
