@@ -1590,6 +1590,13 @@ Have fun playing!
 [Ukraine map (Google)](https://www.google.com/maps?q=Ukraine+UA&hl=en)  
 [Ukraine map (amCharts)](https://www.amcharts.com/svg-maps/?map=ukraine)</details>  
 
+[15 Sep 2022](https://web.archive.org/web/20220915030223/https://worldle.teuteuf.fr/)  
+![](images/060.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Dominica map (Google)](https://www.google.com/maps?q=Dominica+DM&hl=en)  
+[Dominica map (amCharts)](https://www.amcharts.com/svg-maps/?map=dominica)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
