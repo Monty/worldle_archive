@@ -1604,7 +1604,7 @@ Have fun playing!
 [Mauritania map (Google)](https://www.google.com/maps?q=Mauritania+MR&hl=en)  
 [Mauritania map (amCharts)](https://www.amcharts.com/svg-maps/?map=mauritania)</details>  
 
-[17 Sep 2022](n/a)  
+[17 Sep 2022](https://web.archive.org/web/20220410182432/https://worldle.teuteuf.fr/)  
 ![](images/222.svg)  
 <details><summary><b>Show answer</b></summary>
 
