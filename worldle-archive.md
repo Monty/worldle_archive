@@ -1604,6 +1604,13 @@ Have fun playing!
 [Mauritania map (Google)](https://www.google.com/maps?q=Mauritania+MR&hl=en)  
 [Mauritania map (amCharts)](https://www.amcharts.com/svg-maps/?map=mauritania)</details>  
 
+[17 Sep 2022](n/a)  
+![](images/222.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Taiwan map (Google)](https://www.google.com/maps?q=Taiwan+TW&hl=en)  
+[Taiwan map (amCharts)](https://www.amcharts.com/svg-maps/?map=taiwan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
