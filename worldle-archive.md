@@ -1597,6 +1597,13 @@ Have fun playing!
 [Dominica map (Google)](https://www.google.com/maps?q=Dominica+DM&hl=en)  
 [Dominica map (amCharts)](https://www.amcharts.com/svg-maps/?map=dominica)</details>  
 
+[16 Sep 2022](https://web.archive.org/web/20220916172056/https://worldle.teuteuf.fr/)  
+![](images/147.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mauritania map (Google)](https://www.google.com/maps?q=Mauritania+MR&hl=en)  
+[Mauritania map (amCharts)](https://www.amcharts.com/svg-maps/?map=mauritania)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
