@@ -1611,6 +1611,13 @@ Have fun playing!
 [Taiwan map (Google)](https://www.google.com/maps?q=Taiwan+TW&hl=en)  
 [Taiwan map (amCharts)](https://www.amcharts.com/svg-maps/?map=taiwan)</details>  
 
+[18 Sep 2022](https://web.archive.org/web/20220918083414/https://worldle.teuteuf.fr/)  
+![](images/066.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Western Sahara map (Google)](https://www.google.com/maps?q=Western+Sahara+EH&hl=en)  
+[Western Sahara map (amCharts)](https://www.amcharts.com/svg-maps/?map=moroccoWesternSahara)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
