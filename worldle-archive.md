@@ -1604,7 +1604,7 @@ Have fun playing!
 [Mauritania map (Google)](https://www.google.com/maps?q=Mauritania+MR&hl=en)  
 [Mauritania map (amCharts)](https://www.amcharts.com/svg-maps/?map=mauritania)</details>  
 
-[17 Sep 2022](https://web.archive.org/web/20220410182432/https://worldle.teuteuf.fr/)  
+[17 Sep 2022](https://web.archive.org/web/20220917055145/https://worldle.teuteuf.fr/)  
 ![](images/222.svg)  
 <details><summary><b>Show answer</b></summary>
 
@@ -1617,6 +1617,13 @@ Have fun playing!
 
 [Western Sahara map (Google)](https://www.google.com/maps?q=Western+Sahara+EH&hl=en)  
 [Western Sahara map (amCharts)](https://www.amcharts.com/svg-maps/?map=moroccoWesternSahara)</details>  
+
+[19 Sep 2022](https://web.archive.org/web/20220919193228/https://worldle.teuteuf.fr/)  
+![](images/075.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Gabon map (Google)](https://www.google.com/maps?q=Gabon+GA&hl=en)  
+[Gabon map (amCharts)](https://www.amcharts.com/svg-maps/?map=gabon)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
