@@ -1639,6 +1639,13 @@ Have fun playing!
 [Democratic Republic of the Congo map (Google)](https://www.google.com/maps?q=Democratic+Republic+of+the+Congo+CD&hl=en)  
 [Democratic Republic of the Congo map (amCharts)](https://www.amcharts.com/svg-maps/?map=congoDR)</details>  
 
+[22 Sep 2022](https://web.archive.org/web/20220922041857/https://worldle.teuteuf.fr/)  
+![](images/097.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Croatia map (Google)](https://www.google.com/maps?q=Croatia+HR&hl=en)  
+[Croatia map (amCharts)](https://www.amcharts.com/svg-maps/?map=croatia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
