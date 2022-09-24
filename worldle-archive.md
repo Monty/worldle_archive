@@ -1646,6 +1646,13 @@ Have fun playing!
 [Croatia map (Google)](https://www.google.com/maps?q=Croatia+HR&hl=en)  
 [Croatia map (amCharts)](https://www.amcharts.com/svg-maps/?map=croatia)</details>  
 
+[23 Sep 2022](https://web.archive.org/web/20220923053202/https://worldle.teuteuf.fr/)  
+![](images/165.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Nauru map (Google)](https://www.google.com/maps?q=Nauru+NR&hl=en)  
+[Nauru map (amCharts)](https://www.amcharts.com/svg-maps/?map=nauru)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
