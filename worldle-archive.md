@@ -1653,6 +1653,13 @@ Have fun playing!
 [Nauru map (Google)](https://www.google.com/maps?q=Nauru+NR&hl=en)  
 [Nauru map (amCharts)](https://www.amcharts.com/svg-maps/?map=nauru)</details>  
 
+[24 Sep 2022](https://web.archive.org/web/20220924051744/https://worldle.teuteuf.fr/)  
+![](images/226.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[United States map (Google)](https://www.google.com/maps?q=United+States+US&hl=en)  
+[United States map (amCharts)](https://www.amcharts.com/svg-maps/?map=usaMercator)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
