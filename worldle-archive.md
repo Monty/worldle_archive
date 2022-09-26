@@ -1660,6 +1660,13 @@ Have fun playing!
 [United States map (Google)](https://www.google.com/maps?q=United+States+US&hl=en)  
 [United States map (amCharts)](https://www.amcharts.com/svg-maps/?map=usaMercator)</details>  
 
+[25 Sep 2022](https://web.archive.org/web/20220925061728/https://worldle.teuteuf.fr/)  
+![](images/079.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[French Guiana map (Google)](https://www.google.com/maps?q=French+Guiana+GF&hl=en)  
+[French Guiana map (amCharts)](https://www.amcharts.com/svg-maps/?map=frenchGuiana)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
