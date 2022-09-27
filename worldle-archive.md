@@ -1667,6 +1667,13 @@ Have fun playing!
 [French Guiana map (Google)](https://www.google.com/maps?q=French+Guiana+GF&hl=en)  
 [French Guiana map (amCharts)](https://www.amcharts.com/svg-maps/?map=frenchGuiana)</details>  
 
+[26 Sep 2022](https://web.archive.org/web/20220926035454/https://worldle.teuteuf.fr/)  
+![](images/142.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mali map (Google)](https://www.google.com/maps?q=Mali+ML&hl=en)  
+[Mali map (amCharts)](https://www.amcharts.com/svg-maps/?map=mali)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
