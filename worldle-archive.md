@@ -1674,6 +1674,13 @@ Have fun playing!
 [Mali map (Google)](https://www.google.com/maps?q=Mali+ML&hl=en)  
 [Mali map (amCharts)](https://www.amcharts.com/svg-maps/?map=mali)</details>  
 
+[27 Sep 2022](https://web.archive.org/web/20220927003636/https://worldle.teuteuf.fr/)  
+![](images/208.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Eswatini map (Google)](https://www.google.com/maps?q=Eswatini+SZ&hl=en)  
+[Eswatini map (amCharts)](https://www.amcharts.com/svg-maps/?map=eSwatini)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
