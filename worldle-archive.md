@@ -1681,6 +1681,13 @@ Have fun playing!
 [Eswatini map (Google)](https://www.google.com/maps?q=Eswatini+SZ&hl=en)  
 [Eswatini map (amCharts)](https://www.amcharts.com/svg-maps/?map=eSwatini)</details>  
 
+[28 Sep 2022](https://web.archive.org/web/20220928143009/https://worldle.teuteuf.fr/)  
+![](images/035.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Botswana map (Google)](https://www.google.com/maps?q=Botswana+BW&hl=en)  
+[Botswana map (amCharts)](https://www.amcharts.com/svg-maps/?map=botswana)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
