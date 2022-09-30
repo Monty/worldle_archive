@@ -1688,6 +1688,13 @@ Have fun playing!
 [Botswana map (Google)](https://www.google.com/maps?q=Botswana+BW&hl=en)  
 [Botswana map (amCharts)](https://www.amcharts.com/svg-maps/?map=botswana)</details>  
 
+[29 Sep 2022](https://web.archive.org/web/20220929213658/https://worldle.teuteuf.fr/)  
+![](images/098.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Haiti map (Google)](https://www.google.com/maps?q=Haiti+HT&hl=en)  
+[Haiti map (amCharts)](https://www.amcharts.com/svg-maps/?map=haiti)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
