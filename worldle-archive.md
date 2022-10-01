@@ -1695,6 +1695,13 @@ Have fun playing!
 [Haiti map (Google)](https://www.google.com/maps?q=Haiti+HT&hl=en)  
 [Haiti map (amCharts)](https://www.amcharts.com/svg-maps/?map=haiti)</details>  
 
+[30 Sep 2022](https://web.archive.org/web/20220930010345/https://worldle.teuteuf.fr/)  
+![](images/083.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Greenland map (Google)](https://www.google.com/maps?q=Greenland+GL&hl=en)  
+[Greenland map (amCharts)](https://www.amcharts.com/svg-maps/?map=greenland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
