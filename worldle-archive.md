@@ -1702,6 +1702,14 @@ Have fun playing!
 [Greenland map (Google)](https://www.google.com/maps?q=Greenland+GL&hl=en)  
 [Greenland map (amCharts)](https://www.amcharts.com/svg-maps/?map=greenland)</details>  
 
+## Oct 2022
+[01 Oct 2022](https://web.archive.org/web/20221001021832/https://worldle.teuteuf.fr/)  
+![](images/077.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Grenada map (Google)](https://www.google.com/maps?q=Grenada+GD&hl=en)  
+[Grenada map (amCharts)](https://www.amcharts.com/svg-maps/?map=grenada)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
