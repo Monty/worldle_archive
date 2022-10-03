@@ -1710,6 +1710,13 @@ Have fun playing!
 [Grenada map (Google)](https://www.google.com/maps?q=Grenada+GD&hl=en)  
 [Grenada map (amCharts)](https://www.amcharts.com/svg-maps/?map=grenada)</details>  
 
+[02 Oct 2022](https://web.archive.org/web/20221002164352/https://worldle.teuteuf.fr/)  
+![](images/227.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Uruguay map (Google)](https://www.google.com/maps?q=Uruguay+UY&hl=en)  
+[Uruguay map (amCharts)](https://www.amcharts.com/svg-maps/?map=uruguay)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
