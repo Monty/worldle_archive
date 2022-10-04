@@ -1717,6 +1717,13 @@ Have fun playing!
 [Uruguay map (Google)](https://www.google.com/maps?q=Uruguay+UY&hl=en)  
 [Uruguay map (amCharts)](https://www.amcharts.com/svg-maps/?map=uruguay)</details>  
 
+[03 Oct 2022](https://web.archive.org/web/20221003155509/https://worldle.teuteuf.fr/)  
+![](images/123.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Kazakhstan map (Google)](https://www.google.com/maps?q=Kazakhstan+KZ&hl=en)  
+[Kazakhstan map (amCharts)](https://www.amcharts.com/svg-maps/?map=kazakhstan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
