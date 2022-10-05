@@ -1724,6 +1724,13 @@ Have fun playing!
 [Kazakhstan map (Google)](https://www.google.com/maps?q=Kazakhstan+KZ&hl=en)  
 [Kazakhstan map (amCharts)](https://www.amcharts.com/svg-maps/?map=kazakhstan)</details>  
 
+[04 Oct 2022](https://web.archive.org/web/20221004034153/https://worldle.teuteuf.fr/)  
+![](images/020.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Belgium map (Google)](https://www.google.com/maps?q=Belgium&hl=en)  
+[Belgium map (amCharts)](https://www.amcharts.com/svg-maps/?map=belgium)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
