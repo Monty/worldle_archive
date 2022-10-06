@@ -1731,6 +1731,13 @@ Have fun playing!
 [Belgium map (Google)](https://www.google.com/maps?q=Belgium&hl=en)  
 [Belgium map (amCharts)](https://www.amcharts.com/svg-maps/?map=belgium)</details>  
 
+[05 Oct 2022](https://web.archive.org/web/20221005114148/https://worldle.teuteuf.fr/)  
+![](images/156.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Namibia map (Google)](https://www.google.com/maps?q=Namibia+NA&hl=en)  
+[Namibia map (amCharts)](https://www.amcharts.com/svg-maps/?map=namibia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
