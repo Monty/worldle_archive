@@ -1738,6 +1738,13 @@ Have fun playing!
 [Namibia map (Google)](https://www.google.com/maps?q=Namibia+NA&hl=en)  
 [Namibia map (amCharts)](https://www.amcharts.com/svg-maps/?map=namibia)</details>  
 
+[06 Oct 2022](https://web.archive.org/web/20221006054320/https://worldle.teuteuf.fr/)  
+![](images/050.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Costa Rica map (Google)](https://www.google.com/maps?q=Costa+Rica+CR&hl=en)  
+[Costa Rica map (amCharts)](https://www.amcharts.com/svg-maps/?map=costaRica)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
