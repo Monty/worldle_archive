@@ -1745,6 +1745,13 @@ Have fun playing!
 [Costa Rica map (Google)](https://www.google.com/maps?q=Costa+Rica+CR&hl=en)  
 [Costa Rica map (amCharts)](https://www.amcharts.com/svg-maps/?map=costaRica)</details>  
 
+[07 Oct 2022](https://web.archive.org/web/20221007063346/https://worldle.teuteuf.fr/)  
+![](images/188.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Saudi Arabia map (Google)](https://www.google.com/maps?q=Saudi+Arabia+SA&hl=en)  
+[Saudi Arabia map (amCharts)](https://www.amcharts.com/svg-maps/?map=saudiArabia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
