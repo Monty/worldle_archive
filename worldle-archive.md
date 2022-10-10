@@ -1752,6 +1752,13 @@ Have fun playing!
 [Saudi Arabia map (Google)](https://www.google.com/maps?q=Saudi+Arabia+SA&hl=en)  
 [Saudi Arabia map (amCharts)](https://www.amcharts.com/svg-maps/?map=saudiArabia)</details>  
 
+[09 Oct 2022](https://web.archive.org/web/20221009062316/https://worldle.teuteuf.fr/)  
+![](images/239.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mayotte map (Google)](https://www.google.com/maps?q=Mayotte+YT&hl=en)  
+[Mayotte map (amCharts)](https://www.amcharts.com/svg-maps/?map=mayotte)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
