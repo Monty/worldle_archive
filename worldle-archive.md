@@ -1759,6 +1759,13 @@ Have fun playing!
 [Mayotte map (Google)](https://www.google.com/maps?q=Mayotte+YT&hl=en)  
 [Mayotte map (amCharts)](https://www.amcharts.com/svg-maps/?map=mayotte)</details>  
 
+[10 Oct 2022](https://web.archive.org/web/20221010155949/https://worldle.teuteuf.fr/)  
+![](images/160.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Nigeria map (Google)](https://www.google.com/maps?q=Nigeria+NG&hl=en)  
+[Nigeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=nigeria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
