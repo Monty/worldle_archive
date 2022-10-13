@@ -1773,6 +1773,13 @@ Have fun playing!
 [Burkina Faso map (Google)](https://www.google.com/maps?q=Burkina+Faso+BF&hl=en)  
 [Burkina Faso map (amCharts)](https://www.amcharts.com/svg-maps/?map=burkinaFaso)</details>  
 
+[12 Oct 2022](https://web.archive.org/web/20221012060213/https://worldle.teuteuf.fr/)  
+![](images/115.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Cambodia map (Google)](https://www.google.com/maps?q=Cambodia+KH&hl=en)  
+[Cambodia map (amCharts)](https://www.amcharts.com/svg-maps/?map=cambodia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
