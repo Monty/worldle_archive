@@ -1780,6 +1780,13 @@ Have fun playing!
 [Cambodia map (Google)](https://www.google.com/maps?q=Cambodia+KH&hl=en)  
 [Cambodia map (amCharts)](https://www.amcharts.com/svg-maps/?map=cambodia)</details>  
 
+[13 Oct 2022](https://web.archive.org/web/20221013043052/https://worldle.teuteuf.fr/)  
+![](images/202.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Suriname map (Google)](https://www.google.com/maps?q=Suriname+SR&hl=en)  
+[Suriname map (amCharts)](https://www.amcharts.com/svg-maps/?map=suriname)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
