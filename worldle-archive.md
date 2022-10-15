@@ -1787,6 +1787,13 @@ Have fun playing!
 [Suriname map (Google)](https://www.google.com/maps?q=Suriname+SR&hl=en)  
 [Suriname map (amCharts)](https://www.amcharts.com/svg-maps/?map=suriname)</details>  
 
+[14 Oct 2022](https://web.archive.org/web/20221014010958/https://worldle.teuteuf.fr/)  
+![](images/067.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Eritrea map (Google)](https://www.google.com/maps?q=Eritrea+ER&hl=en)  
+[Eritrea map (amCharts)](https://www.amcharts.com/svg-maps/?map=eritrea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
