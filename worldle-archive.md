@@ -1794,6 +1794,13 @@ Have fun playing!
 [Eritrea map (Google)](https://www.google.com/maps?q=Eritrea+ER&hl=en)  
 [Eritrea map (amCharts)](https://www.amcharts.com/svg-maps/?map=eritrea)</details>  
 
+[15 Oct 2022](https://web.archive.org/web/20221015063404/https://worldle.teuteuf.fr/)  
+![](images/163.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Norway map (Google)](https://www.google.com/maps?q=Norway+NO&hl=en)  
+[Norway map (amCharts)](https://www.amcharts.com/svg-maps/?map=norway)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
