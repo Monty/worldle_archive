@@ -1801,6 +1801,13 @@ Have fun playing!
 [Norway map (Google)](https://www.google.com/maps?q=Norway+NO&hl=en)  
 [Norway map (amCharts)](https://www.amcharts.com/svg-maps/?map=norway)</details>  
 
+[16 Oct 2022](https://web.archive.org/web/20221016054758/https://worldle.teuteuf.fr/)  
+![](images/024.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Burundi map (Google)](https://www.google.com/maps?q=Burundi+BI&hl=en)  
+[Burundi map (amCharts)](https://www.amcharts.com/svg-maps/?map=burundi)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
