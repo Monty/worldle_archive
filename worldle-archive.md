@@ -1808,6 +1808,13 @@ Have fun playing!
 [Burundi map (Google)](https://www.google.com/maps?q=Burundi+BI&hl=en)  
 [Burundi map (amCharts)](https://www.amcharts.com/svg-maps/?map=burundi)</details>  
 
+[17 Oct 2022](https://web.archive.org/web/20221017061340/https://worldle.teuteuf.fr/)  
+![](images/107.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Iran map (Google)](https://www.google.com/maps?q=Iran+IR&hl=en)  
+[Iran map (amCharts)](https://www.amcharts.com/svg-maps/?map=iran)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
