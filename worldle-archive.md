@@ -1815,6 +1815,13 @@ Have fun playing!
 [Iran map (Google)](https://www.google.com/maps?q=Iran+IR&hl=en)  
 [Iran map (amCharts)](https://www.amcharts.com/svg-maps/?map=iran)</details>  
 
+[18 Oct 2022](https://web.archive.org/web/20221018154953/https://worldle.teuteuf.fr/)  
+![](images/209.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Turks and Caicos Islands map (Google)](https://www.google.com/maps?q=Turks+and+Caicos+Islands+TC&hl=en)  
+[Turks and Caicos Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=turksCaicosIslands)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
