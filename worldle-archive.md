@@ -1815,12 +1815,20 @@ Have fun playing!
 [Iran map (Google)](https://www.google.com/maps?q=Iran+IR&hl=en)  
 [Iran map (amCharts)](https://www.amcharts.com/svg-maps/?map=iran)</details>  
 
+The Wayback Machine has quit showing the image of the country to guess, so you'll have to guess using the icon.  
 [18 Oct 2022](https://web.archive.org/web/20221018154953/https://worldle.teuteuf.fr/)  
 ![](images/209.svg)  
 <details><summary><b>Show answer</b></summary>
 
 [Turks and Caicos Islands map (Google)](https://www.google.com/maps?q=Turks+and+Caicos+Islands+TC&hl=en)  
 [Turks and Caicos Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=turksCaicosIslands)</details>  
+
+[19 Oct 2022](https://web.archive.org/web/20221019061621/https://worldle.teuteuf.fr/)  
+![](images/068.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Spain map (Google)](https://www.google.com/maps?q=Spain+ES&hl=en)  
+[Spain map (amCharts)](https://www.amcharts.com/svg-maps/?map=spain)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
