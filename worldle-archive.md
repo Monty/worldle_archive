@@ -1838,6 +1838,13 @@ Missing Wayback Machine image, guess using the icon below
 [Guinea-Bissau map (Google)](https://www.google.com/maps?q=Guinea-Bissau+GW&hl=en)  
 [Guinea-Bissau map (amCharts)](https://www.amcharts.com/svg-maps/?map=guineaBissau)</details>  
 
+[21 Oct 2022](https://web.archive.org/web/20221021061053/https://worldle.teuteuf.fr/)  
+![](images/234.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Vietnam map (Google)](https://www.google.com/maps?q=Vietnam+VN&hl=en)  
+[Vietnam map (amCharts)](https://www.amcharts.com/svg-maps/?map=vietnam)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
