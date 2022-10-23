@@ -1845,6 +1845,13 @@ Missing Wayback Machine image, guess using the icon below
 [Vietnam map (Google)](https://www.google.com/maps?q=Vietnam+VN&hl=en)  
 [Vietnam map (amCharts)](https://www.amcharts.com/svg-maps/?map=vietnam)</details>  
 
+[22 Oct 2022](https://web.archive.org/web/20221022063046/https://worldle.teuteuf.fr/)  
+![](images/200.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Senegal map (Google)](https://www.google.com/maps?q=Senegal+SN&hl=en)  
+[Senegal map (amCharts)](https://www.amcharts.com/svg-maps/?map=senegal)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
