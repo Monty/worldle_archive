@@ -1852,6 +1852,13 @@ Missing Wayback Machine image, guess using the icon below
 [Senegal map (Google)](https://www.google.com/maps?q=Senegal+SN&hl=en)  
 [Senegal map (amCharts)](https://www.amcharts.com/svg-maps/?map=senegal)</details>  
 
+[23 Oct 2022](https://web.archive.org/web/20221023164234/https://worldle.teuteuf.fr/)  
+![](images/108.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Iceland map (Google)](https://www.google.com/maps?q=Iceland+IS&hl=en)  
+[Iceland map (amCharts)](https://www.amcharts.com/svg-maps/?map=iceland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
