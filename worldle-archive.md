@@ -1859,6 +1859,13 @@ Missing Wayback Machine image, guess using the icon below
 [Iceland map (Google)](https://www.google.com/maps?q=Iceland+IS&hl=en)  
 [Iceland map (amCharts)](https://www.amcharts.com/svg-maps/?map=iceland)</details>  
 
+[24 Oct 2022](https://web.archive.org/web/20221024190917/https://worldle.teuteuf.fr/)  
+![](images/076.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[United Kingdom map (Google)](https://www.google.com/maps?q=United+Kingdom+GB&hl=en)  
+[United Kingdom map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedKingdom)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
