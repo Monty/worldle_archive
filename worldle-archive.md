@@ -1866,6 +1866,13 @@ Missing Wayback Machine image, guess using the icon below
 [United Kingdom map (Google)](https://www.google.com/maps?q=United+Kingdom+GB&hl=en)  
 [United Kingdom map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedKingdom)</details>  
 
+[25 Oct 2022](https://web.archive.org/web/20221025062957/https://worldle.teuteuf.fr/)  
+![](images/220.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Turkey map (Google)](https://www.google.com/maps?q=Turkey+TR&hl=en)  
+[Turkey map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkey)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
