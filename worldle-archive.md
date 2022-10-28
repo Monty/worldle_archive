@@ -1880,6 +1880,13 @@ Missing Wayback Machine image, guess using the icon below
 [Sudan map (Google)](https://www.google.com/maps?q=Sudan+SD&hl=en)  
 [Sudan map (amCharts)](https://www.amcharts.com/svg-maps/?map=sudan)</details>  
 
+[27 Oct 2022](https://web.archive.org/web/20221027060829/https://worldle.teuteuf.fr/)  
+![](images/096.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Honduras map (Google)](https://www.google.com/maps?q=Honduras+HN&hl=en)  
+[Honduras map (amCharts)](https://www.amcharts.com/svg-maps/?map=honduras)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
