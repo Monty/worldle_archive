@@ -1887,6 +1887,13 @@ Missing Wayback Machine image, guess using the icon below
 [Honduras map (Google)](https://www.google.com/maps?q=Honduras+HN&hl=en)  
 [Honduras map (amCharts)](https://www.amcharts.com/svg-maps/?map=honduras)</details>  
 
+[28 Oct 2022](https://web.archive.org/web/20221028041459/https://worldle.teuteuf.fr/)  
+![](images/069.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ethiopia map (Google)](https://www.google.com/maps?q=Ethiopia+ET&hl=en)  
+[Ethiopia map (amCharts)](https://www.amcharts.com/svg-maps/?map=ethiopia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
