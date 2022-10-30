@@ -1894,6 +1894,13 @@ Missing Wayback Machine image, guess using the icon below
 [Ethiopia map (Google)](https://www.google.com/maps?q=Ethiopia+ET&hl=en)  
 [Ethiopia map (amCharts)](https://www.amcharts.com/svg-maps/?map=ethiopia)</details>  
 
+[29 Oct 2022](https://web.archive.org/web/20221029154144/https://worldle.teuteuf.fr/)  
+![](images/205.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[El Salvador map (Google)](https://www.google.com/maps?q=El+Salvador+SV&hl=en)  
+[El Salvador map (amCharts)](https://www.amcharts.com/svg-maps/?map=elSalvador)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
