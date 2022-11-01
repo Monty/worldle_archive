@@ -1908,6 +1908,13 @@ Missing Wayback Machine image, guess using the icon below
 [French Polynesia map (Google)](https://www.google.com/maps?q=French+Polynesia+PF&hl=en)  
 [French Polynesia map (amCharts)](https://www.amcharts.com/svg-maps/?map=frenchPolynesia)</details>  
 
+[31 Oct 2022](https://web.archive.org/web/20221031102016/https://worldle.teuteuf.fr/)  
+![](images/167.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[New Zealand map (Google)](https://www.google.com/maps?q=New+Zealand+NZ&hl=en)  
+[New Zealand map (amCharts)](https://www.amcharts.com/svg-maps/?map=newZealand)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
