@@ -1915,6 +1915,14 @@ Missing Wayback Machine image, guess using the icon below
 [New Zealand map (Google)](https://www.google.com/maps?q=New+Zealand+NZ&hl=en)  
 [New Zealand map (amCharts)](https://www.amcharts.com/svg-maps/?map=newZealand)</details>  
 
+## Nov 2022
+[01 Nov 2022](https://web.archive.org/web/20221101013655/https://worldle.teuteuf.fr/)  
+![](images/153.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mexico map (Google)](https://www.google.com/maps?q=Mexico+MX&hl=en)  
+[Mexico map (amCharts)](https://www.amcharts.com/svg-maps/?map=mexico)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
