@@ -1923,6 +1923,13 @@ Missing Wayback Machine image, guess using the icon below
 [Mexico map (Google)](https://www.google.com/maps?q=Mexico+MX&hl=en)  
 [Mexico map (amCharts)](https://www.amcharts.com/svg-maps/?map=mexico)</details>  
 
+[02 Nov 2022](https://web.archive.org/web/20221102061038/https://worldle.teuteuf.fr/)  
+![](images/138.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Montenegro map (Google)](https://www.google.com/maps?q=Montenegro+ME&hl=en)  
+[Montenegro map (amCharts)](https://www.amcharts.com/svg-maps/?map=montenegro)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
