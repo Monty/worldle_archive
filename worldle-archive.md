@@ -1937,6 +1937,13 @@ Missing Wayback Machine image, guess using the icon below
 [Tunisia map (Google)](https://www.google.com/maps?q=Tunisia+TN&hl=en)  
 [Tunisia map (amCharts)](https://www.amcharts.com/svg-maps/?map=tunisia)</details>  
 
+[04 Nov 2022](https://web.archive.org/web/20221104065254/https://worldle.teuteuf.fr/)  
+![](images/043.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Switzerland map (Google)](https://www.google.com/maps?q=Switzerland+CH&hl=en)  
+[Switzerland map (amCharts)](https://www.amcharts.com/svg-maps/?map=switzerland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
