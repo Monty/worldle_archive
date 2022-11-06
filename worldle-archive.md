@@ -1944,6 +1944,13 @@ Missing Wayback Machine image, guess using the icon below
 [Switzerland map (Google)](https://www.google.com/maps?q=Switzerland+CH&hl=en)  
 [Switzerland map (amCharts)](https://www.amcharts.com/svg-maps/?map=switzerland)</details>  
 
+[05 Nov 2022](https://web.archive.org/web/20221105024239/https://worldle.teuteuf.fr/)  
+![](images/041.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Central African Republic map (Google)](https://www.google.com/maps?q=Central+African+Republic+CF&hl=en)  
+[Central African Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=centralAfricanRepublic)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
