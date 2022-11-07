@@ -1951,6 +1951,13 @@ Missing Wayback Machine image, guess using the icon below
 [Central African Republic map (Google)](https://www.google.com/maps?q=Central+African+Republic+CF&hl=en)  
 [Central African Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=centralAfricanRepublic)</details>  
 
+[06 Nov 2022](https://web.archive.org/web/20221106051745/https://worldle.teuteuf.fr/)  
+![](images/111.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Jordan map (Google)](https://www.google.com/maps?q=Jordan+JO&hl=en)  
+[Jordan map (amCharts)](https://www.amcharts.com/svg-maps/?map=jordan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
