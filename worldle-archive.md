@@ -1958,6 +1958,13 @@ Missing Wayback Machine image, guess using the icon below
 [Jordan map (Google)](https://www.google.com/maps?q=Jordan+JO&hl=en)  
 [Jordan map (amCharts)](https://www.amcharts.com/svg-maps/?map=jordan)</details>  
 
+[07 Nov 2022](https://web.archive.org/web/20221107173658/https://worldle.teuteuf.fr/)  
+![](images/101.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ireland map (Google)](https://www.google.com/maps?q=Ireland+IE&hl=en)  
+[Ireland map (amCharts)](https://www.amcharts.com/svg-maps/?map=ireland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
