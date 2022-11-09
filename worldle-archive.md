@@ -1965,6 +1965,13 @@ Missing Wayback Machine image, guess using the icon below
 [Ireland map (Google)](https://www.google.com/maps?q=Ireland+IE&hl=en)  
 [Ireland map (amCharts)](https://www.amcharts.com/svg-maps/?map=ireland)</details>  
 
+[08 Nov 2022](https://web.archive.org/web/20221108035457/https://worldle.teuteuf.fr/)  
+![](images/182.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Qatar map (Google)](https://www.google.com/maps?q=Qatar+QA&hl=en)  
+[Qatar map (amCharts)](https://www.amcharts.com/svg-maps/?map=qatar)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
