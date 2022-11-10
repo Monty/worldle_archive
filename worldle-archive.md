@@ -1972,6 +1972,13 @@ Missing Wayback Machine image, guess using the icon below
 [Qatar map (Google)](https://www.google.com/maps?q=Qatar+QA&hl=en)  
 [Qatar map (amCharts)](https://www.amcharts.com/svg-maps/?map=qatar)</details>  
 
+[09 Nov 2022](https://web.archive.org/web/20221109055114/https://worldle.teuteuf.fr/)  
+![](images/183.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Réunion map (Google)](https://www.google.com/maps?q=Réunion+RE&hl=en)  
+[Réunion map (amCharts)](https://www.amcharts.com/svg-maps/?map=reunion)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
