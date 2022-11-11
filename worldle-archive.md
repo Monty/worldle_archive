@@ -1979,6 +1979,13 @@ Missing Wayback Machine image, guess using the icon below
 [Réunion map (Google)](https://www.google.com/maps?q=Réunion+RE&hl=en)  
 [Réunion map (amCharts)](https://www.amcharts.com/svg-maps/?map=reunion)</details>  
 
+[10 Nov 2022](https://web.archive.org/web/20221110073252/https://worldle.teuteuf.fr/)  
+![](images/184.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Romania map (Google)](https://www.google.com/maps?q=Romania+RO&hl=en)  
+[Romania map (amCharts)](https://www.amcharts.com/svg-maps/?map=romania)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
