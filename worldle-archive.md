@@ -1993,6 +1993,13 @@ Missing Wayback Machine image, guess using the icon below
 [Denmark map (Google)](https://www.google.com/maps?q=Denmark+DK&hl=en)  
 [Denmark map (amCharts)](https://www.amcharts.com/svg-maps/?map=denmark)</details>  
 
+[12 Nov 2022](https://web.archive.org/web/20221112054544/https://worldle.teuteuf.fr/)  
+![](images/154.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Malaysia map (Google)](https://www.google.com/maps?q=Malaysia+MY&hl=en)  
+[Malaysia map (amCharts)](https://www.amcharts.com/svg-maps/?map=malaysia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
