@@ -2000,6 +2000,13 @@ Missing Wayback Machine image, guess using the icon below
 [Malaysia map (Google)](https://www.google.com/maps?q=Malaysia+MY&hl=en)  
 [Malaysia map (amCharts)](https://www.amcharts.com/svg-maps/?map=malaysia)</details>  
 
+[13 Nov 2022](https://web.archive.org/web/20221113054327/https://worldle.teuteuf.fr/)  
+![](images/036.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Belarus map (Google)](https://www.google.com/maps?q=Belarus+BY&hl=en)  
+[Belarus map (amCharts)](https://www.amcharts.com/svg-maps/?map=belarus)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
