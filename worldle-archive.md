@@ -2007,6 +2007,13 @@ Missing Wayback Machine image, guess using the icon below
 [Belarus map (Google)](https://www.google.com/maps?q=Belarus+BY&hl=en)  
 [Belarus map (amCharts)](https://www.amcharts.com/svg-maps/?map=belarus)</details>  
 
+[14 Nov 2022](https://web.archive.org/web/20221114070657/https://worldle.teuteuf.fr/)  
+![](images/155.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mozambique map (Google)](https://www.google.com/maps?q=Mozambique+MZ&hl=en)  
+[Mozambique map (amCharts)](https://www.amcharts.com/svg-maps/?map=mozambique)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
