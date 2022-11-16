@@ -2014,6 +2014,13 @@ Missing Wayback Machine image, guess using the icon below
 [Mozambique map (Google)](https://www.google.com/maps?q=Mozambique+MZ&hl=en)  
 [Mozambique map (amCharts)](https://www.amcharts.com/svg-maps/?map=mozambique)</details>  
 
+[15 Nov 2022](https://web.archive.org/web/20221115025910/https://worldle.teuteuf.fr/)  
+![](images/022.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bulgaria map (Google)](https://www.google.com/maps?q=Bulgaria+BG&hl=en)  
+[Bulgaria map (amCharts)](https://www.amcharts.com/svg-maps/?map=bulgaria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
