@@ -2021,6 +2021,13 @@ Missing Wayback Machine image, guess using the icon below
 [Bulgaria map (Google)](https://www.google.com/maps?q=Bulgaria+BG&hl=en)  
 [Bulgaria map (amCharts)](https://www.amcharts.com/svg-maps/?map=bulgaria)</details>  
 
+[16 Nov 2022](https://web.archive.org/web/20221116062928/https://worldle.teuteuf.fr/)  
+![](images/119.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[North Korea map (Google)](https://www.google.com/maps?q=North+Korea+KP&hl=en)  
+[North Korea map (amCharts)](https://www.amcharts.com/svg-maps/?map=northKorea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
