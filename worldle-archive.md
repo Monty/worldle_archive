@@ -2028,6 +2028,13 @@ Missing Wayback Machine image, guess using the icon below
 [North Korea map (Google)](https://www.google.com/maps?q=North+Korea+KP&hl=en)  
 [North Korea map (amCharts)](https://www.amcharts.com/svg-maps/?map=northKorea)</details>  
 
+[17 Nov 2022](https://web.archive.org/web/20221117034434/https://worldle.teuteuf.fr/)  
+![](images/240.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[South Africa map (Google)](https://www.google.com/maps?q=South+Africa+ZA&hl=en)  
+[South Africa map (amCharts)](https://www.amcharts.com/svg-maps/?map=southAfrica)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
