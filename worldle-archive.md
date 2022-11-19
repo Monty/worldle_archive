@@ -2035,6 +2035,13 @@ Missing Wayback Machine image, guess using the icon below
 [South Africa map (Google)](https://www.google.com/maps?q=South+Africa+ZA&hl=en)  
 [South Africa map (amCharts)](https://www.amcharts.com/svg-maps/?map=southAfrica)</details>  
 
+[18 Nov 2022](https://web.archive.org/web/20221118055811/https://worldle.teuteuf.fr/)  
+![](images/125.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Lebanon map (Google)](https://www.google.com/maps?q=Lebanon+LB&hl=en)  
+[Lebanon map (amCharts)](https://www.amcharts.com/svg-maps/?map=lebanon)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
