@@ -2042,6 +2042,13 @@ Missing Wayback Machine image, guess using the icon below
 [Lebanon map (Google)](https://www.google.com/maps?q=Lebanon+LB&hl=en)  
 [Lebanon map (amCharts)](https://www.amcharts.com/svg-maps/?map=lebanon)</details>  
 
+[19 Nov 2022](https://web.archive.org/web/20221119102059/https://worldle.teuteuf.fr/)  
+![](images/225.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Uganda map (Google)](https://www.google.com/maps?q=Uganda+UG&hl=en)  
+[Uganda map (amCharts)](https://www.amcharts.com/svg-maps/?map=uganda)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
