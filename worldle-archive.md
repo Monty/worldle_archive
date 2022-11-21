@@ -2049,6 +2049,13 @@ Missing Wayback Machine image, guess using the icon below
 [Uganda map (Google)](https://www.google.com/maps?q=Uganda+UG&hl=en)  
 [Uganda map (amCharts)](https://www.amcharts.com/svg-maps/?map=uganda)</details>  
 
+[20 Nov 2022](https://web.archive.org/web/20221120074240/https://worldle.teuteuf.fr/)  
+![](images/185.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Serbia map (Google)](https://www.google.com/maps?q=Serbia+RS&hl=en)  
+[Serbia map (amCharts)](https://www.amcharts.com/svg-maps/?map=serbia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
