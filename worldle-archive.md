@@ -2056,6 +2056,13 @@ Missing Wayback Machine image, guess using the icon below
 [Serbia map (Google)](https://www.google.com/maps?q=Serbia+RS&hl=en)  
 [Serbia map (amCharts)](https://www.amcharts.com/svg-maps/?map=serbia)</details>  
 
+[21 Nov 2022](https://web.archive.org/web/20221121043127/https://worldle.teuteuf.fr/)  
+![](images/189.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Solomon Islands map (Google)](https://www.google.com/maps?q=Solomon+Islands+SB&hl=en)  
+[Solomon Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=solomonIslands)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
