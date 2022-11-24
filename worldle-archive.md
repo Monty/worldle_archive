@@ -2070,6 +2070,13 @@ Missing Wayback Machine image, guess using the icon below
 [Seychelles map (Google)](https://www.google.com/maps?q=Seychelles+SC&hl=en)  
 [Seychelles map (amCharts)](https://www.amcharts.com/svg-maps/?map=seychelles)</details>  
 
+[23 Nov 2022](https://web.archive.org/web/20221123033118/https://worldle.teuteuf.fr/)  
+![](images/174.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Pakistan map (Google)](https://www.google.com/maps?q=Pakistan+PK&hl=en)  
+[Pakistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=pakistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
