@@ -2077,6 +2077,13 @@ Missing Wayback Machine image, guess using the icon below
 [Pakistan map (Google)](https://www.google.com/maps?q=Pakistan+PK&hl=en)  
 [Pakistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=pakistan)</details>  
 
+[24 Nov 2022](https://web.archive.org/web/20221124071928/https://worldle.teuteuf.fr/)  
+![](images/029.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bolivia map (Google)](https://www.google.com/maps?q=Bolivia+BO&hl=en)  
+[Bolivia map (amCharts)](https://www.amcharts.com/svg-maps/?map=bolivia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
