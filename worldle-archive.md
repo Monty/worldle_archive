@@ -2098,6 +2098,13 @@ Missing Wayback Machine image, guess using the icon below
 [Brazil map (Google)](https://www.google.com/maps?q=Brazil+BR&hl=en)  
 [Brazil map (amCharts)](https://www.amcharts.com/svg-maps/?map=brazil)</details>  
 
+[27 Nov 2022](https://web.archive.org/web/20221127142509/https://worldle.teuteuf.fr/)  
+![](images/013.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Australia map (Google)](https://www.google.com/maps?q=Australia+AU&hl=en)  
+[Australia map (amCharts)](https://www.amcharts.com/svg-maps/?map=australia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
