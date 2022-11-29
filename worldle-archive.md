@@ -2105,6 +2105,13 @@ Missing Wayback Machine image, guess using the icon below
 [Australia map (Google)](https://www.google.com/maps?q=Australia+AU&hl=en)  
 [Australia map (amCharts)](https://www.amcharts.com/svg-maps/?map=australia)</details>  
 
+[28 Nov 2022](https://web.archive.org/web/20221128232707/https://worldle.teuteuf.fr/)  
+![](images/012.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Austria map (Google)](https://www.google.com/maps?q=Austria&hl=en)  
+[Austria map (amCharts)](https://www.amcharts.com/svg-maps/?map=austria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
