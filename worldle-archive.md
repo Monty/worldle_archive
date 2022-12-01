@@ -2119,6 +2119,13 @@ Missing Wayback Machine image, guess using the icon below
 [Argentina map (Google)](https://www.google.com/maps?q=Argentina+AR&hl=en)  
 [Argentina map (amCharts)](https://www.amcharts.com/svg-maps/?map=argentina)</details>  
 
+[30 Nov 2022](https://web.archive.org/web/20221130064735/https://worldle.teuteuf.fr/)  
+![](images/215.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Tokelau map (Google)](https://www.google.com/maps?q=Tokelau+TK&hl=en)  
+[Tokelau map (amCharts)](https://www.amcharts.com/svg-maps/?map=tokelau)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
