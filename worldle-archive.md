@@ -2126,6 +2126,14 @@ Missing Wayback Machine image, guess using the icon below
 [Tokelau map (Google)](https://www.google.com/maps?q=Tokelau+TK&hl=en)  
 [Tokelau map (amCharts)](https://www.amcharts.com/svg-maps/?map=tokelau)</details>  
 
+## Dec 2022
+[01 Dec 2022](https://web.archive.org/web/20221201061507/https://worldle.teuteuf.fr/)  
+![](images/120.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[South Korea map (Google)](https://www.google.com/maps?q=South+Korea+KR&hl=en)  
+[South Korea map (amCharts)](https://www.amcharts.com/svg-maps/?map=southKorea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
