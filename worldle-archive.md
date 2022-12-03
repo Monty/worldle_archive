@@ -2134,6 +2134,13 @@ Missing Wayback Machine image, guess using the icon below
 [South Korea map (Google)](https://www.google.com/maps?q=South+Korea+KR&hl=en)  
 [South Korea map (amCharts)](https://www.amcharts.com/svg-maps/?map=southKorea)</details>  
 
+[02 Dec 2022](https://web.archive.org/web/20221202073359/https://worldle.teuteuf.fr/)  
+![](images/241.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Zambia map (Google)](https://www.google.com/maps?q=Zambia+ZM&hl=en)  
+[Zambia map (amCharts)](https://www.amcharts.com/svg-maps/?map=zambia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
