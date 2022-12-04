@@ -2141,6 +2141,13 @@ Missing Wayback Machine image, guess using the icon below
 [Zambia map (Google)](https://www.google.com/maps?q=Zambia+ZM&hl=en)  
 [Zambia map (amCharts)](https://www.amcharts.com/svg-maps/?map=zambia)</details>  
 
+[03 Dec 2022](https://web.archive.org/web/20221203065941/https://worldle.teuteuf.fr/)  
+![](images/109.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Italy map (Google)](https://www.google.com/maps?q=Italy+IT&hl=en)  
+[Italy map (amCharts)](https://www.amcharts.com/svg-maps/?map=italy)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
