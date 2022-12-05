@@ -2148,6 +2148,13 @@ Missing Wayback Machine image, guess using the icon below
 [Italy map (Google)](https://www.google.com/maps?q=Italy+IT&hl=en)  
 [Italy map (amCharts)](https://www.amcharts.com/svg-maps/?map=italy)</details>  
 
+[04 Dec 2022](https://web.archive.org/web/20221204071446/https://worldle.teuteuf.fr/)  
+![](images/161.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Nicaragua map (Google)](https://www.google.com/maps?q=Nicaragua+NI&hl=en)  
+[Nicaragua map (amCharts)](https://www.amcharts.com/svg-maps/?map=nicaragua)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
