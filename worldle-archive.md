@@ -2155,12 +2155,20 @@ Missing Wayback Machine image, guess using the icon below
 [Nicaragua map (Google)](https://www.google.com/maps?q=Nicaragua+NI&hl=en)  
 [Nicaragua map (amCharts)](https://www.amcharts.com/svg-maps/?map=nicaragua)</details>  
 
+Missing Wayback Machine image, guess using the icon below  
 [05 Dec 2022](https://web.archive.org/web/20221205171110/https://worldle.teuteuf.fr/)  
 ![](images/037.svg)  
 <details><summary><b>Show answer</b></summary>
 
 [Belize map (Google)](https://www.google.com/maps?q=Belize&hl=en)  
 [Belize map (amCharts)](https://www.amcharts.com/svg-maps/?map=belize)</details>  
+
+[06 Dec 2022](https://web.archive.org/web/20221206081959/https://worldle.teuteuf.fr/)  
+![](images/078.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Georgia map (Google)](https://www.google.com/maps?q=Georgia+GE&hl=en)  
+[Georgia map (amCharts)](https://www.amcharts.com/svg-maps/?map=georgia)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
