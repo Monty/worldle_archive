@@ -2170,6 +2170,13 @@ Missing Wayback Machine image, guess using the icon below
 [Georgia map (Google)](https://www.google.com/maps?q=Georgia+GE&hl=en)  
 [Georgia map (amCharts)](https://www.amcharts.com/svg-maps/?map=georgia)</details>  
 
+[07 Dec 2022](https://web.archive.org/web/20221207060112/https://worldle.teuteuf.fr/)  
+![](images/242.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Zimbabwe map (Google)](https://www.google.com/maps?q=Zimbabwe+ZW&hl=en)  
+[Zimbabwe map (amCharts)](https://www.amcharts.com/svg-maps/?map=zimbabwe)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
