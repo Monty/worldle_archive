@@ -2177,6 +2177,13 @@ Missing Wayback Machine image, guess using the icon below
 [Zimbabwe map (Google)](https://www.google.com/maps?q=Zimbabwe+ZW&hl=en)  
 [Zimbabwe map (amCharts)](https://www.amcharts.com/svg-maps/?map=zimbabwe)</details>  
 
+[08 Dec 2022](https://web.archive.org/web/20221208064901/https://worldle.teuteuf.fr/)  
+![](images/039.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Cocos Islands map (Google)](https://www.google.com/maps?q=Cocos+Islands+CC&hl=en)  
+[Cocos Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=cocosIslands)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
