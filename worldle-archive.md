@@ -2184,6 +2184,13 @@ Missing Wayback Machine image, guess using the icon below
 [Cocos Islands map (Google)](https://www.google.com/maps?q=Cocos+Islands+CC&hl=en)  
 [Cocos Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=cocosIslands)</details>  
 
+[09 Dec 2022](https://web.archive.org/web/20221209070553/https://worldle.teuteuf.fr/)  
+![](images/158.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Niger map (Google)](https://www.google.com/maps?q=Niger+NE&hl=en)  
+[Niger map (amCharts)](https://www.amcharts.com/svg-maps/?map=niger)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
