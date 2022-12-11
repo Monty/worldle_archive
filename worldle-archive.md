@@ -2191,6 +2191,14 @@ Missing Wayback Machine image, guess using the icon below
 [Niger map (Google)](https://www.google.com/maps?q=Niger+NE&hl=en)  
 [Niger map (amCharts)](https://www.amcharts.com/svg-maps/?map=niger)</details>  
 
+Missing Wayback Machine image, guess using the icon below  
+[10 Dec 2022](https://web.archive.org/web/20221210173243/https://worldle.teuteuf.fr/)  
+![](images/038.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Canada map (Google)](https://www.google.com/maps?q=Canada+CA&hl=en)  
+[Canada map (amCharts)](https://www.amcharts.com/svg-maps/?map=canada)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
