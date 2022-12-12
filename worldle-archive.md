@@ -2199,6 +2199,13 @@ Missing Wayback Machine image, guess using the icon below
 [Canada map (Google)](https://www.google.com/maps?q=Canada+CA&hl=en)  
 [Canada map (amCharts)](https://www.amcharts.com/svg-maps/?map=canada)</details>  
 
+[11 Dec 2022](https://web.archive.org/web/20221211175828/https://worldle.teuteuf.fr/)  
+![](images/213.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Thailand map (Google)](https://www.google.com/maps?q=Thailand+TH&hl=en)  
+[Thailand map (amCharts)](https://www.amcharts.com/svg-maps/?map=thailand)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
