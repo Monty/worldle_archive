@@ -2206,6 +2206,13 @@ Missing Wayback Machine image, guess using the icon below
 [Thailand map (Google)](https://www.google.com/maps?q=Thailand+TH&hl=en)  
 [Thailand map (amCharts)](https://www.amcharts.com/svg-maps/?map=thailand)</details>  
 
+[12 Dec 2022](https://web.archive.org/web/20221212070355/https://worldle.teuteuf.fr/)  
+![](images/090.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Guatemala map (Google)](https://www.google.com/maps?q=Guatemala+GT&hl=en)  
+[Guatemala map (amCharts)](https://www.amcharts.com/svg-maps/?map=guatemala)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
