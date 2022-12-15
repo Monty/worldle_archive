@@ -2213,6 +2213,13 @@ Missing Wayback Machine image, guess using the icon below
 [Guatemala map (Google)](https://www.google.com/maps?q=Guatemala+GT&hl=en)  
 [Guatemala map (amCharts)](https://www.amcharts.com/svg-maps/?map=guatemala)</details>  
 
+[13 Dec 2022](https://web.archive.org/web/20221213074707/https://worldle.teuteuf.fr/)  
+![](images/002.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates+AE&hl=en)  
+[United Arab Emirates map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedArabEmirates)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
