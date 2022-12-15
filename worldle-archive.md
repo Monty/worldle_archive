@@ -2220,6 +2220,13 @@ Missing Wayback Machine image, guess using the icon below
 [United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates+AE&hl=en)  
 [United Arab Emirates map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedArabEmirates)</details>  
 
+[14 Dec 2022](https://web.archive.org/web/20221214163842/https://worldle.teuteuf.fr/)  
+![](images/186.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Russia map (Google)](https://www.google.com/maps?q=Russia+RU&hl=en)  
+[Russia map (amCharts)](https://www.amcharts.com/svg-maps/?map=russia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
