@@ -2227,6 +2227,13 @@ Missing Wayback Machine image, guess using the icon below
 [Russia map (Google)](https://www.google.com/maps?q=Russia+RU&hl=en)  
 [Russia map (amCharts)](https://www.amcharts.com/svg-maps/?map=russia)</details>  
 
+[15 Dec 2022](https://web.archive.org/web/20221215115103/https://worldle.teuteuf.fr/)  
+![](images/085.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Guinea map (Google)](https://www.google.com/maps?q=Guinea+GN&hl=en)  
+[Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=guinea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
