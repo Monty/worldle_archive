@@ -2241,6 +2241,14 @@ Missing Wayback Machine image, guess using the icon below
 [Uzbekistan map (Google)](https://www.google.com/maps?q=Uzbekistan+UZ&hl=en)  
 [Uzbekistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=uzbekistan)</details>  
 
+Missing Wayback Machine image, guess using the icon below  
+[17 Dec 2022](https://web.archive.org/web/20221217103607/https://worldle.teuteuf.fr/)  
+![](images/116.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Kiribati map (Google)](https://www.google.com/maps?q=Kiribati+KI&hl=en)  
+[Kiribati map (amCharts)](https://www.amcharts.com/svg-maps/?map=kiribati)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
