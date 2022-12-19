@@ -2249,6 +2249,13 @@ Missing Wayback Machine image, guess using the icon below
 [Kiribati map (Google)](https://www.google.com/maps?q=Kiribati+KI&hl=en)  
 [Kiribati map (amCharts)](https://www.amcharts.com/svg-maps/?map=kiribati)</details>  
 
+[18 Dec 2022](https://web.archive.org/web/20221218104844/https://worldle.teuteuf.fr/)  
+![](images/192.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Sweden map (Google)](https://www.google.com/maps?q=Sweden+SE&hl=en)  
+[Sweden map (amCharts)](https://www.amcharts.com/svg-maps/?map=sweden)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
