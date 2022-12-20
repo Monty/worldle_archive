@@ -2256,6 +2256,13 @@ Missing Wayback Machine image, guess using the icon below
 [Sweden map (Google)](https://www.google.com/maps?q=Sweden+SE&hl=en)  
 [Sweden map (amCharts)](https://www.amcharts.com/svg-maps/?map=sweden)</details>  
 
+[19 Dec 2022](https://web.archive.org/web/20221219072032/https://worldle.teuteuf.fr/)  
+![](images/093.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Guyana map (Google)](https://www.google.com/maps?q=Guyana+GY&hl=en)  
+[Guyana map (amCharts)](https://www.amcharts.com/svg-maps/?map=guyana)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
