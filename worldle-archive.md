@@ -2263,6 +2263,13 @@ Missing Wayback Machine image, guess using the icon below
 [Guyana map (Google)](https://www.google.com/maps?q=Guyana+GY&hl=en)  
 [Guyana map (amCharts)](https://www.amcharts.com/svg-maps/?map=guyana)</details>  
 
+[20 Dec 2022](https://web.archive.org/web/20221220233604/https://worldle.teuteuf.fr/)  
+![](images/214.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Tajikistan map (Google)](https://www.google.com/maps?q=Tajikistan+TJ&hl=en)  
+[Tajikistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=tajikistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
