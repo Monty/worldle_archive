@@ -2270,6 +2270,13 @@ Missing Wayback Machine image, guess using the icon below
 [Tajikistan map (Google)](https://www.google.com/maps?q=Tajikistan+TJ&hl=en)  
 [Tajikistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=tajikistan)</details>  
 
+[21 Dec 2022](https://web.archive.org/web/20221221073252/https://worldle.teuteuf.fr/)  
+![](images/198.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Sierra Leone map (Google)](https://www.google.com/maps?q=Sierra+Leone+SL&hl=en)  
+[Sierra Leone map (amCharts)](https://www.amcharts.com/svg-maps/?map=sierraLeone)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
