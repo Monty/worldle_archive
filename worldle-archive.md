@@ -2277,6 +2277,13 @@ Missing Wayback Machine image, guess using the icon below
 [Sierra Leone map (Google)](https://www.google.com/maps?q=Sierra+Leone+SL&hl=en)  
 [Sierra Leone map (amCharts)](https://www.amcharts.com/svg-maps/?map=sierraLeone)</details>  
 
+[22 Dec 2022](https://web.archive.org/web/20221222170815/https://worldle.teuteuf.fr/)  
+![](images/195.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Slovenia map (Google)](https://www.google.com/maps?q=Slovenia+SI&hl=en)  
+[Slovenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=slovenia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
