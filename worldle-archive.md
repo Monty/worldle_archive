@@ -2284,6 +2284,13 @@ Missing Wayback Machine image, guess using the icon below
 [Slovenia map (Google)](https://www.google.com/maps?q=Slovenia+SI&hl=en)  
 [Slovenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=slovenia)</details>  
 
+[23 Dec 2022](https://web.archive.org/web/20221223045311/https://worldle.teuteuf.fr/)  
+![](images/187.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Rwanda map (Google)](https://www.google.com/maps?q=Rwanda+RW&hl=en)  
+[Rwanda map (amCharts)](https://www.amcharts.com/svg-maps/?map=rwanda)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
