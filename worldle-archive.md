@@ -2291,6 +2291,13 @@ Missing Wayback Machine image, guess using the icon below
 [Rwanda map (Google)](https://www.google.com/maps?q=Rwanda+RW&hl=en)  
 [Rwanda map (amCharts)](https://www.amcharts.com/svg-maps/?map=rwanda)</details>  
 
+[24 Dec 2022](https://web.archive.org/web/20221224070430/https://worldle.teuteuf.fr/)  
+![](images/169.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Panama map (Google)](https://www.google.com/maps?q=Panama+PA&hl=en)  
+[Panama map (amCharts)](https://www.amcharts.com/svg-maps/?map=panama)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
