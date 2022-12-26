@@ -2298,6 +2298,13 @@ Missing Wayback Machine image, guess using the icon below
 [Panama map (Google)](https://www.google.com/maps?q=Panama+PA&hl=en)  
 [Panama map (amCharts)](https://www.amcharts.com/svg-maps/?map=panama)</details>  
 
+[25 Dec 2022](https://web.archive.org/web/20221225071609/https://worldle.teuteuf.fr/)  
+![](images/162.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Netherlands map (Google)](https://www.google.com/maps?q=Netherlands+NL&hl=en)  
+[Netherlands map (amCharts)](https://www.amcharts.com/svg-maps/?map=netherlands)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
