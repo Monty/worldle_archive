@@ -2305,6 +2305,13 @@ Missing Wayback Machine image, guess using the icon below
 [Netherlands map (Google)](https://www.google.com/maps?q=Netherlands+NL&hl=en)  
 [Netherlands map (amCharts)](https://www.amcharts.com/svg-maps/?map=netherlands)</details>  
 
+[26 Dec 2022](https://web.archive.org/web/20221226080331/https://worldle.teuteuf.fr/)  
+![](images/042.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Congo map (Google)](https://www.google.com/maps?q=Congo+CG&hl=en)  
+[Congo map (amCharts)](https://www.amcharts.com/svg-maps/?map=congo)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
