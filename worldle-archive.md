@@ -2319,6 +2319,13 @@ Missing Wayback Machine image, guess using the icon below
 [Bahrain map (Google)](https://www.google.com/maps?q=Bahrain+BH&hl=en)  
 [Bahrain map (amCharts)](https://www.amcharts.com/svg-maps/?map=bahrain)</details>  
 
+[28 Dec 2022](https://web.archive.org/web/20221228072632/https://worldle.teuteuf.fr/)  
+![](images/025.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Benin map (Google)](https://www.google.com/maps?q=Benin+BJ&hl=en)  
+[Benin map (amCharts)](https://www.amcharts.com/svg-maps/?map=benin)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
