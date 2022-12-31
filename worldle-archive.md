@@ -2333,6 +2333,13 @@ Missing Wayback Machine image, guess using the icon below
 [Afghanistan map (Google)](https://www.google.com/maps?q=Afghanistan+AF&hl=en)  
 [Afghanistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=afghanistan)</details>  
 
+[30 Dec 2022](https://web.archive.org/web/20221230181548/https://worldle.teuteuf.fr/)  
+![](images/008.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Angola map (Google)](https://www.google.com/maps?q=Angola+AO&hl=en)  
+[Angola map (amCharts)](https://www.amcharts.com/svg-maps/?map=angola)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
