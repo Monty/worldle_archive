@@ -2340,6 +2340,13 @@ Missing Wayback Machine image, guess using the icon below
 [Angola map (Google)](https://www.google.com/maps?q=Angola+AO&hl=en)  
 [Angola map (amCharts)](https://www.amcharts.com/svg-maps/?map=angola)</details>  
 
+[31 Dec 2022](https://web.archive.org/web/20221231080035/https://worldle.teuteuf.fr/)  
+![](images/088.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Greece map (Google)](https://www.google.com/maps?q=Greece+GR&hl=en)  
+[Greece map (amCharts)](https://www.amcharts.com/svg-maps/?map=greece)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
