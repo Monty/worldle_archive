@@ -2347,6 +2347,13 @@ Missing Wayback Machine image, guess using the icon below
 [Greece map (Google)](https://www.google.com/maps?q=Greece+GR&hl=en)  
 [Greece map (amCharts)](https://www.amcharts.com/svg-maps/?map=greece)</details>  
 
+[01 Jan 2023](https://web.archive.org/web/20230101205937/https://worldle.teuteuf.fr/)  
+![](images/113.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Kenya map (Google)](https://www.google.com/maps?q=Kenya+KE&hl=en)  
+[Kenya map (amCharts)](https://www.amcharts.com/svg-maps/?map=kenya)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
