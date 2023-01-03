@@ -2354,6 +2354,13 @@ Missing Wayback Machine image, guess using the icon below
 [Kenya map (Google)](https://www.google.com/maps?q=Kenya+KE&hl=en)  
 [Kenya map (amCharts)](https://www.amcharts.com/svg-maps/?map=kenya)</details>  
 
+[02 Jan 2023](https://web.archive.org/web/20230102184758/https://worldle.teuteuf.fr/)  
+![](images/217.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Turkmenistan map (Google)](https://www.google.com/maps?q=Turkmenistan+TM&hl=en)  
+[Turkmenistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkmenistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
