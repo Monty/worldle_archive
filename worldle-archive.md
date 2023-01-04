@@ -2361,6 +2361,13 @@ Missing Wayback Machine image, guess using the icon below
 [Turkmenistan map (Google)](https://www.google.com/maps?q=Turkmenistan+TM&hl=en)  
 [Turkmenistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkmenistan)</details>  
 
+[03 Jan 2023](https://web.archive.org/web/20230103065110/https://worldle.teuteuf.fr/)  
+![](images/087.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Equatorial Guinea map (Google)](https://www.google.com/maps?q=Equatorial+Guinea+GQ&hl=en)  
+[Equatorial Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=equatorialGuinea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
