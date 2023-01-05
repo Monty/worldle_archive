@@ -2347,6 +2347,7 @@ Missing Wayback Machine image, guess using the icon below
 [Greece map (Google)](https://www.google.com/maps?q=Greece+GR&hl=en)  
 [Greece map (amCharts)](https://www.amcharts.com/svg-maps/?map=greece)</details>  
 
+## Jan 2023
 [01 Jan 2023](https://web.archive.org/web/20230101205937/https://worldle.teuteuf.fr/)  
 ![](images/113.svg)  
 <details><summary><b>Show answer</b></summary>
@@ -2367,6 +2368,13 @@ Missing Wayback Machine image, guess using the icon below
 
 [Equatorial Guinea map (Google)](https://www.google.com/maps?q=Equatorial+Guinea+GQ&hl=en)  
 [Equatorial Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=equatorialGuinea)</details>  
+
+[04 Jan 2023](https://web.archive.org/web/20230104180512/https://worldle.teuteuf.fr/)  
+![](images/197.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Slovakia map (Google)](https://www.google.com/maps?q=Slovakia+SK&hl=en)  
+[Slovakia map (amCharts)](https://www.amcharts.com/svg-maps/?map=slovakia)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
