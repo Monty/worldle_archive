@@ -2376,6 +2376,12 @@ Missing Wayback Machine image, guess using the icon below
 [Slovakia map (Google)](https://www.google.com/maps?q=Slovakia+SK&hl=en)  
 [Slovakia map (amCharts)](https://www.amcharts.com/svg-maps/?map=slovakia)</details>  
 
+[05 Jan 2023](https://web.archive.org/web/20230105070932/https://worldle.teuteuf.fr/)  
+![](images/089.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[South Georgia and the South Sandwich Islands map (Google)](https://www.google.com/maps?q=South+Georgia+and+the+South+Sandwich+Islands+GS&hl=en)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
