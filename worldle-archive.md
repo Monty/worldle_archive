@@ -2382,6 +2382,13 @@ Missing Wayback Machine image, guess using the icon below
 
 [South Georgia and the South Sandwich Islands map (Google)](https://www.google.com/maps?q=South+Georgia+and+the+South+Sandwich+Islands+GS&hl=en)</details>  
 
+[06 Jan 2023](https://web.archive.org/web/20230106062917/https://worldle.teuteuf.fr/)  
+![](images/203.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[South Sudan map (Google)](https://www.google.com/maps?q=South+Sudan+SS&hl=en)  
+[South Sudan map (amCharts)](https://www.amcharts.com/svg-maps/?map=southSudan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
