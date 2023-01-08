@@ -2389,6 +2389,13 @@ Missing Wayback Machine image, guess using the icon below
 [South Sudan map (Google)](https://www.google.com/maps?q=South+Sudan+SS&hl=en)  
 [South Sudan map (amCharts)](https://www.amcharts.com/svg-maps/?map=southSudan)</details>  
 
+[07 Jan 2023](https://web.archive.org/web/20230107075027/https://worldle.teuteuf.fr/)  
+![](images/070.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Finland map (Google)](https://www.google.com/maps?q=Finland+FI&hl=en)  
+[Finland map (amCharts)](https://www.amcharts.com/svg-maps/?map=finland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
