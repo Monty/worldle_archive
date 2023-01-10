@@ -2396,6 +2396,13 @@ Missing Wayback Machine image, guess using the icon below
 [Finland map (Google)](https://www.google.com/maps?q=Finland+FI&hl=en)  
 [Finland map (amCharts)](https://www.amcharts.com/svg-maps/?map=finland)</details>  
 
+[08 Jan 2023](https://web.archive.org/web/20230108065205/https://worldle.teuteuf.fr/)  
+![](images/201.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Somalia map (Google)](https://www.google.com/maps?q=Somalia+SO&hl=en)  
+[Somalia map (amCharts)](https://www.amcharts.com/svg-maps/?map=somalia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
