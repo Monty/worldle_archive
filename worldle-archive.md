@@ -2403,6 +2403,13 @@ Missing Wayback Machine image, guess using the icon below
 [Somalia map (Google)](https://www.google.com/maps?q=Somalia+SO&hl=en)  
 [Somalia map (amCharts)](https://www.amcharts.com/svg-maps/?map=somalia)</details>  
 
+[09 Jan 2023](https://web.archive.org/web/20230109235920/https://worldle.teuteuf.fr/)  
+![](images/055.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Cyprus map (Google)](https://www.google.com/maps?q=Cyprus+CY&hl=en)  
+[Cyprus map (amCharts)](https://www.amcharts.com/svg-maps/?map=cyprus)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
