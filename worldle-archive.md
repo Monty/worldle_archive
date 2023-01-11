@@ -2410,6 +2410,13 @@ Missing Wayback Machine image, guess using the icon below
 [Cyprus map (Google)](https://www.google.com/maps?q=Cyprus+CY&hl=en)  
 [Cyprus map (amCharts)](https://www.amcharts.com/svg-maps/?map=cyprus)</details>  
 
+[10 Jan 2023](https://web.archive.org/web/20230110173630/https://worldle.teuteuf.fr/)  
+![](images/207.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Syria map (Google)](https://www.google.com/maps?q=Syria+SY&hl=en)  
+[Syria map (amCharts)](https://www.amcharts.com/svg-maps/?map=syria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
