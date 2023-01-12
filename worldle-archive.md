@@ -2417,6 +2417,13 @@ Missing Wayback Machine image, guess using the icon below
 [Syria map (Google)](https://www.google.com/maps?q=Syria+SY&hl=en)  
 [Syria map (amCharts)](https://www.amcharts.com/svg-maps/?map=syria)</details>  
 
+[11 Jan 2023](https://web.archive.org/web/20230111073312/https://worldle.teuteuf.fr/)  
+![](images/210.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Chad map (Google)](https://www.google.com/maps?q=Chad+TD&hl=en)  
+[Chad map (amCharts)](https://www.amcharts.com/svg-maps/?map=chad)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
