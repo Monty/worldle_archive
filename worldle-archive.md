@@ -2424,6 +2424,13 @@ Missing Wayback Machine image, guess using the icon below
 [Chad map (Google)](https://www.google.com/maps?q=Chad+TD&hl=en)  
 [Chad map (amCharts)](https://www.amcharts.com/svg-maps/?map=chad)</details>  
 
+[12 Jan 2023](https://web.archive.org/web/20230112182259/https://worldle.teuteuf.fr/)  
+![](images/179.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Portugal map (Google)](https://www.google.com/maps?q=Portugal+PT&hl=en)  
+[Portugal map (amCharts)](https://www.amcharts.com/svg-maps/?map=portugal)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
