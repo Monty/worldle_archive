@@ -2438,6 +2438,13 @@ Missing Wayback Machine image, guess using the icon below
 [Philippines map (Google)](https://www.google.com/maps?q=Philippines+PH&hl=en)  
 [Philippines map (amCharts)](https://www.amcharts.com/svg-maps/?map=philippines)</details>  
 
+[14 Jan 2023](https://web.archive.org/web/20230114071356/https://worldle.teuteuf.fr/)  
+![](images/170.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Peru map (Google)](https://www.google.com/maps?q=Peru+PE&hl=en)  
+[Peru map (amCharts)](https://www.amcharts.com/svg-maps/?map=peru)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
