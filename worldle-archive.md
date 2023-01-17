@@ -2452,6 +2452,13 @@ Missing Wayback Machine image, guess using the icon below
 [Nepal map (Google)](https://www.google.com/maps?q=Nepal+NP&hl=en)  
 [Nepal map (amCharts)](https://www.amcharts.com/svg-maps/?map=nepal)</details>  
 
+[16 Jan 2023](https://web.archive.org/web/20230116043651/https://worldle.teuteuf.fr/)  
+![](images/175.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Poland map (Google)](https://www.google.com/maps?q=Poland+PL&hl=en)  
+[Poland map (amCharts)](https://www.amcharts.com/svg-maps/?map=poland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
