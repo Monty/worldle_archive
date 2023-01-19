@@ -2466,6 +2466,13 @@ Missing Wayback Machine image, guess using the icon below
 [Malta map (Google)](https://www.google.com/maps?q=Malta&hl=en)  
 [Malta map (amCharts)](https://www.amcharts.com/svg-maps/?map=malta)</details>  
 
+[18 Jan 2023](https://web.archive.org/web/20230118074400/https://worldle.teuteuf.fr/)  
+![](images/143.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Myanmar map (Google)](https://www.google.com/maps?q=Myanmar+MM&hl=en)  
+[Myanmar map (amCharts)](https://www.amcharts.com/svg-maps/?map=myanmar)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
