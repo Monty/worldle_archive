@@ -2480,6 +2480,13 @@ Missing Wayback Machine image, guess using the icon below
 [Moldova map (Google)](https://www.google.com/maps?q=Moldova+MD&hl=en)  
 [Moldova map (amCharts)](https://www.amcharts.com/svg-maps/?map=moldova)</details>  
 
+[20 Jan 2023](https://web.archive.org/web/20230120181616/https://worldle.teuteuf.fr/)  
+![](images/097.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Croatia map (Google)](https://www.google.com/maps?q=Croatia+HR&hl=en)  
+[Croatia map (amCharts)](https://www.amcharts.com/svg-maps/?map=croatia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
