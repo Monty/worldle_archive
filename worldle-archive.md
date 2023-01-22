@@ -2487,6 +2487,13 @@ Missing Wayback Machine image, guess using the icon below
 [Croatia map (Google)](https://www.google.com/maps?q=Croatia+HR&hl=en)  
 [Croatia map (amCharts)](https://www.amcharts.com/svg-maps/?map=croatia)</details>  
 
+[21 Jan 2023](https://web.archive.org/web/20230121065750/https://worldle.teuteuf.fr/)  
+![](images/222.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Taiwan map (Google)](https://www.google.com/maps?q=Taiwan+TW&hl=en)  
+[Taiwan map (amCharts)](https://www.amcharts.com/svg-maps/?map=taiwan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
