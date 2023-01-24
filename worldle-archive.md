@@ -2501,6 +2501,13 @@ Missing Wayback Machine image, guess using the icon below
 [France map (Google)](https://www.google.com/maps?q=France+FR&hl=en)  
 [France map (amCharts)](https://www.amcharts.com/svg-maps/?map=france)</details>  
 
+[23 Jan 2023](https://web.archive.org/web/20230123180309/https://worldle.teuteuf.fr/)  
+![](images/202.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Suriname map (Google)](https://www.google.com/maps?q=Suriname+SR&hl=en)  
+[Suriname map (amCharts)](https://www.amcharts.com/svg-maps/?map=suriname)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
