@@ -2508,6 +2508,13 @@ Missing Wayback Machine image, guess using the icon below
 [Suriname map (Google)](https://www.google.com/maps?q=Suriname+SR&hl=en)  
 [Suriname map (amCharts)](https://www.amcharts.com/svg-maps/?map=suriname)</details>  
 
+[24 Jan 2023](https://web.archive.org/web/20230124070317/https://worldle.teuteuf.fr/)  
+![](images/075.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Gabon map (Google)](https://www.google.com/maps?q=Gabon+GA&hl=en)  
+[Gabon map (amCharts)](https://www.amcharts.com/svg-maps/?map=gabon)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
