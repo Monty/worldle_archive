@@ -2515,6 +2515,13 @@ Missing Wayback Machine image, guess using the icon below
 [Gabon map (Google)](https://www.google.com/maps?q=Gabon+GA&hl=en)  
 [Gabon map (amCharts)](https://www.amcharts.com/svg-maps/?map=gabon)</details>  
 
+[25 Jan 2023](https://web.archive.org/web/20230125182021/https://worldle.teuteuf.fr/)  
+![](images/188.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Saudi Arabia map (Google)](https://www.google.com/maps?q=Saudi+Arabia+SA&hl=en)  
+[Saudi Arabia map (amCharts)](https://www.amcharts.com/svg-maps/?map=saudiArabia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
