@@ -2522,6 +2522,13 @@ Missing Wayback Machine image, guess using the icon below
 [Saudi Arabia map (Google)](https://www.google.com/maps?q=Saudi+Arabia+SA&hl=en)  
 [Saudi Arabia map (amCharts)](https://www.amcharts.com/svg-maps/?map=saudiArabia)</details>  
 
+[26 Jan 2023](https://web.archive.org/web/20230126065315/https://worldle.teuteuf.fr/)  
+![](images/064.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Estonia map (Google)](https://www.google.com/maps?q=Estonia&hl=en)  
+[Estonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=estonia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
