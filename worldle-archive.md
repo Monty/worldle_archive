@@ -2529,6 +2529,13 @@ Missing Wayback Machine image, guess using the icon below
 [Estonia map (Google)](https://www.google.com/maps?q=Estonia&hl=en)  
 [Estonia map (amCharts)](https://www.amcharts.com/svg-maps/?map=estonia)</details>  
 
+[27 Jan 2023](https://web.archive.org/web/20230127064547/https://worldle.teuteuf.fr/)  
+![](images/193.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Singapore map (Google)](https://www.google.com/maps?q=Singapore+SG&hl=en)  
+[Singapore map (amCharts)](https://www.amcharts.com/svg-maps/?map=singapore)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
