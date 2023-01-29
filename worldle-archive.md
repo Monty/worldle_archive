@@ -2536,6 +2536,13 @@ Missing Wayback Machine image, guess using the icon below
 [Singapore map (Google)](https://www.google.com/maps?q=Singapore+SG&hl=en)  
 [Singapore map (amCharts)](https://www.amcharts.com/svg-maps/?map=singapore)</details>  
 
+[28 Jan 2023](https://web.archive.org/web/20230128072303/https://worldle.teuteuf.fr/)  
+![](images/061.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Dominican Republic map (Google)](https://www.google.com/maps?q=Dominican+Republic&hl=en)  
+[Dominican Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=dominicanRepublic)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
