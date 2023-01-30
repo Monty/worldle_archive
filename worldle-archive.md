@@ -2543,6 +2543,13 @@ Missing Wayback Machine image, guess using the icon below
 [Dominican Republic map (Google)](https://www.google.com/maps?q=Dominican+Republic&hl=en)  
 [Dominican Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=dominicanRepublic)</details>  
 
+[29 Jan 2023](https://web.archive.org/web/20230129063724/https://worldle.teuteuf.fr/)  
+![](images/223.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Tanzania map (Google)](https://www.google.com/maps?q=Tanzania+TZ&hl=en)  
+[Tanzania map (amCharts)](https://www.amcharts.com/svg-maps/?map=tanzania)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
