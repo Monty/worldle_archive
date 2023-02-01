@@ -2557,6 +2557,13 @@ Missing Wayback Machine image, guess using the icon below
 [Cuba map (Google)](https://www.google.com/maps?q=Cuba+CU&hl=en)  
 [Cuba map (amCharts)](https://www.amcharts.com/svg-maps/?map=cuba)</details>  
 
+[31 Jan 2023](https://web.archive.org/web/20230131074548/https://worldle.teuteuf.fr/)  
+![](images/227.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Uruguay map (Google)](https://www.google.com/maps?q=Uruguay+UY&hl=en)  
+[Uruguay map (amCharts)](https://www.amcharts.com/svg-maps/?map=uruguay)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
