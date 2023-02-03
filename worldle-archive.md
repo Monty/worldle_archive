@@ -2571,6 +2571,13 @@ Missing Wayback Machine image, guess using the icon below
 [Ukraine map (Google)](https://www.google.com/maps?q=Ukraine+UA&hl=en)  
 [Ukraine map (amCharts)](https://www.amcharts.com/svg-maps/?map=ukraine)</details>  
 
+[02 Feb 2023](https://web.archive.org/web/20230202050900/https://worldle.teuteuf.fr/)  
+![](images/006.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Albania map (Google)](https://www.google.com/maps?q=Albania+AL&hl=en)  
+[Albania map (amCharts)](https://www.amcharts.com/svg-maps/?map=albania)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
