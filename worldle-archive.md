@@ -2578,6 +2578,13 @@ Missing Wayback Machine image, guess using the icon below
 [Albania map (Google)](https://www.google.com/maps?q=Albania+AL&hl=en)  
 [Albania map (amCharts)](https://www.amcharts.com/svg-maps/?map=albania)</details>  
 
+[03 Feb 2023](https://web.archive.org/web/20230203081835/https://worldle.teuteuf.fr/)  
+![](images/063.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ecuador map (Google)](https://www.google.com/maps?q=Ecuador+EC&hl=en)  
+[Ecuador map (amCharts)](https://www.amcharts.com/svg-maps/?map=ecuador)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
