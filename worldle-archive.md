@@ -2585,6 +2585,13 @@ Missing Wayback Machine image, guess using the icon below
 [Ecuador map (Google)](https://www.google.com/maps?q=Ecuador+EC&hl=en)  
 [Ecuador map (amCharts)](https://www.amcharts.com/svg-maps/?map=ecuador)</details>  
 
+[04 Feb 2023](https://web.archive.org/web/20230204115951/https://worldle.teuteuf.fr/)  
+![](images/096.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Honduras map (Google)](https://www.google.com/maps?q=Honduras+HN&hl=en)  
+[Honduras map (amCharts)](https://www.amcharts.com/svg-maps/?map=honduras)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
