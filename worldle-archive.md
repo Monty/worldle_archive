@@ -2592,6 +2592,13 @@ Missing Wayback Machine image, guess using the icon below
 [Honduras map (Google)](https://www.google.com/maps?q=Honduras+HN&hl=en)  
 [Honduras map (amCharts)](https://www.amcharts.com/svg-maps/?map=honduras)</details>  
 
+[05 Feb 2023](https://web.archive.org/web/20230205173952/https://worldle.teuteuf.fr/)  
+![](images/124.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Laos map (Google)](https://www.google.com/maps?q=Laos+LA&hl=en)  
+[Laos map (amCharts)](https://www.amcharts.com/svg-maps/?map=laos)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
