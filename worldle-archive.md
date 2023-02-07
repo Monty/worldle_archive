@@ -2599,6 +2599,13 @@ Missing Wayback Machine image, guess using the icon below
 [Laos map (Google)](https://www.google.com/maps?q=Laos+LA&hl=en)  
 [Laos map (amCharts)](https://www.amcharts.com/svg-maps/?map=laos)</details>  
 
+[06 Feb 2023](https://web.archive.org/web/20230206072637/https://worldle.teuteuf.fr/)  
+![](images/156.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Namibia map (Google)](https://www.google.com/maps?q=Namibia+NA&hl=en)  
+[Namibia map (amCharts)](https://www.amcharts.com/svg-maps/?map=namibia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
