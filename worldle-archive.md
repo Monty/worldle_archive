@@ -2606,6 +2606,13 @@ Missing Wayback Machine image, guess using the icon below
 [Namibia map (Google)](https://www.google.com/maps?q=Namibia+NA&hl=en)  
 [Namibia map (amCharts)](https://www.amcharts.com/svg-maps/?map=namibia)</details>  
 
+[07 Feb 2023](https://web.archive.org/web/20230207063154/https://worldle.teuteuf.fr/)  
+![](images/220.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Turkey map (Google)](https://www.google.com/maps?q=Turkey+TR&hl=en)  
+[Turkey map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkey)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
