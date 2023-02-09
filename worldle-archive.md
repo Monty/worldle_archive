@@ -2613,6 +2613,13 @@ Missing Wayback Machine image, guess using the icon below
 [Turkey map (Google)](https://www.google.com/maps?q=Turkey+TR&hl=en)  
 [Turkey map (amCharts)](https://www.amcharts.com/svg-maps/?map=turkey)</details>  
 
+[08 Feb 2023](https://web.archive.org/web/20230208071511/https://worldle.teuteuf.fr/)  
+![](images/014.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Aruba map (Google)](https://www.google.com/maps?q=Aruba+AW&hl=en)  
+[Aruba map (amCharts)](https://www.amcharts.com/svg-maps/?map=aruba)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
