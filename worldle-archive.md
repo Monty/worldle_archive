@@ -2620,6 +2620,13 @@ Missing Wayback Machine image, guess using the icon below
 [Aruba map (Google)](https://www.google.com/maps?q=Aruba+AW&hl=en)  
 [Aruba map (amCharts)](https://www.amcharts.com/svg-maps/?map=aruba)</details>  
 
+[09 Feb 2023](https://web.archive.org/web/20230209070219/https://worldle.teuteuf.fr/)  
+![](images/044.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Côte d'Ivoire map (Google)](https://www.google.com/maps?q=Côte+d'Ivoire+CI&hl=en)  
+[Côte d'Ivoire map (amCharts)](https://www.amcharts.com/svg-maps/?map=ivoryCoast)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
