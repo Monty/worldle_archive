@@ -2627,6 +2627,13 @@ Missing Wayback Machine image, guess using the icon below
 [Côte d'Ivoire map (Google)](https://www.google.com/maps?q=Côte+d'Ivoire+CI&hl=en)  
 [Côte d'Ivoire map (amCharts)](https://www.amcharts.com/svg-maps/?map=ivoryCoast)</details>  
 
+[10 Feb 2023](https://web.archive.org/web/20230210065001/https://worldle.teuteuf.fr/)  
+![](images/163.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Norway map (Google)](https://www.google.com/maps?q=Norway+NO&hl=en)  
+[Norway map (amCharts)](https://www.amcharts.com/svg-maps/?map=norway)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
