@@ -2634,6 +2634,13 @@ Missing Wayback Machine image, guess using the icon below
 [Norway map (Google)](https://www.google.com/maps?q=Norway+NO&hl=en)  
 [Norway map (amCharts)](https://www.amcharts.com/svg-maps/?map=norway)</details>  
 
+[11 Feb 2023](https://web.archive.org/web/20230211080531/https://worldle.teuteuf.fr/)  
+![](images/205.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[El Salvador map (Google)](https://www.google.com/maps?q=El+Salvador+SV&hl=en)  
+[El Salvador map (amCharts)](https://www.amcharts.com/svg-maps/?map=elSalvador)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
