@@ -2641,6 +2641,13 @@ Missing Wayback Machine image, guess using the icon below
 [El Salvador map (Google)](https://www.google.com/maps?q=El+Salvador+SV&hl=en)  
 [El Salvador map (amCharts)](https://www.amcharts.com/svg-maps/?map=elSalvador)</details>  
 
+[12 Feb 2023](https://web.archive.org/web/20230212071453/https://worldle.teuteuf.fr/)  
+![](images/107.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Iran map (Google)](https://www.google.com/maps?q=Iran+IR&hl=en)  
+[Iran map (amCharts)](https://www.amcharts.com/svg-maps/?map=iran)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
