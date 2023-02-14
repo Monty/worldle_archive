@@ -2648,6 +2648,13 @@ Missing Wayback Machine image, guess using the icon below
 [Iran map (Google)](https://www.google.com/maps?q=Iran+IR&hl=en)  
 [Iran map (amCharts)](https://www.amcharts.com/svg-maps/?map=iran)</details>  
 
+[13 Feb 2023](https://web.archive.org/web/20230213124948/https://worldle.teuteuf.fr/)  
+![](images/160.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Nigeria map (Google)](https://www.google.com/maps?q=Nigeria+NG&hl=en)  
+[Nigeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=nigeria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
