@@ -2662,6 +2662,13 @@ Missing Wayback Machine image, guess using the icon below
 [United States map (Google)](https://www.google.com/maps?q=United+States+US&hl=en)  
 [United States map (amCharts)](https://www.amcharts.com/svg-maps/?map=usaMercator)</details>  
 
+[15 Feb 2023](https://web.archive.org/web/20230215135004/https://worldle.teuteuf.fr/)  
+![](images/020.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Belgium map (Google)](https://www.google.com/maps?q=Belgium+BE&hl=en)  
+[Belgium map (amCharts)](https://www.amcharts.com/svg-maps/?map=belgium)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
