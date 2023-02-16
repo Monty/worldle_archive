@@ -2655,6 +2655,13 @@ Missing Wayback Machine image, guess using the icon below
 [Nigeria map (Google)](https://www.google.com/maps?q=Nigeria+NG&hl=en)  
 [Nigeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=nigeria)</details>  
 
+[14 Feb 2023](https://web.archive.org/web/20230214124843/https://worldle.teuteuf.fr/)  
+![](images/226.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[United States map (Google)](https://www.google.com/maps?q=United+States+US&hl=en)  
+[United States map (amCharts)](https://www.amcharts.com/svg-maps/?map=usaMercator)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
