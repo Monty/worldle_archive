@@ -2676,6 +2676,20 @@ Missing Wayback Machine image, guess using the icon below
 [New Zealand map (Google)](https://www.google.com/maps?q=New+Zealand+NZ&hl=en)  
 [New Zealand map (amCharts)](https://www.amcharts.com/svg-maps/?map=newZealand)</details>  
 
+[17 Feb 2023](https://web.archive.org/web/20230217171136/https://worldle.teuteuf.fr/)  
+![](images/218.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Tunisia map (Google)](https://www.google.com/maps?q=Tunisia+TN&hl=en)  
+[Tunisia map (amCharts)](https://www.amcharts.com/svg-maps/?map=tunisia)</details>  
+
+[18 Feb 2023](https://web.archive.org/web/20230218124625/https://worldle.teuteuf.fr/)  
+![](images/019.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bangladesh map (Google)](https://www.google.com/maps?q=Bangladesh+BD&hl=en)  
+[Bangladesh map (amCharts)](https://www.amcharts.com/svg-maps/?map=bangladesh)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
