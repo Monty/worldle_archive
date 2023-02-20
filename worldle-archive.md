@@ -2690,6 +2690,13 @@ Missing Wayback Machine image, guess using the icon below
 [Bangladesh map (Google)](https://www.google.com/maps?q=Bangladesh+BD&hl=en)  
 [Bangladesh map (amCharts)](https://www.amcharts.com/svg-maps/?map=bangladesh)</details>  
 
+[19 Feb 2023](https://web.archive.org/web/20230219165405/https://worldle.teuteuf.fr/)  
+![](images/068.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Spain map (Google)](https://www.google.com/maps?q=Spain+ES&hl=en)  
+[Spain map (amCharts)](https://www.amcharts.com/svg-maps/?map=spain)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
