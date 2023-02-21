@@ -2697,6 +2697,13 @@ Missing Wayback Machine image, guess using the icon below
 [Spain map (Google)](https://www.google.com/maps?q=Spain+ES&hl=en)  
 [Spain map (amCharts)](https://www.amcharts.com/svg-maps/?map=spain)</details>  
 
+[20 Feb 2023](https://web.archive.org/web/20230220171801/https://worldle.teuteuf.fr/)  
+![](images/130.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Lesotho map (Google)](https://www.google.com/maps?q=Lesotho+LS&hl=en)  
+[Lesotho map (amCharts)](https://www.amcharts.com/svg-maps/?map=lesotho)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
