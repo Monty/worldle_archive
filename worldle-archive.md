@@ -2718,6 +2718,13 @@ Missing Wayback Machine image, guess using the icon below
 [Romania map (Google)](https://www.google.com/maps?q=Romania+RO&hl=en)  
 [Romania map (amCharts)](https://www.amcharts.com/svg-maps/?map=romania)</details>  
 
+[23 Feb 2023](https://web.archive.org/web/20230223124446/https://worldle.teuteuf.fr/)  
+![](images/200.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Senegal map (Google)](https://www.google.com/maps?q=Senegal+SN&hl=en)  
+[Senegal map (amCharts)](https://www.amcharts.com/svg-maps/?map=senegal)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
