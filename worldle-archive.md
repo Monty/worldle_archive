@@ -2725,6 +2725,13 @@ Missing Wayback Machine image, guess using the icon below
 [Senegal map (Google)](https://www.google.com/maps?q=Senegal+SN&hl=en)  
 [Senegal map (amCharts)](https://www.amcharts.com/svg-maps/?map=senegal)</details>  
 
+[24 Feb 2023](https://web.archive.org/web/20230224125420/https://worldle.teuteuf.fr/)  
+![](images/231.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Venezuela map (Google)](https://www.google.com/maps?q=Venezuela+VE&hl=en)  
+[Venezuela map (amCharts)](https://www.amcharts.com/svg-maps/?map=venezuela)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
