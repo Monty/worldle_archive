@@ -2732,6 +2732,13 @@ Missing Wayback Machine image, guess using the icon below
 [Venezuela map (Google)](https://www.google.com/maps?q=Venezuela+VE&hl=en)  
 [Venezuela map (amCharts)](https://www.amcharts.com/svg-maps/?map=venezuela)</details>  
 
+[25 Feb 2023](https://web.archive.org/web/20230225091530/https://worldle.teuteuf.fr/)  
+![](images/016.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Azerbaijan map (Google)](https://www.google.com/maps?q=Azerbaijan+AZ&hl=en)  
+[Azerbaijan map (amCharts)](https://www.amcharts.com/svg-maps/?map=azerbaijan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
