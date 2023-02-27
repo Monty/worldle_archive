@@ -2739,6 +2739,13 @@ Missing Wayback Machine image, guess using the icon below
 [Azerbaijan map (Google)](https://www.google.com/maps?q=Azerbaijan+AZ&hl=en)  
 [Azerbaijan map (amCharts)](https://www.amcharts.com/svg-maps/?map=azerbaijan)</details>  
 
+[26 Feb 2023](https://web.archive.org/web/20230226113704/https://worldle.teuteuf.fr/)  
+![](images/035.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Botswana map (Google)](https://www.google.com/maps?q=Botswana+BW&hl=en)  
+[Botswana map (amCharts)](https://www.amcharts.com/svg-maps/?map=botswana)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
