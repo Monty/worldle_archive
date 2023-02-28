@@ -2746,6 +2746,13 @@ Missing Wayback Machine image, guess using the icon below
 [Botswana map (Google)](https://www.google.com/maps?q=Botswana+BW&hl=en)  
 [Botswana map (amCharts)](https://www.amcharts.com/svg-maps/?map=botswana)</details>  
 
+[27 Feb 2023](https://web.archive.org/web/20230227135447/https://worldle.teuteuf.fr/)  
+![](images/017.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bosnia and Herzegovina map (Google)](https://www.google.com/maps?q=Bosnia+and+Herzegovina+BA&hl=en)  
+[Bosnia and Herzegovina map (amCharts)](https://www.amcharts.com/svg-maps/?map=bosniaHerzegovinaCantons)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
