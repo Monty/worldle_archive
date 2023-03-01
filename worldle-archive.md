@@ -2753,6 +2753,13 @@ Missing Wayback Machine image, guess using the icon below
 [Bosnia and Herzegovina map (Google)](https://www.google.com/maps?q=Bosnia+and+Herzegovina+BA&hl=en)  
 [Bosnia and Herzegovina map (amCharts)](https://www.amcharts.com/svg-maps/?map=bosniaHerzegovinaCantons)</details>  
 
+[28 Feb 2023](https://web.archive.org/web/20230228162405/https://worldle.teuteuf.fr/)  
+![](images/043.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Switzerland map (Google)](https://www.google.com/maps?q=Switzerland+CH&hl=en)  
+[Switzerland map (amCharts)](https://www.amcharts.com/svg-maps/?map=switzerland)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
