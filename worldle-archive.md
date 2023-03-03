@@ -2760,6 +2760,13 @@ Missing Wayback Machine image, guess using the icon below
 [Switzerland map (Google)](https://www.google.com/maps?q=Switzerland+CH&hl=en)  
 [Switzerland map (amCharts)](https://www.amcharts.com/svg-maps/?map=switzerland)</details>  
 
+[01 Mar 2023](https://web.archive.org/web/20230301140011/https://worldle.teuteuf.fr/)  
+![](images/004.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Antigua and Barbuda map (Google)](https://www.google.com/maps?q=Antigua+and+Barbuda+AG&hl=en)  
+[Antigua and Barbuda map (amCharts)](https://www.amcharts.com/svg-maps/?map=antiguaBarbuda)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
