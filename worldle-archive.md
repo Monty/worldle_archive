@@ -2767,6 +2767,13 @@ Missing Wayback Machine image, guess using the icon below
 [Antigua and Barbuda map (Google)](https://www.google.com/maps?q=Antigua+and+Barbuda+AG&hl=en)  
 [Antigua and Barbuda map (amCharts)](https://www.amcharts.com/svg-maps/?map=antiguaBarbuda)</details>  
 
+[02 Mar 2023](https://web.archive.org/web/20230302205549/https://worldle.teuteuf.fr/)  
+![](images/225.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Uganda map (Google)](https://www.google.com/maps?q=Uganda+UG&hl=en)  
+[Uganda map (amCharts)](https://www.amcharts.com/svg-maps/?map=uganda)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
