@@ -2774,6 +2774,13 @@ Missing Wayback Machine image, guess using the icon below
 [Uganda map (Google)](https://www.google.com/maps?q=Uganda+UG&hl=en)  
 [Uganda map (amCharts)](https://www.amcharts.com/svg-maps/?map=uganda)</details>  
 
+[03 Mar 2023](https://web.archive.org/web/20230303134445/https://worldle.teuteuf.fr/)  
+![](images/153.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mexico map (Google)](https://www.google.com/maps?q=Mexico+MX&hl=en)  
+[Mexico map (amCharts)](https://www.amcharts.com/svg-maps/?map=mexico)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
