@@ -2781,6 +2781,13 @@ Missing Wayback Machine image, guess using the icon below
 [Mexico map (Google)](https://www.google.com/maps?q=Mexico+MX&hl=en)  
 [Mexico map (amCharts)](https://www.amcharts.com/svg-maps/?map=mexico)</details>  
 
+[04 Mar 2023](https://web.archive.org/web/20230304192148/https://worldle.teuteuf.fr/)  
+![](images/104.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[India map (Google)](https://www.google.com/maps?q=India+IN&hl=en)  
+[India map (amCharts)](https://www.amcharts.com/svg-maps/?map=india)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
