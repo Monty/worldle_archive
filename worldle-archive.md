@@ -405,7 +405,7 @@ Have fun playing!
 ![](images/057.svg)
 <details><summary><b>Show answer</b></summary>
 
-[Germany (Google)](https://www.google.com/maps?q=Germany+DE&hl=en)  
+[Germany (Google)](https://www.google.com/maps?q=Germany&hl=en)  
 [Germany (amCharts)](https://www.amcharts.com/svg-maps/?map=germany)</details>
 
 [30 Mar 2022](https://web.archive.org/web/20220330135339/https://worldle.teuteuf.fr/)  
@@ -1292,7 +1292,7 @@ Have fun playing!
 ![](images/057.svg)  
 <details><summary><b>Show answer</b></summary>
 
-[Germany map (Google)](https://www.google.com/maps?q=Germany+DE&hl=en)  
+[Germany map (Google)](https://www.google.com/maps?q=Germany&hl=en)  
 [Germany map (amCharts)](https://www.amcharts.com/svg-maps/?map=germany)</details>  
 
 [03 Aug 2022](https://web.archive.org/web/20220803063400/https://worldle.teuteuf.fr/)  
@@ -2787,6 +2787,13 @@ Missing Wayback Machine image, guess using the icon below
 
 [India map (Google)](https://www.google.com/maps?q=India+IN&hl=en)  
 [India map (amCharts)](https://www.amcharts.com/svg-maps/?map=india)</details>  
+
+[05 Mar 2023](https://web.archive.org/web/20230305161301/https://worldle.teuteuf.fr/)  
+![](images/057.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Germany map (Google)](https://www.google.com/maps?q=Germany&hl=en)  
+[Germany map (amCharts)](https://www.amcharts.com/svg-maps/?map=germany)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
