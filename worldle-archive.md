@@ -2809,6 +2809,13 @@ Missing Wayback Machine image, guess using the icon below
 [Vietnam map (Google)](https://www.google.com/maps?q=Vietnam+VN&hl=en)  
 [Vietnam map (amCharts)](https://www.amcharts.com/svg-maps/?map=vietnam)</details>  
 
+[08 Mar 2023](https://web.archive.org/web/20230308225726/https://worldle.teuteuf.fr/)  
+![](images/185.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Serbia map (Google)](https://www.google.com/maps?q=Serbia+RS&hl=en)  
+[Serbia map (amCharts)](https://www.amcharts.com/svg-maps/?map=serbia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
