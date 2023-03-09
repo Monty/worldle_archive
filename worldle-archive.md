@@ -2795,6 +2795,20 @@ Missing Wayback Machine image, guess using the icon below
 [Germany map (Google)](https://www.google.com/maps?q=Germany&hl=en)  
 [Germany map (amCharts)](https://www.amcharts.com/svg-maps/?map=germany)</details>  
 
+[06 Mar 2023](https://web.archive.org/web/20230306195500/https://worldle.teuteuf.fr/)  
+![](images/021.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Burkina Faso map (Google)](https://www.google.com/maps?q=Burkina+Faso+BF&hl=en)  
+[Burkina Faso map (amCharts)](https://www.amcharts.com/svg-maps/?map=burkinaFaso)</details>  
+
+[07 Mar 2023](https://web.archive.org/web/20230307222240/https://worldle.teuteuf.fr/)  
+![](images/234.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Vietnam map (Google)](https://www.google.com/maps?q=Vietnam+VN&hl=en)  
+[Vietnam map (amCharts)](https://www.amcharts.com/svg-maps/?map=vietnam)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
