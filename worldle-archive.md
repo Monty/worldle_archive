@@ -2816,6 +2816,13 @@ Missing Wayback Machine image, guess using the icon below
 [Serbia map (Google)](https://www.google.com/maps?q=Serbia+RS&hl=en)  
 [Serbia map (amCharts)](https://www.amcharts.com/svg-maps/?map=serbia)</details>  
 
+[09 Mar 2023](https://web.archive.org/web/20230309154255/https://worldle.teuteuf.fr/)  
+![](images/111.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Jordan map (Google)](https://www.google.com/maps?q=Jordan+JO&hl=en)  
+[Jordan map (amCharts)](https://www.amcharts.com/svg-maps/?map=jordan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
