@@ -2823,6 +2823,13 @@ Missing Wayback Machine image, guess using the icon below
 [Jordan map (Google)](https://www.google.com/maps?q=Jordan+JO&hl=en)  
 [Jordan map (amCharts)](https://www.amcharts.com/svg-maps/?map=jordan)</details>  
 
+[10 Mar 2023](https://web.archive.org/web/20230310165125/https://worldle.teuteuf.fr/)  
+![](images/052.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Cape Verde map (Google)](https://www.google.com/maps?q=Cabo\+Verde+CV&hl=en)  
+[Cape Verde map (amCharts)](https://www.amcharts.com/svg-maps/?map=capeVerde)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
