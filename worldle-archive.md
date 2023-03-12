@@ -2830,6 +2830,13 @@ Missing Wayback Machine image, guess using the icon below
 [Cape Verde map (Google)](https://www.google.com/maps?q=Cabo\+Verde+CV&hl=en)  
 [Cape Verde map (amCharts)](https://www.amcharts.com/svg-maps/?map=capeVerde)</details>  
 
+[11 Mar 2023](https://web.archive.org/web/20230311144726/https://worldle.teuteuf.fr/)  
+![](images/046.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Chile map (Google)](https://www.google.com/maps?q=Chile+CL&hl=en)  
+[Chile map (amCharts)](https://www.amcharts.com/svg-maps/?map=chile)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
