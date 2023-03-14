@@ -2837,6 +2837,13 @@ Missing Wayback Machine image, guess using the icon below
 [Chile map (Google)](https://www.google.com/maps?q=Chile+CL&hl=en)  
 [Chile map (amCharts)](https://www.amcharts.com/svg-maps/?map=chile)</details>  
 
+[12 Mar 2023](https://web.archive.org/web/20230312164427/https://worldle.teuteuf.fr/)  
+![](images/040.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Democratic Republic of the Congo map (Google)](https://www.google.com/maps?q=Democratic+Republic+of+the+Congo+CD&hl=en)  
+[Democratic Republic of the Congo map (amCharts)](https://www.amcharts.com/svg-maps/?map=congoDR)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
