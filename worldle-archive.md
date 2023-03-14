@@ -2844,6 +2844,13 @@ Missing Wayback Machine image, guess using the icon below
 [Democratic Republic of the Congo map (Google)](https://www.google.com/maps?q=Democratic+Republic+of+the+Congo+CD&hl=en)  
 [Democratic Republic of the Congo map (amCharts)](https://www.amcharts.com/svg-maps/?map=congoDR)</details>  
 
+[13 Mar 2023](https://web.archive.org/web/20230313151649/https://worldle.teuteuf.fr/)  
+![](images/029.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bolivia map (Google)](https://www.google.com/maps?q=Bolivia+BO&hl=en)  
+[Bolivia map (amCharts)](https://www.amcharts.com/svg-maps/?map=bolivia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
