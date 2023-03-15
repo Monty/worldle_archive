@@ -2851,6 +2851,13 @@ Missing Wayback Machine image, guess using the icon below
 [Bolivia map (Google)](https://www.google.com/maps?q=Bolivia+BO&hl=en)  
 [Bolivia map (amCharts)](https://www.amcharts.com/svg-maps/?map=bolivia)</details>  
 
+[14 Mar 2023](https://web.archive.org/web/20230314135927/https://worldle.teuteuf.fr/)  
+![](images/022.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bulgaria map (Google)](https://www.google.com/maps?q=Bulgaria+BG&hl=en)  
+[Bulgaria map (amCharts)](https://www.amcharts.com/svg-maps/?map=bulgaria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
