@@ -2858,6 +2858,13 @@ Missing Wayback Machine image, guess using the icon below
 [Bulgaria map (Google)](https://www.google.com/maps?q=Bulgaria+BG&hl=en)  
 [Bulgaria map (amCharts)](https://www.amcharts.com/svg-maps/?map=bulgaria)</details>  
 
+[15 Mar 2023](https://web.archive.org/web/20230315095319/https://worldle.teuteuf.fr/)  
+![](images/024.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Burundi map (Google)](https://www.google.com/maps?q=Burundi+BI&hl=en)  
+[Burundi map (amCharts)](https://www.amcharts.com/svg-maps/?map=burundi)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
