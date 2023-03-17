@@ -2865,6 +2865,13 @@ Missing Wayback Machine image, guess using the icon below
 [Burundi map (Google)](https://www.google.com/maps?q=Burundi+BI&hl=en)  
 [Burundi map (amCharts)](https://www.amcharts.com/svg-maps/?map=burundi)</details>  
 
+[16 Mar 2023](https://web.archive.org/web/20230316070957/https://worldle.teuteuf.fr/)  
+![](images/007.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Armenia map (Google)](https://www.google.com/maps?q=Armenia+AM&hl=en)  
+[Armenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=armenia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
