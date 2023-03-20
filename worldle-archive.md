@@ -2879,7 +2879,7 @@ Missing Wayback Machine image, guess using the icon below
 [Argentina map (Google)](https://www.google.com/maps?q=Argentina+AR&hl=en)  
 [Argentina map (amCharts)](https://www.amcharts.com/svg-maps/?map=argentina)</details>  
 
-[18 Mar 2022](https://web.archive.org/web/20230320002032/https://worldle.teuteuf.fr/)  
+[18 Mar 2022](https://web.archive.org/web/20230318181237/https://worldle.teuteuf.fr/)  
 ![](images/237.svg)  
 <details><summary><b>Show answer</b></summary>
 
