@@ -2872,6 +2872,20 @@ Missing Wayback Machine image, guess using the icon below
 [Armenia map (Google)](https://www.google.com/maps?q=Armenia+AM&hl=en)  
 [Armenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=armenia)</details>  
 
+[17 Mar 2023](https://web.archive.org/web/20230317132723/https://worldle.teuteuf.fr/)  
+![](images/010.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Argentina map (Google)](https://www.google.com/maps?q=Argentina+AR&hl=en)  
+[Argentina map (amCharts)](https://www.amcharts.com/svg-maps/?map=argentina)</details>  
+
+[18 Mar 2022](https://web.archive.org/web/20230320002032/https://worldle.teuteuf.fr/)  
+![](images/237.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Samoa map (Google)](https://www.google.com/maps?q=Samoa+WS&hl=en)  
+[Samoa map (amCharts)](https://www.amcharts.com/svg-maps/?map=samoa)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
