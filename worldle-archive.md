@@ -2886,6 +2886,13 @@ Missing Wayback Machine image, guess using the icon below
 [Samoa map (Google)](https://www.google.com/maps?q=Samoa+WS&hl=en)  
 [Samoa map (amCharts)](https://www.amcharts.com/svg-maps/?map=samoa)</details>  
 
+[19 Mar 2023](https://web.archive.org/web/20230320002032/https://worldle.teuteuf.fr/)  
+![](images/238.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Yemen map (Google)](https://www.google.com/maps?q=Yemen+YE&hl=en)  
+[Yemen map (amCharts)](https://www.amcharts.com/svg-maps/?map=yemen)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
