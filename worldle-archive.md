@@ -2893,6 +2893,13 @@ Missing Wayback Machine image, guess using the icon below
 [Yemen map (Google)](https://www.google.com/maps?q=Yemen+YE&hl=en)  
 [Yemen map (amCharts)](https://www.amcharts.com/svg-maps/?map=yemen)</details>  
 
+[20 Mar 2023](https://web.archive.org/web/20230320200445/https://worldle.teuteuf.fr/)  
+![](images/240.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[South Africa map (Google)](https://www.google.com/maps?q=South+Africa+ZA&hl=en)  
+[South Africa map (amCharts)](https://www.amcharts.com/svg-maps/?map=southAfrica)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
