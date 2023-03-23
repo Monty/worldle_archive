@@ -2900,6 +2900,13 @@ Missing Wayback Machine image, guess using the icon below
 [South Africa map (Google)](https://www.google.com/maps?q=South+Africa+ZA&hl=en)  
 [South Africa map (amCharts)](https://www.amcharts.com/svg-maps/?map=southAfrica)</details>  
 
+[21 Mar 2023](https://web.archive.org/web/20230322061051/https://worldle.teuteuf.fr/)  
+![](images/012.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Austria map (Google)](https://www.google.com/maps?q=Austria+AT&hl=en)  
+[Austria map (amCharts)](https://www.amcharts.com/svg-maps/?map=austria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
