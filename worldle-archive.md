@@ -539,7 +539,7 @@ Have fun playing!
 ![](images/002.svg)  
 <details><summary><b>Show answer</b></summary>
 
-[United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates+AE&hl=en)  
+[United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates&hl=en)  
 [United Arab Emirates map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedArabEmirates)</details>  
 
 [18 Apr 2022](https://web.archive.org/web/20220418101347/https://worldle.teuteuf.fr/)  
@@ -609,7 +609,7 @@ Have fun playing!
 ![](images/242.svg)  
 <details><summary><b>Show answer</b></summary>
 
-[Zimbabwe map (Google)](https://www.google.com/maps?q=Zimbabwe+ZW&hl=en)  
+[Zimbabwe map (Google)](https://www.google.com/maps?q=Zimbabwe&hl=en)  
 [Zimbabwe map (amCharts)](https://www.amcharts.com/svg-maps/?map=zimbabwe)</details>  
 
 [28 Apr 2022](https://web.archive.org/web/20220428182029/https://worldle.teuteuf.fr/)  
@@ -2174,7 +2174,7 @@ Missing Wayback Machine image, guess using the icon below
 ![](images/242.svg)  
 <details><summary><b>Show answer</b></summary>
 
-[Zimbabwe map (Google)](https://www.google.com/maps?q=Zimbabwe+ZW&hl=en)  
+[Zimbabwe map (Google)](https://www.google.com/maps?q=Zimbabwe&hl=en)  
 [Zimbabwe map (amCharts)](https://www.amcharts.com/svg-maps/?map=zimbabwe)</details>  
 
 [08 Dec 2022](https://web.archive.org/web/20221208064901/https://worldle.teuteuf.fr/)  
@@ -2217,7 +2217,7 @@ Missing Wayback Machine image, guess using the icon below
 ![](images/002.svg)  
 <details><summary><b>Show answer</b></summary>
 
-[United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates+AE&hl=en)  
+[United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates&hl=en)  
 [United Arab Emirates map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedArabEmirates)</details>  
 
 [14 Dec 2022](https://web.archive.org/web/20221214163842/https://worldle.teuteuf.fr/)  
@@ -2906,6 +2906,20 @@ Missing Wayback Machine image, guess using the icon below
 
 [Austria map (Google)](https://www.google.com/maps?q=Austria+AT&hl=en)  
 [Austria map (amCharts)](https://www.amcharts.com/svg-maps/?map=austria)</details>  
+
+[22 Mar 2023](https://web.archive.org/web/20230322155813/https://worldle.teuteuf.fr/)  
+![](images/241.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Zambia map (Google)](https://www.google.com/maps?q=Zambia+ZM&hl=en)  
+[Zambia map (amCharts)](https://www.amcharts.com/svg-maps/?map=zambia)</details>  
+
+[23 Mar 2023](https://web.archive.org/web/20221213074707/https://worldle.teuteuf.fr/)  
+![](images/002.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates&hl=en)  
+[United Arab Emirates map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedArabEmirates)</details>  
 
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
