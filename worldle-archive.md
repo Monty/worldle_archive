@@ -2921,6 +2921,13 @@ Missing Wayback Machine image, guess using the icon below
 [United Arab Emirates map (Google)](https://www.google.com/maps?q=United+Arab+Emirates&hl=en)  
 [United Arab Emirates map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedArabEmirates)</details>  
 
+[24 Mar 2023](https://web.archive.org/web/20230324121024/https://worldle.teuteuf.fr/)  
+![](images/242.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Zimbabwe map (Google)](https://www.google.com/maps?q=Zimbabwe&hl=en)  
+[Zimbabwe map (amCharts)](https://www.amcharts.com/svg-maps/?map=zimbabwe)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
