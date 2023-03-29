@@ -2942,6 +2942,13 @@ Missing Wayback Machine image, guess using the icon below
 [Solomon Islands map (Google)](https://www.google.com/maps?q=Solomon+Islands+SB&hl=en)  
 [Solomon Islands map (amCharts)](https://www.amcharts.com/svg-maps/?map=solomonIslands)</details>  
 
+[27 Mar 2023](https://web.archive.org/web/20230327071436/https://worldle.teuteuf.fr/)  
+![](images/190.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Seychelles map (Google)](https://www.google.com/maps?q=Seychelles+SC&hl=en)  
+[Seychelles map (amCharts)](https://www.amcharts.com/svg-maps/?map=seychelles)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
