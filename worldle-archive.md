@@ -2949,6 +2949,13 @@ Missing Wayback Machine image, guess using the icon below
 [Seychelles map (Google)](https://www.google.com/maps?q=Seychelles+SC&hl=en)  
 [Seychelles map (amCharts)](https://www.amcharts.com/svg-maps/?map=seychelles)</details>  
 
+[28 Mar 2023](https://web.archive.org/web/20221218104844/https://worldle.teuteuf.fr/)  
+![](images/192.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Sweden map (Google)](https://www.google.com/maps?q=Sweden+SE&hl=en)  
+[Sweden map (amCharts)](https://www.amcharts.com/svg-maps/?map=sweden)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
