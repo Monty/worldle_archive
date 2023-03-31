@@ -2956,6 +2956,13 @@ Missing Wayback Machine image, guess using the icon below
 [Sweden map (Google)](https://www.google.com/maps?q=Sweden+SE&hl=en)  
 [Sweden map (amCharts)](https://www.amcharts.com/svg-maps/?map=sweden)</details>  
 
+[29 Mar 2023](https://web.archive.org/web/20230329171759/https://worldle.teuteuf.fr/)  
+![](images/191.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Sudan map (Google)](https://www.google.com/maps?q=Sudan+SD&hl=en)  
+[Sudan map (amCharts)](https://www.amcharts.com/svg-maps/?map=sudan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
