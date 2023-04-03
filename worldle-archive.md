@@ -2984,6 +2984,13 @@ Missing Wayback Machine image, guess using the icon below
 [Lebanon map (Google)](https://www.google.com/maps?q=Lebanon+LB&hl=en)  
 [Lebanon map (amCharts)](https://www.amcharts.com/svg-maps/?map=lebanon)</details>  
 
+[02 Apr 2023](https://web.archive.org/web/20221126024718/https://worldle.teuteuf.fr/)  
+![](images/031.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Brazil map (Google)](https://www.google.com/maps?q=Brazil+BR&hl=en)  
+[Brazil map (amCharts)](https://www.amcharts.com/svg-maps/?map=brazil)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
