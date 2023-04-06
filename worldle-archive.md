@@ -2998,6 +2998,13 @@ Missing Wayback Machine image, guess using the icon below
 [Haiti map (Google)](https://www.google.com/maps?q=Haiti+HT&hl=en)  
 [Haiti map (amCharts)](https://www.amcharts.com/svg-maps/?map=haiti)</details>  
 
+[04 Apr 2023](https://web.archive.org/web/20221216075028/https://worldle.teuteuf.fr/)  
+![](images/228.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Uzbekistan map (Google)](https://www.google.com/maps?q=Uzbekistan+UZ&hl=en)  
+[Uzbekistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=uzbekistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
