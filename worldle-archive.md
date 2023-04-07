@@ -3005,6 +3005,13 @@ Missing Wayback Machine image, guess using the icon below
 [Uzbekistan map (Google)](https://www.google.com/maps?q=Uzbekistan+UZ&hl=en)  
 [Uzbekistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=uzbekistan)</details>  
 
+[05 Apr 2023](https://web.archive.org/web/20221215115103/https://worldle.teuteuf.fr/)  
+![](images/085.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Guinea map (Google)](https://www.google.com/maps?q=Guinea+GN&hl=en)  
+[Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=guinea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
