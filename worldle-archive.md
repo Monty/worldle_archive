@@ -3019,6 +3019,13 @@ Missing Wayback Machine image, guess using the icon below
 [Slovenia map (Google)](https://www.google.com/maps?q=Slovenia+SI&hl=en)  
 [Slovenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=slovenia)</details>  
 
+[07 Apr 2023](https://web.archive.org/web/20220721060608/https://worldle.teuteuf.fr/)  
+![](images/062.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Algeria map (Google)](https://www.google.com/maps?q=Algeria+DZ&hl=en)  
+[Algeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=algeria)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
