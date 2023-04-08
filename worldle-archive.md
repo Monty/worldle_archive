@@ -3012,6 +3012,13 @@ Missing Wayback Machine image, guess using the icon below
 [Guinea map (Google)](https://www.google.com/maps?q=Guinea+GN&hl=en)  
 [Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=guinea)</details>  
 
+[06 Apr 2023](https://web.archive.org/web/20221222170815/https://worldle.teuteuf.fr/)  
+![](images/195.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Slovenia map (Google)](https://www.google.com/maps?q=Slovenia+SI&hl=en)  
+[Slovenia map (amCharts)](https://www.amcharts.com/svg-maps/?map=slovenia)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
