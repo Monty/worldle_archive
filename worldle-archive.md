@@ -3026,6 +3026,13 @@ Missing Wayback Machine image, guess using the icon below
 [Algeria map (Google)](https://www.google.com/maps?q=Algeria+DZ&hl=en)  
 [Algeria map (amCharts)](https://www.amcharts.com/svg-maps/?map=algeria)</details>  
 
+[08 Apr 2023](https://web.archive.org/web/20230408133810/https://worldle.teuteuf.fr/)  
+![](images/214.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Tajikistan map (Google)](https://www.google.com/maps?q=Tajikistan+TJ&hl=en)  
+[Tajikistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=tajikistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
