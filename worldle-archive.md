@@ -3033,6 +3033,13 @@ Missing Wayback Machine image, guess using the icon below
 [Tajikistan map (Google)](https://www.google.com/maps?q=Tajikistan+TJ&hl=en)  
 [Tajikistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=tajikistan)</details>  
 
+[09 Apr 2023](https://web.archive.org/web/20221111062958/https://worldle.teuteuf.fr/)  
+![](images/059.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Denmark map (Google)](https://www.google.com/maps?q=Denmark+DK&hl=en)  
+[Denmark map (amCharts)](https://www.amcharts.com/svg-maps/?map=denmark)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
