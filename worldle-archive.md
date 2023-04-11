@@ -3040,6 +3040,13 @@ Missing Wayback Machine image, guess using the icon below
 [Denmark map (Google)](https://www.google.com/maps?q=Denmark+DK&hl=en)  
 [Denmark map (amCharts)](https://www.amcharts.com/svg-maps/?map=denmark)</details>  
 
+[10 Apr 2023](https://web.archive.org/web/20221020055900/https://worldle.teuteuf.fr/)  
+![](images/092.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Guinea-Bissau map (Google)](https://www.google.com/maps?q=Guinea-Bissau+GW&hl=en)  
+[Guinea-Bissau map (amCharts)](https://www.amcharts.com/svg-maps/?map=guineaBissau)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
