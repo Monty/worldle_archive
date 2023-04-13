@@ -3054,6 +3054,13 @@ Missing Wayback Machine image, guess using the icon below
 [Afghanistan map (Google)](https://www.google.com/maps?q=Afghanistan+AF&hl=en)  
 [Afghanistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=afghanistan)</details>  
 
+[12 Apr 2023](https://web.archive.org/web/20230412230930/https://worldle.teuteuf.fr/)  
+![](images/158.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Niger map (Google)](https://www.google.com/maps?q=Niger+NE&hl=en)  
+[Niger map (amCharts)](https://www.amcharts.com/svg-maps/?map=niger)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
