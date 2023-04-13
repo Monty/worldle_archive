@@ -3047,6 +3047,13 @@ Missing Wayback Machine image, guess using the icon below
 [Guinea-Bissau map (Google)](https://www.google.com/maps?q=Guinea-Bissau+GW&hl=en)  
 [Guinea-Bissau map (amCharts)](https://www.amcharts.com/svg-maps/?map=guineaBissau)</details>  
 
+[11 Apr 2023](https://web.archive.org/web/20230411122637/https://worldle.teuteuf.fr/)  
+![](images/003.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Afghanistan map (Google)](https://www.google.com/maps?q=Afghanistan+AF&hl=en)  
+[Afghanistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=afghanistan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
