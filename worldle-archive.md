@@ -3061,6 +3061,13 @@ Missing Wayback Machine image, guess using the icon below
 [Niger map (Google)](https://www.google.com/maps?q=Niger+NE&hl=en)  
 [Niger map (amCharts)](https://www.amcharts.com/svg-maps/?map=niger)</details>  
 
+[13 Apr 2023](https://web.archive.org/web/20230413152137/https://worldle.teuteuf.fr/)  
+![](images/018.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Barbados map (Google)](https://www.google.com/maps?q=Barbados+BB&hl=en)  
+[Barbados map (amCharts)](https://www.amcharts.com/svg-maps/?map=barbados)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
