@@ -3068,6 +3068,13 @@ Missing Wayback Machine image, guess using the icon below
 [Barbados map (Google)](https://www.google.com/maps?q=Barbados+BB&hl=en)  
 [Barbados map (amCharts)](https://www.amcharts.com/svg-maps/?map=barbados)</details>  
 
+[14 Apr 2023](https://web.archive.org/web/20230414115945/https://worldle.teuteuf.fr/)  
+![](images/169.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Panama map (Google)](https://www.google.com/maps?q=Panama+PA&hl=en)  
+[Panama map (amCharts)](https://www.amcharts.com/svg-maps/?map=panama)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
