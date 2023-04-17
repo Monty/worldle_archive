@@ -3082,6 +3082,13 @@ Missing Wayback Machine image, guess using the icon below
 [Ghana map (Google)](https://www.google.com/maps?q=Ghana+GH&hl=en)  
 [Ghana map (amCharts)](https://www.amcharts.com/svg-maps/?map=ghana)</details>  
 
+[16 Apr 2023](https://web.archive.org/web/20221125030740/https://worldle.teuteuf.fr/)  
+![](images/028.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Brunei map (Google)](https://www.google.com/maps?q=Brunei+BN&hl=en)  
+[Brunei map (amCharts)](https://www.amcharts.com/svg-maps/?map=bruneiDarussalam)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
