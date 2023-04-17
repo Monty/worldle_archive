@@ -3075,6 +3075,13 @@ Missing Wayback Machine image, guess using the icon below
 [Panama map (Google)](https://www.google.com/maps?q=Panama+PA&hl=en)  
 [Panama map (amCharts)](https://www.amcharts.com/svg-maps/?map=panama)</details>  
 
+[15 Apr 2023](https://web.archive.org/web/20230415115754/https://worldle.teuteuf.fr/)  
+![](images/081.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Ghana map (Google)](https://www.google.com/maps?q=Ghana+GH&hl=en)  
+[Ghana map (amCharts)](https://www.amcharts.com/svg-maps/?map=ghana)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
