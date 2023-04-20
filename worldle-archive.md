@@ -3103,6 +3103,13 @@ Missing Wayback Machine image, guess using the icon below
 [Bhutan map (Google)](https://www.google.com/maps?q=Bhutan+BT&hl=en)  
 [Bhutan map (amCharts)](https://www.amcharts.com/svg-maps/?map=bhutan)</details>  
 
+[19 Apr 2023](https://web.archive.org/web/20230419182012/https://worldle.teuteuf.fr/)  
+![](images/187.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Rwanda map (Google)](https://www.google.com/maps?q=Rwanda+RW&hl=en)  
+[Rwanda map (amCharts)](https://www.amcharts.com/svg-maps/?map=rwanda)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
