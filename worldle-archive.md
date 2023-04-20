@@ -3096,6 +3096,13 @@ Missing Wayback Machine image, guess using the icon below
 [Equatorial Guinea map (Google)](https://www.google.com/maps?q=Equatorial+Guinea+GQ&hl=en)  
 [Equatorial Guinea map (amCharts)](https://www.amcharts.com/svg-maps/?map=equatorialGuinea)</details>  
 
+[18 Apr 2023](https://web.archive.org/web/20230418214202/https://worldle.teuteuf.fr/)  
+![](images/033.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Bhutan map (Google)](https://www.google.com/maps?q=Bhutan+BT&hl=en)  
+[Bhutan map (amCharts)](https://www.amcharts.com/svg-maps/?map=bhutan)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
