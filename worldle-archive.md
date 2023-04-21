@@ -3110,6 +3110,13 @@ Missing Wayback Machine image, guess using the icon below
 [Rwanda map (Google)](https://www.google.com/maps?q=Rwanda+RW&hl=en)  
 [Rwanda map (amCharts)](https://www.amcharts.com/svg-maps/?map=rwanda)</details>  
 
+[20 Apr 2023](https://web.archive.org/web/20230420114542/https://worldle.teuteuf.fr/)  
+![](images/119.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[North Korea map (Google)](https://www.google.com/maps?q=North+Korea+KP&hl=en)  
+[North Korea map (amCharts)](https://www.amcharts.com/svg-maps/?map=northKorea)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
