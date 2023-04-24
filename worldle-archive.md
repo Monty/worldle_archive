@@ -3124,6 +3124,13 @@ Missing Wayback Machine image, guess using the icon below
 [Nicaragua map (Google)](https://www.google.com/maps?q=Nicaragua+NI&hl=en)  
 [Nicaragua map (amCharts)](https://www.amcharts.com/svg-maps/?map=nicaragua)</details>  
 
+[22 Apr 2023](https://web.archive.org/web/20230422165529/https://worldle.teuteuf.fr/)  
+![](images/135.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Morocco map (Google)](https://www.google.com/maps?q=Morocco+MA&hl=en)  
+[Morocco map (amCharts)](https://www.amcharts.com/svg-maps/?map=morocco)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
