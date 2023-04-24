@@ -3131,6 +3131,13 @@ Missing Wayback Machine image, guess using the icon below
 [Morocco map (Google)](https://www.google.com/maps?q=Morocco+MA&hl=en)  
 [Morocco map (amCharts)](https://www.amcharts.com/svg-maps/?map=morocco)</details>  
 
+[23 Apr 2023](https://web.archive.org/web/20230113075344/https://worldle.teuteuf.fr/)  
+![](images/173.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Philippines map (Google)](https://www.google.com/maps?q=Philippines+PH&hl=en)  
+[Philippines map (amCharts)](https://www.amcharts.com/svg-maps/?map=philippines)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
