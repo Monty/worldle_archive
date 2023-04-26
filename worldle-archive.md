@@ -3145,6 +3145,13 @@ Missing Wayback Machine image, guess using the icon below
 [Chad map (Google)](https://www.google.com/maps?q=Chad+TD&hl=en)  
 [Chad map (amCharts)](https://www.amcharts.com/svg-maps/?map=chad)</details>  
 
+[25 Apr 2023](https://web.archive.org/web/20230425161535/https://worldle.teuteuf.fr/)  
+![](images/001.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Andorra map (Google)](https://www.google.com/maps?q=Andorra+AD&hl=en)  
+[Andorra map (amCharts)](https://www.amcharts.com/svg-maps/?map=andorra)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
