@@ -3152,6 +3152,13 @@ Missing Wayback Machine image, guess using the icon below
 [Andorra map (Google)](https://www.google.com/maps?q=Andorra+AD&hl=en)  
 [Andorra map (amCharts)](https://www.amcharts.com/svg-maps/?map=andorra)</details>  
 
+[26 Apr 2023](https://web.archive.org/web/20230426143430/https://worldle.teuteuf.fr/)  
+![](images/041.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Central African Republic map (Google)](https://www.google.com/maps?q=Central+African+Republic+CF&hl=en)  
+[Central African Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=centralAfricanRepublic)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
