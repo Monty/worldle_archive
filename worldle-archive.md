@@ -3159,6 +3159,13 @@ Missing Wayback Machine image, guess using the icon below
 [Central African Republic map (Google)](https://www.google.com/maps?q=Central+African+Republic+CF&hl=en)  
 [Central African Republic map (amCharts)](https://www.amcharts.com/svg-maps/?map=centralAfricanRepublic)</details>  
 
+[27 Apr 2023](https://web.archive.org/web/20230427131752/https://worldle.teuteuf.fr/)  
+![](images/076.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[United Kingdom map (Google)](https://www.google.com/maps?q=United+Kingdom+GB&hl=en)  
+[United Kingdom map (amCharts)](https://www.amcharts.com/svg-maps/?map=unitedKingdom)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
