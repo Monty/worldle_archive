@@ -3173,6 +3173,13 @@ Missing Wayback Machine image, guess using the icon below
 [Pakistan map (Google)](https://www.google.com/maps?q=Pakistan+PK&hl=en)  
 [Pakistan map (amCharts)](https://www.amcharts.com/svg-maps/?map=pakistan)</details>  
 
+[29 Apr 2023](https://web.archive.org/web/20230429143207/https://worldle.teuteuf.fr/)  
+![](images/142.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Mali map (Google)](https://www.google.com/maps?q=Mali+ML&hl=en)  
+[Mali map (amCharts)](https://www.amcharts.com/svg-maps/?map=mali)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
