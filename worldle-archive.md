@@ -3180,6 +3180,13 @@ Missing Wayback Machine image, guess using the icon below
 [Mali map (Google)](https://www.google.com/maps?q=Mali+ML&hl=en)  
 [Mali map (amCharts)](https://www.amcharts.com/svg-maps/?map=mali)</details>  
 
+[01 May 2023](https://web.archive.org/web/20221205171110/https://worldle.teuteuf.fr/)  
+![](images/037.svg)  
+<details><summary><b>Show answer</b></summary>
+
+[Belize map (Google)](https://www.google.com/maps?q=Belize+BZ&hl=en)  
+[Belize map (amCharts)](https://www.amcharts.com/svg-maps/?map=belize)</details>  
+
 # Images for all 242 countries
 from [Mapsicon](https://github.com/djaiss/mapsicon)
 
